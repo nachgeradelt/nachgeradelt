@@ -42,6 +42,7 @@ def write_into_csv(cities):
         writer = csv.writer(f, delimiter=',', quotechar='"',
                             quoting=csv.QUOTE_MINIMAL, lineterminator='\n')
         writer.writerow(['city', 'lon', 'lat'])
+        cities.sort(key=lambda k: k['city'])
         for item in cities:
             if 'lat' in item:
                 writer.writerow([item['city'], item['lon'], item['lat']])
