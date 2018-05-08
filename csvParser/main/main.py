@@ -3,11 +3,14 @@ Created on Apr 28, 2018
 
 @author: iranox
 '''
-
 import csv
 import requests
 
 def parse_csv():
+    """
+    Liest die Datei tourenverzeichnis.csv und speichert alle Staedte in eine Menge.
+    Pfad ist hard gecodet.
+    """
     reader = csv.DictReader(open('../../tourenverzeichnis.csv', 'rb'),
                             skipinitialspace=True,delimiter = ',', quotechar = '"', )
     allCities = set()
@@ -26,11 +29,18 @@ def parse_csv():
 
 
 def get_city_gps(cities):
+    """
+    Die Funktion sucht für die Staedtenamen die entsprechende GPS-Koordinaten raus.
+    Dazu nutzt es den Service nominatim.openstreetmap.org. Dabei ist zu beachten,
+    dass er immer nur den ersten Treffer nimmt, was bei mehrdeutigen Staedtenamen
+    falsche Treffer erzeugen kann. Bei zu vielen Anfragen blockiert der Service die
+    IP temporaer.
+    """
     cities_with_gps = []
     for city in cities:
         print("Search for " + city)
         city_gps_json = requests.get(url="https://nominatim.openstreetmap.org/search/de/%20"
-                                 +city+"?format=json&limit=1&addressdetails=1").json() 
+                                 +city+"?format=json&limit=1&addressdetails=1").json()
         if len(city_gps_json) is not 0 and city_gps_json[0]['address']['country'] in "Deutschland" :
             cities_with_gps.append({'city':city,"lon":city_gps_json[0]['lon'],
                                     "lat":city_gps_json[0]["lat"]})
@@ -38,6 +48,12 @@ def get_city_gps(cities):
 
 
 def write_into_csv(cities):
+        """
+        Die Staedte werden den Namen nach sotiert und in eine CSV-Datei
+        geschrieben. Die Datei hat den Aufbau:
+        city,lon, lat
+        Pfad ist hard gecodet.
+        """
     with open('../../gps.csv', 'w') as f:
         writer = csv.writer(f, delimiter=',', quotechar='"',
                             quoting=csv.QUOTE_MINIMAL, lineterminator='\n')
