@@ -30,7 +30,7 @@ def parse_csv():
 
 def get_city_gps(cities):
     """
-    Die Funktion sucht für die Staedtenamen die entsprechende GPS-Koordinaten raus.
+    Die Funktion sucht fuer die Staedtenamen die entsprechende GPS-Koordinaten raus.
     Dazu nutzt es den Service nominatim.openstreetmap.org. Dabei ist zu beachten,
     dass er immer nur den ersten Treffer nimmt, was bei mehrdeutigen Staedtenamen
     falsche Treffer erzeugen kann. Bei zu vielen Anfragen blockiert der Service die
@@ -48,12 +48,11 @@ def get_city_gps(cities):
 
 
 def write_into_csv(cities):
-        """
-        Die Staedte werden den Namen nach sotiert und in eine CSV-Datei
-        geschrieben. Die Datei hat den Aufbau:
+    """
+        Die Staedte werden den Namen nach sotiert und in eine CSV-Datei geschrieben. Die Datei hat den Aufbau:
         city,lon, lat
-        Pfad ist hard gecodet.
-        """
+         Pfad ist hard gecodet.
+    """
     with open('../../gps.csv', 'w') as f:
         writer = csv.writer(f, delimiter=',', quotechar='"',
                             quoting=csv.QUOTE_MINIMAL, lineterminator='\n')
