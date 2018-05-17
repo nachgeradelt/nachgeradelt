@@ -1,0 +1,6 @@
+databaseconfig :
+    host : localhost
+    database: radfahrerwissen
+    user: root
+    password: password
+    port: 3306

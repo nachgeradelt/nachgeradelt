@@ -6,6 +6,7 @@ Created on May 10, 2018
 
 from mysql.connector import (connection)
 from database.Queries.Insert import INSERT
+import yaml
 
 class QueryManager(object):
     '''
@@ -28,23 +29,45 @@ class QueryManager(object):
         except connection.errors as err:
             print(err)
             exit(1)
+            
+    def readTable(self,cursor,query):
+        try: 
+            cursor.execute(query)
+            rowlist = {}
+            for rows in cursor.fetchall() :
+                rowlist[rows[1]] = rows[0]
+            return rowlist
+        except connection.errors as err:
+            print(err)
+            exit(1)   
+    
 
 class DatabaseManager():
     
-    def __init__(self, user='root', password='password',host='127.0.0.1',
-                                     database='radfahrerwissen'):
-        self._user = user
-        self._password = password
-        self._host = host
-        self._database = database
+    def __init__(self,configfile):
+        if configfile is not None:
+            with open(configfile, 'r') as ymlfile:
+                cfg = yaml.load(ymlfile)
+            config = cfg['databaseconfig']
+            self._host = config['host']
+            self._database = config['database']
+            self._user = config['user']
+            self._password = config['password']
+            
         self._query_mangager = QueryManager()
-    
+        
     def createTables(self,tables):
         cnx = connection.MySQLConnection(user=self._user, password=self._password,host=self._host,
                                      database=self._database)
         self._query_mangager.createTables(cnx.cursor(), tables)
         cnx.close()
     
+    def readTable(self,query):
+        cnx = connection.MySQLConnection(user=self._user, password=self._password,host=self._host,
+                                     database=self._database)
+        return self._query_mangager.readTable(cnx.cursor(), query)
+        
+              
     def insertTableSimple(self,data,table):
         insertquery = INSERT[table]
         cnx = connection.MySQLConnection(user=self._user, password=self._password,host=self._host,
@@ -54,4 +77,3 @@ class DatabaseManager():
         
         cnx.commit()
         cnx.close()
-        
