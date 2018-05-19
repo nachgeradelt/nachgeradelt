@@ -39,12 +39,24 @@ class QueryManager(object):
             return rowlist
         except connection.errors as err:
             print(err)
-            exit(1)   
+            exit(1)
+    
+    def readSimpleTable(self,cursor,query, data = None):
+        try: 
+            if data is not None:
+                cursor.execute(query,data)
+            else:
+                cursor.execute(query)
+            return cursor.fetchall()
+        except connection.errors as err:
+            print(err)
+            exit(1)      
+        
     
 
 class DatabaseManager():
     
-    def __init__(self,configfile):
+    def __init__(self,configfile,host=None,database=None,user=None,password=None):
         if configfile is not None:
             with open(configfile, 'r') as ymlfile:
                 cfg = yaml.load(ymlfile)
@@ -53,6 +65,12 @@ class DatabaseManager():
             self._database = config['database']
             self._user = config['user']
             self._password = config['password']
+        else: 
+            self._host = host
+            self._database = database
+            self._user = user
+            self._password = password
+            
             
         self._query_mangager = QueryManager()
         
@@ -66,6 +84,15 @@ class DatabaseManager():
         cnx = connection.MySQLConnection(user=self._user, password=self._password,host=self._host,
                                      database=self._database)
         return self._query_mangager.readTable(cnx.cursor(), query)
+    
+    def readSimpleTable(self,query, data=None):
+        cnx = connection.MySQLConnection(user=self._user, password=self._password,host=self._host,
+                                     database=self._database)
+        if data is not None:
+            return self._query_mangager.readSimpleTable(cnx.cursor(), query,data)
+        else:
+            return self._query_mangager.readSimpleTable(cnx.cursor(), query)
+    
         
               
     def insertTableSimple(self,data,table):
