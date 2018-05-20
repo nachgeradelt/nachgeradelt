@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    <h1>Radfahrerwissen</h1>
     <img src="./assets/logo.jpg">
     <div>
       <router-link v-bind:to="'/'">Toursuche</router-link>
@@ -20,10 +21,7 @@ export default {
 <style>
 #app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
 }
 </style>
