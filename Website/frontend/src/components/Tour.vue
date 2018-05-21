@@ -1,10 +1,11 @@
 <template>
-  <div class="container">
+  <div class="container tour">
     <div class="row">
       <div class="col-md-3">
         <h2>Abfahrt</h2>
         <select>
           <option value="">Start</option>
+          <option value="">Leipzig</option>
         </select>
 
         <h2>Distanz</h2>
@@ -12,6 +13,8 @@
         <h2>Ziel</h2>
         <select>
           <option value="">Ziel</option>
+          <option value="">Dessau</option>
+          <option value="">Werdau</option>
         </select>
 
         <h2>{{ tours }}</h2>
@@ -63,5 +66,13 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
-
+.tour h2 {
+  margin-top: 1em;
+}
+.tour ul {
+   list-style-type: none;
+}
+.tour a {
+  color: #000;
+}
 </style>
