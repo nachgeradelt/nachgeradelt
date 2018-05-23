@@ -5,6 +5,7 @@ Created on May 10, 2018
 '''
 from databasemanager.DatabaseManager import  DatabaseManager
 from database.Queries.Tables import TABLES
+from database.Queries.Insert import INSERT
 import csv
 
 def getAllDataFromCSV(file="",rows=[]):
@@ -21,13 +22,13 @@ def getAllDataFromCSV(file="",rows=[]):
 
 if __name__ == '__main__':
     default = -1
-    cnx = DatabaseManager(configfile="../config.yml")
+    cnx = DatabaseManager(configfile="config.yml")
     cnx.createTables(TABLES)
-    allData = getAllDataFromCSV(file="../../../tourenverzeichnis.csv",                                         
+    allData = getAllDataFromCSV(file="../../tourenverzeichnis.csv",
                             rows = ["Start","Über1","Über2","Über3","Über4","Über5","Über6","Über7","Über8","Ziel",
                                     "Länge in km","Verlinkung zum Fahrtenbuch","Erscheinungsjahr"])
-    cnx.insertTableSimple(data=getAllDataFromCSV(file="../../../gps.csv",rows = ["city","lat","lon"]),table="city")
-    cnx.insertTableSimple(data=getAllDataFromCSV(file="../../../zitatsammlung.csv",
+    cnx.insertTableSimple(data=getAllDataFromCSV(file="../../gps.csv",rows = ["city","lat","lon"]),table="city")
+    cnx.insertTableSimple(data=getAllDataFromCSV(file="../../zitatsammlung.csv",
                                                  rows = ["Zitat","Kategorie","Quelle/Buchtitel","Person","Jahr","Link"]),
                                                  table="quotes")
     rows = cnx.readTable(query="Select id, name from city")
