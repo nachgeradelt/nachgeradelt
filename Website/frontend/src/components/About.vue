@@ -14,7 +14,8 @@ export default {
 <!-- styling for the component -->
 <style>
 #about {
-  color: #2c3e50;
+  font-size: 20px;
   margin-top: 60px;
+  padding: 0 10em;
 }
 </style>

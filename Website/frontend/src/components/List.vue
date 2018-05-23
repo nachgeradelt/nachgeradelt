@@ -1,6 +1,10 @@
 <template>
   <div id="list">
-  Liste der Touren
+  <h2>Liste der Touren</h2>
+  <div class="tours">
+    Leipzig Dessau Wörlitz Gräfenhainichen Leipzig 113.6 km<br>
+    Leipzig Zwenkau Lobstädt Altenburg Crimmitschau Werdau Greiz Elsterberg Plauen Hof 150 km
+  </div>
   </div>
 </template>
 
@@ -18,5 +22,9 @@ export default {
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
+}
+.tours {
+  padding-left: 15em;
+  text-align: left;
 }
 </style>

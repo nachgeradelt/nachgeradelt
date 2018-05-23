@@ -1,6 +1,6 @@
 <template>
   <div id="contact">
-    <a href="https://twitter.com/radfahrerwissen" target="_blank">Twitter</a>
+    Schreib uns auf <a href="https://twitter.com/radfahrerwissen" target="_blank">Twitter</a>
   </div>
 </template>
 
@@ -12,11 +12,8 @@ export default {
 <!-- styling for the component -->
 <style>
 #contact {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #2c3e50;
+  font-size: 20px;
   margin-top: 60px;
 }
 </style>

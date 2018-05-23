@@ -27,7 +27,6 @@ export default {
 /* Add a black background color to the top navigation */
 .topnav {
     margin: 2em 0;
-    overflow: hidden;
 }
 
 /* Style the links inside the navigation bar */
@@ -35,7 +34,7 @@ export default {
     color: #000;
     text-align: center;
     text-decoration: none;
-    font-size: 17px;
+    font-size: 20px;
     padding: 1em;
 }
 
