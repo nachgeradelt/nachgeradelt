@@ -95,12 +95,10 @@ class DatabaseManager():
 
 
 
-    def insertTableSimple(self,data,table):
-        insertquery = INSERT[table]
+    def insertTableSimple(self,data,query):
         cnx = connection.MySQLConnection(user=self._user, password=self._password,host=self._host,
                                      database=self._database)
         for rows in data:
-            self._query_mangager.insertTable(cnx.cursor(), rows, insertquery)
-
+            self._query_mangager.insertTable(cnx.cursor(), rows, query)
         cnx.commit()
         cnx.close()
