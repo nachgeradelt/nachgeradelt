@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 '''
 Created on May 10, 2018
 
@@ -5,7 +6,6 @@ Created on May 10, 2018
 '''
 
 from mysql.connector import (connection)
-from database.Queries.Insert import INSERT
 import yaml
 
 class QueryManager(object):
