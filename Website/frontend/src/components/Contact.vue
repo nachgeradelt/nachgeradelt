@@ -1,6 +1,10 @@
 <template>
-  <div id="contact">
-    Schreib uns auf <a href="https://twitter.com/radfahrerwissen" target="_blank">Twitter</a>
+  <div class="container contact">
+    <div class="row">
+      <div class="col-md-12">
+        <p>Schreib uns auf <a href="https://twitter.com/radfahrerwissen" target="_blank">Twitter</a></p>
+      </div>
+    </div>
   </div>
 </template>
 

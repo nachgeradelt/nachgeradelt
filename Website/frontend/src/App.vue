@@ -1,15 +1,30 @@
 <template>
-  <div id="app">
+<div id="app">
+  <div class="content">
     <h1>Radfahrerwissen</h1>
-    <img src="./assets/logo.jpg">
-    <div class="topnav">
-      <router-link v-bind:to="'/'">Toursuche</router-link>
-      <router-link v-bind:to="'/list'">Tourenliste</router-link>
-      <router-link v-bind:to="'/about'">Über uns</router-link>
-      <router-link v-bind:to="'/contact'">Kontakt</router-link>
-    </div>
     <router-view/>
   </div>
+
+  <footer class="footer">
+    <div class="banner"></div>
+    <ul class="list-unstyled quick-links">
+      <li>
+        <router-link v-bind:to="'/'"><i class="fa fa-angle-double-right"></i>Toursuche</router-link>
+      </li>
+      <li>
+        <router-link v-bind:to="'/about'"><i class="fa fa-angle-double-right"></i>Über uns</router-link>
+      </li>
+      <li>
+        <router-link v-bind:to="'/contact'"><i class="fa fa-angle-double-right"></i>Kontakt</router-link>
+      </li>
+    </ul>
+    <ul class="list-unstyled list-inline social text-center">
+      <li class="list-inline-item"><a href="https://twitter.com/radfahrerwissen"><i class="fa fa-twitter"></i></a></li>
+      <li class="list-inline-item"><a href="https://github.com/jnauber/radfahrerwissen"><i class="fa fa-github"></i></a></li>
+      <li class="list-inline-item"><a href="mailto:m.mustermann@domain.de" target="_blank"><i class="fa fa-envelope"></i></a></li>
+    </ul>
+  </footer>
+</div>
 </template>
 
 <script>
@@ -19,37 +34,110 @@ export default {
 </script>
 
 <style>
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+html,
+body {
+  height: 100%;
+}
+
 #app {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   text-align: center;
-  color: #2c3e50;
-}
-/* Add a black background color to the top navigation */
-.topnav {
-    margin: 2em 0;
 }
 
-/* Style the links inside the navigation bar */
-.topnav a {
-    color: #000;
-    text-align: center;
-    text-decoration: none;
-    font-size: 20px;
-    padding: 1em;
+.content {
+  flex: 1 0 auto;
+  padding: 20px;
 }
 
-.topnav a:not(:last-child) {
-    margin-right: 10em;
-  }
-
-/* Change the color of links on hover */
-.topnav a:hover {
-    background-color: orange;
+.footer {
+  flex-shrink: 0;
 }
 
-/* Add a color to the active/current link */
-.topnav a.router-link-exact-active {
-    background-color: orange;
+* {
+  box-sizing: border-box;
 }
 
+body {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  margin: 0 0 20px 0;
+}
+
+p {
+  margin: 0 0 20px 0;
+}
+
+.banner {
+  background: transparent url("./assets/logo_banner.jpg") repeat scroll 0% 0%;
+  width: 100%;
+  height: 50px;
+}
+
+/* Footer */
+
+footer {
+  background: #007b5e !important;
+}
+
+footer a {
+  color: #ffffff;
+  text-decoration: none !important;
+  background-color: transparent;
+  -webkit-text-decoration-skip: objects;
+}
+
+footer ul.social li {
+  padding: 3px 0;
+}
+
+footer ul.social li a i {
+  margin-right: 5px;
+  font-size: 25px;
+  -webkit-transition: .5s all ease;
+  -moz-transition: .5s all ease;
+  transition: .5s all ease;
+}
+
+footer ul.social li:hover a i {
+  font-size: 30px;
+  margin-top: -10px;
+}
+
+footer ul.social li a,
+footer ul.quick-links li a {
+  color: #ffffff;
+}
+
+footer ul.social li a:hover {
+  color: #eeeeee;
+}
+
+footer ul.quick-links li {
+  padding: 5px 5px;
+  -webkit-transition: .5s all ease;
+  -moz-transition: .5s all ease;
+  transition: .5s all ease;
+  display: inline-block;
+}
+
+footer ul.quick-links li:hover {
+  padding: 3px 0;
+  margin-left: 5px;
+  font-weight: 700;
+}
+
+footer ul.quick-links li a i {
+  margin-right: 5px;
+}
+
+footer ul.quick-links li:hover a i {
+  font-weight: 700;
+}
 </style>

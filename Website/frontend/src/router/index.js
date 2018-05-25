@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import Router from 'vue-router'
 import Tour from '@/components/Tour'
-import List from '@/components/List'
+import Detail from '@/components/Detail'
 import About from '@/components/About'
 import Contact from '@/components/Contact'
 
@@ -14,8 +14,8 @@ export default new Router({
       component: Tour
     },
     {
-      path: '/list',
-      component: List
+      path: '/detail',
+      component: Detail
     },
     {
       path: '/about',
