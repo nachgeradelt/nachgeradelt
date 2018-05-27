@@ -36,13 +36,13 @@
       <h3>Touren</h3>
       <ul>
         <li>
-          <a href="/detail">Tour 1</a>
+          <router-link v-bind:to="'/detail'">Details zur Route 1</router-link>
         </li>
         <li>
-          <a href="/detail">Tour 2</a>
+          <router-link v-bind:to="'/detail'">Details zur Route 2</router-link>
         </li>
         <li>
-          <a href="/detail">Tour 3</a>
+          <router-link v-bind:to="'/detail'">Details zur Route 3</router-link>
         </li>
       </ul>
     </div>
@@ -51,6 +51,7 @@
 </template>
 
 <script>
+import Vue from 'vue'
 import {
   LMap,
   LTileLayer,
@@ -60,6 +61,13 @@ import {
 } from 'vue2-leaflet'
 import vueSlider from 'vue-slider-component'
 import axios from 'axios'
+import PopupContent from './TourPopup'
+
+function onEachFeature (feature, layer) {
+  let popupContent = Vue.extend(PopupContent)
+  let popup = new popupContent()
+  layer.bindPopup(popup.$mount().$el)
+}
 
 export default {
   name: 'Tour',
@@ -100,7 +108,8 @@ export default {
             fillColor: '007bff',
             fillOpacity: 1
           }
-        }
+        },
+        onEachFeature: onEachFeature
       }
     }
   },
