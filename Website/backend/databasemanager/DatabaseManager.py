@@ -9,44 +9,6 @@ from mysql.connector import (connection)
 from flask.json import jsonify
 import yaml
 
-class QueryManager(object):
-    '''
-    classdocs
-    '''
-
-    def __init__(self):
-        pass
-
-
-    def insertTable(self,cursor,data,query):
-        try: cursor.execute(query,data)
-        except connection.errors as err:
-            print(err)
-            exit(1)
-
-    def readTable(self,cursor,query):
-        try:
-            cursor.execute(query)
-            rowlist = {}
-            for rows in cursor.fetchall() :
-                rowlist[rows[1]] = rows[0]
-            return rowlist
-        except connection.errors as err:
-            print(err)
-            exit(1)
-
-    def readSimpleTable(self,cursor,query, data = None):
-        try:
-            if data is not None:
-                cursor.execute(query,data)
-            else:
-                cursor.execute(query)
-            return cursor.fetchall()
-        except connection.errors as err:
-            print(err)
-            exit(1)
-
-
 
 class DatabaseManager():
 
@@ -65,9 +27,6 @@ class DatabaseManager():
             self._user = user
             self._password = password
 
-
-        self._query_mangager = QueryManager()
-
     def createTables(self,tables):
         cnx = connection.MySQLConnection(user=self._user, password=self._password,host=self._host,
                                      database=self._database)
@@ -84,7 +43,16 @@ class DatabaseManager():
     def readTable(self,query):
         cnx = connection.MySQLConnection(user=self._user, password=self._password,host=self._host,
                                      database=self._database)
-        return self._query_mangager.readTable(cnx.cursor(), query)
+        cursor = cnx.cursor()
+        try:
+            cursor.execute(query)
+            rowlist = {}
+            for rows in cursor.fetchall() :
+                rowlist[rows[1]] = rows[0]
+            return rowlist
+        except connection.errors as err:
+            print(err)
+            exit(1)
     
     def readTableAsJson(self,query,data = None):
         cnx = connection.MySQLConnection(user=self._user, password=self._password,host=self._host,
@@ -94,7 +62,6 @@ class DatabaseManager():
         if data is None:
             cursor.execute(query)
         else:
-            print(data)
             cursor.execute(query,data)
         rv = cursor.fetchall()
         row_headers=[x[0] for x in cursor.description]
@@ -102,22 +69,18 @@ class DatabaseManager():
         for result in rv:
             json_data.append(dict(zip(row_headers,result)))
         return jsonify(json_data)
-        
-
-    def readSimpleTable(self,query, data=None):
-        cnx = connection.MySQLConnection(user=self._user, password=self._password,host=self._host,
-                                     database=self._database)
-        if data is not None:
-            return self._query_mangager.readSimpleTable(cnx.cursor(), query,data)
-        else:
-            return self._query_mangager.readSimpleTable(cnx.cursor(), query)
-
+    
 
 
     def insertTableSimple(self,data,query):
         cnx = connection.MySQLConnection(user=self._user, password=self._password,host=self._host,
                                      database=self._database)
-        for rows in data:
-            self._query_mangager.insertTable(cnx.cursor(), rows, query)
+        
+        cursor = cnx.cursor()
+        for row in data:
+            try: cursor.execute(query,row)
+            except connection.errors as err:
+                print(err)
+                exit(1)
         cnx.commit()
         cnx.close()
