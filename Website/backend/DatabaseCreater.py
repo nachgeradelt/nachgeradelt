@@ -8,6 +8,7 @@ from databasemanager.DatabaseManager import  DatabaseManager
 from database.Queries.Tables import TABLES
 import csv
 from database.Queries.Insert import INSERT
+from database.Queries.Indexe import Indexe
 
 def getAllDataFromCSV(file="",rows=[]):
     reader = csv.DictReader(open(file, 'r'),
@@ -23,7 +24,9 @@ def getAllDataFromCSV(file="",rows=[]):
 
 if __name__ == '__main__':
     cnx = DatabaseManager(configfile="config.yml")
+    print("Create Tables")
     cnx.createTables(TABLES)
+    print("Insert Tables")
     cnx.insertTableSimple(data=getAllDataFromCSV(file="../../zitatsammlung.csv",
                                                  rows = ["Zitat","Kategorie","Quelle/Buchtitel","Person","Jahr","Link"]),
                                                  query=INSERT["quotes"])
@@ -35,7 +38,7 @@ if __name__ == '__main__':
     cnx.insertTableSimple(cityname,query= INSERT["waypoints"])
     allData = getAllDataFromCSV(file="../../tourenverzeichnis.csv",
                             rows = ["Start","Über1","Über2","Über3","Über4","Über5","Über6","Über7","Über8","Ziel",
-                                    "Länge in km","Verlinkung zum Fahrtenbuch","Erscheinungsjahr"])
+                                    "Länge in km","Verlinkung zum Fahrtenbuch","Erscheinungsjahr"]) 
     allTours = []
     city_rows = cnx.readTable(query="Select id, name from waypoints")
     waypoints_tour = []
@@ -79,3 +82,5 @@ if __name__ == '__main__':
         tourid += 1
     cnx.insertTableSimple(data=allTours, query=INSERT['tour'])
     cnx.insertTableSimple(data=waypoints_tour, query=INSERT['tour_waypoints'])
+    print("Create Indexe")
+    cnx.createTables(Indexe)
