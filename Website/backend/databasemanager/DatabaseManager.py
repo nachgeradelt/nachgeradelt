@@ -6,6 +6,7 @@ Created on May 10, 2018
 '''
 
 from mysql.connector import (connection)
+from flask.json import jsonify
 import yaml
 
 class QueryManager(object):
@@ -16,13 +17,6 @@ class QueryManager(object):
     def __init__(self):
         pass
 
-    def createTables(self,cursor,tables):
-        try:
-            for table in tables:
-                cursor.execute(tables[table])
-        except connection.errors as err:
-            print(err)
-            exit(1)
 
     def insertTable(self,cursor,data,query):
         try: cursor.execute(query,data)
@@ -77,13 +71,38 @@ class DatabaseManager():
     def createTables(self,tables):
         cnx = connection.MySQLConnection(user=self._user, password=self._password,host=self._host,
                                      database=self._database)
-        self._query_mangager.createTables(cnx.cursor(), tables)
+        coursor = cnx.cursor()
+        try:
+            for table in tables:
+                coursor.execute(tables[table])
+        except connection.errors as err:
+            print(err)
+            exit(1)
+            
         cnx.close()
 
     def readTable(self,query):
         cnx = connection.MySQLConnection(user=self._user, password=self._password,host=self._host,
                                      database=self._database)
         return self._query_mangager.readTable(cnx.cursor(), query)
+    
+    def readTableAsJson(self,query,data = None):
+        cnx = connection.MySQLConnection(user=self._user, password=self._password,host=self._host,
+                                     database=self._database)
+        
+        cursor = cnx.cursor()
+        if data is None:
+            cursor.execute(query)
+        else:
+            print(data)
+            cursor.execute(query,data)
+        rv = cursor.fetchall()
+        row_headers=[x[0] for x in cursor.description]
+        json_data=[]
+        for result in rv:
+            json_data.append(dict(zip(row_headers,result)))
+        return jsonify(json_data)
+        
 
     def readSimpleTable(self,query, data=None):
         cnx = connection.MySQLConnection(user=self._user, password=self._password,host=self._host,

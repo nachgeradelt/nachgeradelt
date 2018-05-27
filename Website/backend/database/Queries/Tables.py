@@ -17,7 +17,7 @@ TABLES['tour'] = ("CREATE TABLE IF NOT EXISTS `tour` ( `id` int(11) NOT NULL AUT
     "`name` varchar(100) NOT NULL,"
     " `quelle` varchar(100),"
     " `description` text,"
-    " `length` int(10),"
+    " `length` float(10),"
     " `link` text,"
     " `year` int(4),"
     "  PRIMARY KEY (`id`)"
