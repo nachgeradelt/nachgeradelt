@@ -30,6 +30,5 @@ export default new Router({
       path: '/popup',
       component: TourPopup
     }
-  ],
-  mode: 'history'
+  ]
 })
