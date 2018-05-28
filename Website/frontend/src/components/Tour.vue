@@ -13,7 +13,9 @@
     </l-map>
   </div>
   <div class="menu">
-    <button class="btn btn-outline-primary" @click="showFilter = !showFilter"><i class="fa fa-filter"></i> Filter</button>
+    <div class="filter-switch">
+      <button class="btn btn-primary" @click="showFilter = !showFilter"><i class="fa fa-filter"></i> Filter</button>
+    </div>
     <div class="filter" v-show="showFilter">
       <h3>Abfahrt</h3>
       <select>
@@ -141,7 +143,8 @@ export default {
 
 .map {
   flex: 1 0 auto;
-  z-index: 0;
+  z-index: 1;
+  max-width: 100%;
 }
 
 .slider {
@@ -149,11 +152,18 @@ export default {
 }
 
 .menu {
-  position: absolute;
-  left: 0.7em;
-  top: 2.8em;
-  width: 10%;
-  height: 20px;
+  height: calc(100% - 50px);
+  width: 300px;
+  margin-left: -350px;
+  position: relative;
+  float: right;
+  z-index: 2;
+  pointer-events: auto;
+}
+
+.filter-switch {
+    margin-top: 2%;
+    height: 10%;
 }
 
 .tour ul {
@@ -166,17 +176,12 @@ export default {
 }
 
 .filter {
-  position: absolute;
-  left: 1.5em;
-  top: 8em;
+  height: 85%;
   background: rgba(255, 255, 255, .5);
-  width: 300px;
-  height: 500px;
-  padding: 1em;
+  padding: 0 1em;
 }
 
 h3 {
-  margin-top: 1em;
 }
 
 select {
