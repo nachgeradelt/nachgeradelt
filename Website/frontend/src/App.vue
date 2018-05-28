@@ -1,7 +1,7 @@
 <template>
 <div id="app">
   <div class="content">
-    <h1>Radfahrerwissen</h1>
+    <h1>nachgeradelt</h1>
     <router-view/>
   </div>
 

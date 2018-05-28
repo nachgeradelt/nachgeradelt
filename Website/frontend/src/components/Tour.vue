@@ -153,8 +153,8 @@ export default {
 
 .menu {
   height: calc(100% - 50px);
-  width: 300px;
-  margin-left: -350px;
+  width: 250px;
+  margin-left: -260px;
   position: relative;
   float: right;
   z-index: 2;
