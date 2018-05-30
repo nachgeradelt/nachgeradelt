@@ -4,3 +4,7 @@ databaseconfig :
     user: root
     password: password
     port: 3306
+backend:
+    host: localhost
+    port: 5000
+    debug: True

@@ -4,6 +4,7 @@ from databasemanager.DatabaseManager import DatabaseManager
 from api.queries.readqueries import SELECTS
 from flask import request
 from flasgger import Swagger
+import yaml
 
 
 app = Flask(__name__)
@@ -11,7 +12,7 @@ app = Flask(__name__)
 datamanger = DatabaseManager(configfile=None, host="localhost", database="radfahrerwissen",
                                            user="root", password="password")
 
-configfile = "../config.yml"
+configfile = "config.yml"
 
 @app.route("/v1/city")
 def getAllCities():
@@ -48,7 +49,7 @@ def getAllTours():
     if request.args.get("start")  is not None:
         if len(request.args) > 1:
             start = {'start':request.args.get("start"),"end":request.args.get("target")}
-            return   datamanger.readTableAsJson(query=SELECTS['tourStartEnd'],data=start)  
+            return   datamanger.readTableAsJson(query=SELECTS['tourStartEnd'],data=start)
         start = {'start':request.args.get("start")}
         return datamanger.readTableAsJson(query=SELECTS['tourStart'],data=start)
     return datamanger.readTableAsJson(query=SELECTS['allTours'])
@@ -118,4 +119,7 @@ def getAllQoutes():
 swag = Swagger(app)
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    with open(configfile, 'r') as ymlfile:
+        cfg = yaml.load(ymlfile)
+        config = cfg['backend']
+    app.run(debug=config['debug'],host=config['host'],port=config['port'])
