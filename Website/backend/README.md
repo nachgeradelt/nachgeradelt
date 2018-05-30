@@ -38,6 +38,6 @@ backend:
 # install dependencies
 pip install -r requirements.txt
 
-# Runa at localhost:5000 in background
+# Run in background
 python main.py &
 ```
