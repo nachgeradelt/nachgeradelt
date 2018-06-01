@@ -63,10 +63,13 @@ import {
 } from 'vue2-leaflet'
 import vueSlider from 'vue-slider-component'
 import axios from 'axios'
-import PopupContent from './TourPopup'
+import router from '../router/index.js'
 
 function onEachFeature (feature, layer) {
-  let popupContent = Vue.extend(PopupContent)
+  let popupContent = Vue.extend({
+    template: `<div><p><router-link v-bind:to="'/detail'">Details zur Route</router-link></p></div>`,
+    router
+  })
   let popup = new popupContent()
   layer.bindPopup(popup.$mount().$el)
 }
@@ -158,12 +161,13 @@ export default {
   position: relative;
   float: right;
   z-index: 2;
-  pointer-events: auto;
+  pointer-events: none;
 }
 
 .filter-switch {
     margin-top: 2%;
     height: 10%;
+    pointer-events: auto;
 }
 
 .tour ul {
@@ -179,6 +183,7 @@ export default {
   height: 85%;
   background: rgba(255, 255, 255, .5);
   padding: 0 1em;
+  pointer-events: auto;
 }
 
 h3 {
