@@ -1,11 +1,11 @@
 
-# Wegpunkte
+# Tourbeschreibung: 46. Leipzig - Dessau - Wörlitz - Gräfenhainichen - Leipzig
 <!-- TOC depthFrom:2 depthTo:2 withLinks:1 updateOnSave:1 orderedList:0 -->
 
 - [Leipzig](#leipzig)
 - [Leipzig nach Eutritzsch](#leipzig-nach-eutritzsch)
 - [Eutritzsch nach Wiederitzsch](#eutritzsch-nach-wiederitzsch)
-- [Wiederitzsch nach Schladitz, Lemsel, Brodenaundorf und Delitzsch](#wiederitzsch-nach-schladitz-lemsel-brodenaundorf-und-delitzsch)
+- [Wiederitzsch nach Delitzsch](#wiederitzsch-nach-delitzsch)
 - [Delitzsch nach Wolfen](#delitzsch-nach-wolfen)
 - [Wolfen nach Dessau](#wolfen-nach-dessau)
 - [Dessau nach Wörlitz](#dessau-nach-wörlitz)
@@ -14,26 +14,22 @@
 
 <!-- /TOC -->
 
-[Karte der Wikidata-Objekte entlang der Tour ](https://query.wikidata.org/#%20%23defaultView%3AMap%0ASELECT%20%3Fplace%20%3Flocation%20%3Fdistance%20%3FplaceLabel%20WHERE%20%7B%0A%20%20%20%20SERVICE%20wikibase%3Abox%20%7B%20%0A%20%20%20%20%20%20%3Fplace%20wdt%3AP625%20%3Flocation%20.%20%0A%20%20%20%20%20%20bd%3AserviceParam%20wikibase%3AcornerSouthWest%20%22Point%2812.194824%2051.339192%29%22%5E%5Egeo%3AwktLiteral%20.%0A%20%20%20%20%20%20bd%3AserviceParam%20wikibase%3AcornerNorthEast%20%22Point%2812.469482%2051.857835%29%22%5E%5Egeo%3AwktLiteral%20.%0A%20%20%20%20%7D%20%0A%20%20%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D%20ORDER%20BY%20%3Fdistance%0A)
+[Karte der Wikidata-Objekte entlang der Tour ](http://tinyurl.com/y8djhrgf)
 
 ## Leipzig
 
-Start am Marktplatz
-
-### Sehenswertes
-- Leipzig
-  - [Wikipedia](https://de.wikipedia.org/wiki/Leipzig)
-  - [Wikidata](https://www.wikidata.org/wiki/Q2079)
+### Start am Marktplatz
+- [Wikipedia](https://de.wikipedia.org/wiki/Leipzig)
+- [Wikidata](https://www.wikidata.org/wiki/Q2079)
 
 ## Leipzig nach Eutritzsch
 
 ### Wegbeschreibung
 Vom Marktplatz, Katharinenstraße, Brühl, Am Hallischen Tor, Blücherplatz, Blücherstraße, Eutritzscher Straße, rechts Delitzscher Straße, Vorstadt Eutritzsch (3,5 km). Alte historische Gosenschänke. Außerhalb des Ortes Straßengabelung.
 
-### Sehenswertes
+### Wegpunkte
 
 #### Kraftwerk Eutritzscher Straße 14b (12.376742 51.35116)
-
 Kraftwerk mit Verwaltungsgebäude und Schalthaus, Verwaltungs- und Wohngebäude, Personalhaus, Maschinenhaus, Speise- und Kultursaal, mit Werkstattgebäude, Kühlturm, Kohleförderungsanlage, Schornstein, mit Gasometer und Einfriedung
 - [Wikidata](https://www.wikidata.org/wiki/Q49233392)
 - [Blogartikel](http://www.leipziger-industriekultur.de/eutritzscher-strase-14a-kraftwerk/)
@@ -61,16 +57,12 @@ Ehemaliges Rathaus in Fhttps://www.wikidata.org/wiki/Q2568383ormen der Neorenais
 - [Stadtgeeschichtliches Museum: Gosenschänke Eutritzsch, Innenaufnahme ](https://www.stadtmuseum.leipzig.de/ete?action=showDocument/4&sstate=eJztVu9uG0UQ958oLleshM0fhZQiWFBVITf4znFI3C8UEiJQoKXutyY6nW_H9ip7u-Z2r3Ec-U14Ad6FN-AJ-hbM3vkuSWOiIsS33AffzPxmfjszuzvne2XScwiw0dZvCcTnW9oEkgUxW_7z7R-_1zdKtMo4e1z2vnbWzqDnc2niQILx-4kQBsaGOJCYmJuJDoeb1We_7NOqEadflXbL39Z-upezbTacFbuGUOo0GRWLkNJmidadUvrO4h6Xd1fpQ6e2_92hf_T8kCwfjCFMDPxqs_texbBRpm8XL_G_Fi-or1USh0A7F5TLUCQMNO28pmFIG5SpMAIToBQqaQIuIfbRJpOoB_G7VnM-AhvDGT2ZNmjaEcva51hrDMzKhbGnlLDvKNEGl5shvsZuyIEFGPSDRGCrOAgMpXP7R4tl6GUj0RgIoc58AQFDNv-MCxZiw2jHxAkgKgNxPoEb9nxJNYI4MCpGVrsl0-lJI83Tl8rmipoeqsRm9fpkig_qyWAAtpALVPqximiniVY-wba6VlJxVqWvQ9wFJMYuh3TaQEvCbXmBVZE5GAy0Ld__gY-BPXmFPfWtjh2MdNbNrB_-rN3ZInvZY3O51qh8W-YxzHXMCWmb3iDTQRSJJNue29kKz9voejABHg7lezFedb6NlAWGQ_xelJeu7xCOWY8ZJucy5Ni1EIxBzvA0212dnacp3jXHqR64TVJ2Ua5b2SULQxXZa7hsVY_UjAq3xpFAyxfW0iKbehCJJ6OkJ3iId11sCeCjCR9sMcgZtzPG-1Zuk4pUObBDyk2U1638Dam_BI3n-QWmBNLkAbuk4jbzfPbIguDaYh84lQMv4_0QEa9J7OzKNZdU8YTOorw2WZBKwozR2yEVkLMUvN2Mw9K1smyWUNwmtb6Kz_CypX6VA0zbs-DHKO-Rj3rYvY7bcJ9yGYSGv7Hcn6TQqoZRkF7HFC_QzRQlNnsLNJ9qEBAaYGknLfYADREWfo2gUxDMVs4I3IbXvOT-1_Ge22j9l_iW29i-En975Q9SdGXWT5v7FdDuTxdPmdtstWfD_qCbjv-7YX837O-G_f867Ct48yrpmN5wql1vjyxl1-FH-YZr3hMWeYhI2yOrXROYRB-pAZf4MwD2PLFj-FMLt8j8v4vp1EB8myybIWSXKE5nvJ6t2W6TpQh1PhLwskDWLbJz83uwgvadJnFsdpgOVzKbIN0dr_hOLVm1TRa1gVHTTvZVp876fhSMs9o0KdtB85mz2A9CMJqszjtq6PF54bE29_igy5eFy8Y_nQf0ooXX-vwtTivLfWqzTUTjI-c-lxzTxrlqhmRtv3PcPfz5yH_2ons8VNrggOsfb5T_BsmZtf4*)
 - [Stadtgeeschichtliches Museum: Gosenschänke Eutritzsch, Innenaufnahme, direkter Link zum Foto](https://www.stadtmuseum.leipzig.de/media/original/S0014/S0014902.jpg)
 
-### Tourenfotos
-- [Bild: heutiges Gebäude am Standort der Eutritzscher Gosenschänke](https://www.dropbox.com/s/vgoa6o7pqrnigz2/DSC_0137.JPG?dl=0)
-- [weitere Bilder](https://www.dropbox.com/sh/nbohpnz1gu9cpke/AAD02zExRAlG_-mv9x3Ph3dTa?dl=0)
-
 ## Eutritzsch nach Wiederitzsch
 
 ### Wegbeschreibung
 Geradeaus, dann am Krankenhaus St. Georg vorbei nach Wiederitzsch (3,3 km).
 
-### Sehenswertes
+### Wegpunkte
 
 #### Handschwengelpumpe Gräfestraße (12.38442 51.36959)
 Handschwengelpumpe mit Brunnenschacht und Abdeckplatte (Typ Kleiner Löwe)
@@ -93,12 +85,12 @@ Apelstein Nr. 21 (N); in Ecklage Seehausener Straße, Gedenkstein zur Erinnerung
 [Wikipedia](https://de.wikipedia.org/wiki/Wiederitzsch)
 [Wikidata](https://www.wikidata.org/wiki/Q2568383)
 
-## Wiederitzsch nach Schladitz, Lemsel, Brodenaundorf und Delitzsch
+## Wiederitzsch nach Delitzsch
 
 ### Wegbeschreibung
 Ueber die sächsisch-preußische Grenze, durch Schladitz (4,6 km), mäßig abwärts über die alte Salzstraße nach Lemsel (3,6 km), Brodenaundorf (1,0 km) und Delitzsch (6,0 km).
 
-### Sehenswertes
+### Wegpunkte
 
 #### Gustav-Adolf-Denkmal (12.3522 51.405483)
 Gedenkstein, Schlacht bei Breitenfeld (1631) bei Breitenfeld am 17. September 1631; bedeutsames militärhistorisches und kirchengeschichtliches Denkmal, Erinnerungswert und Bedeutung für die Volksbildung
@@ -166,7 +158,7 @@ Die evangelische Stadtkirche Delitzsch ist eine gotische, dreischiffige, vierjoc
 ### Wegbeschreibung
 In nördlicher Richtung durch die Stadt über Benndorf (3,2 km) nach Holzweißig (6,1 km). Nordwärts die Bahn kreuzend und am Gasth. „Preuß. Krone“ geradeaus. Dieser Gasthof ist eine alte Ausspannung, wo die vom Norden kommenden Messebesucher ihre letzte größere Rast vor Leipzig hielten. Dann an den Kohlengruben vorbei zur Kreuzung Zörbig—Bitterfeld. Geradeaus auf landschaftlich weniger interessantem Wege nach Wolfen (8,1 km). Dagegen ist dieser Weg nicht ohne Reiz durch die zahlreichen Industrieanlagen, von denen er eingesäumt wird. Da treffen wir wieder auf Braunkohlengruben und vor allem auf die langgedehnten chemischen Werke der I. G. Farbenindustrie. Von der etwas hoch liegenden Straße bietet sich ein schöner Blick nach dem Muldensteiner Berg (rechts) mit den drei riesigen Schornsteinen des großen Eisenbahn-Kraftwerkes, während wir im Hintergrund die neun, je 110 m hohen Schornsteine von Golpa-Zschornewitz sehen, die eine lebhafte Unterbrechung der den ganzen Horizont bedeckenden dunklen Waldlinie der Dübener Heide bilden. Linker Hand sieht man bei günstigem Wetter den Petersberg bei Löbejün. Beim Kilometerstein 18,6 Gabelung.
 
-### Sehenswertes
+### Wegpunkte
 
 #### Ausbesserungswerk Delitzsch (12.342965 51.533736)
 ehemaliges Ausbesserungswerk der Deutschen Reichsbahn im sächsischen Delitzsch, heute Werk der EuroMaint Rail
@@ -209,6 +201,7 @@ Nach der Stilllegung des Tagebaus Goitzsche im Jahr 1990 begann im gleichen Jahr
 - [Bild: Gedenkstein und Paupitzscher Kreuz am Standort der ehemaligen Kirche, des Ende der 70er Jahren devastierten Ort Paupitzsch](https://commons.wikimedia.org/wiki/File:Benndorf_Paupitzscher_Kreuz-01.jpg)
 
 #### Arboretum (12.324718 51.578363)
+Das Arboretum (Sammlung von Gehölzen) bietet einen schönen Rastplatz mit Spielplatz.
 
 #### Die Wächter der Goitzsche (12.335254 51.581803)
 Kunstwerk/Installation von Anatol Herzfeld
@@ -226,6 +219,10 @@ Die 'Preußische Krone', ein Gasthof an der Kreuzung der Landstraße Berlin-Hall
 - [Historische Ansichtskarte](https://www.ansichtskarten-bitterfeld.de/wisl_s-cms/_redaktionell/1/Ansichtskarten/275/Hotels_Restaurants.html)
 
 #### Dükertürme (12.2876557 51.6022269)
+Ein Düker (niederdeutsch, entspricht niederländisch duiker, „Taucher“) ist eine Druckleitung zur Unterquerung einer Straße, eines Tunnels, eines Flusses oder von Bahngleisen etc.
+- [Wikipedia: Eklärung Düker](https://de.wikipedia.org/wiki/D%C3%BCker)
+- [Bild: Dükertürme aus dem Jahr 1909](https://commons.wikimedia.org/wiki/File:D%C3%BCkert%C3%BCrme.jpg)
+- [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:D%C3%BCkert%C3%BCrme_(Bitterfeld-Wolfen))
 
 #### Silbersee (12.27292778 51.64491389)
 Silbersee ist die im Volksmund entstandene Bezeichnung für das Restloch des Tagebaues Grube Johannes südlich von Wolfen auf Greppiner Flur, in das später Abwässer, Schlämme und Abfälle aus der Filmfabrik Wolfen eingeleitet bzw. eingebracht wurden.
@@ -246,7 +243,8 @@ Silbersee ist die im Volksmund entstandene Bezeichnung für das Restloch des Tag
 #### Filmfabrik Wolfen (12.262589 51.656583)
 - [Wikipedia](https://de.wikipedia.org/wiki/Filmfabrik_Wolfen)
 - [Wikidata](https://www.wikidata.org/wiki/Q566399)
-- [Bild: S/W-Fotografie der Agfa Farbenfabrik Wolfen, um 1920](https://st.museum-digital.de/data/san/images0001/129.jpg)
+- [Bild: Agfa-Filmfabrik Wolfen 1917](https://de.wikipedia.org/wiki/Datei:W20_Fifa_1917_Chemiepark.jpg)
+- [Bild: Agfa-Filmfabrik Wolfen 1929](https://commons.wikimedia.org/wiki/File:W21_Fifa_1929_Chemiepark.jpg)
 - [Link: Industrie- Und Filmmuseum Wolfen](http://www.ifm-wolfen.de/de/)
 
 ## Wolfen nach Dessau
@@ -254,55 +252,188 @@ Silbersee ist die im Volksmund entstandene Bezeichnung für das Restloch des Tag
 ### Wegbeschreibung
 Geradeaus und über Boppau (2,2 km) zum Heidekrug (5,7 km). Die sehr gute Straße führt nun durch die Mosigkauer Heide, einen schönen Wald, bis zum Forsthaus Heideburg (6,9 km). Dann weiter und durch die Heidestr.., Franzstr., Kavalierstr. in Dessau (5,1 km). An der Mulde. Rathaus 1901 erbaut im Stile der deutschen Renaissance mit 75 m hohem Turm. Schloß mit Park und Tiergarten. Prächtige Umgebung. Lohnender Abstecher nördlich zur Elbe, vorbei am Gasth. „Elbhaus“ und Gasth. „Elbzollhaus“. Hier schöner Blick auf die Elbe.
 
-#### Boppau (heute Bobbau)
+### Wegpunkte
 
-#### Gasthaus Heidekrug
-- https://www.mz-web.de/bitterfeld/anhalt-bitterfeld-ausgespannt-und-entspannt-7851924
-- https://www.philaseiten.de/cgi-bin/index.pl?ST=6638&F=27&da=1&page=5
-- https://www.philaseiten.de/up/1228399/1/2/dcb06c03_h.jpeg
-- https://www.philaseiten.de/cgi-bin/index.pl?F=27&ST=6638&da=1&page=4#M87
-- https://www.philaseiten.de/up/1228399/3/0/f7de49b2_h.jpeg
-- https://st.museum-digital.de/index.php?t=objekt&oges=3634
-- https://st.museum-digital.de/singleimage.php?objektnum=3634&imagenr=5204
-- https://img.oldthing.net/16681/27274423/1/n/ALTE-POSTKARTE-GASTHAUS-HEIDEKRUG-BEI-DESSAU-BES-EMIL-KLUMP-20-MIN-V-BAHNHOF-MARKE-Dessau-Rosslau-cpa-postcard-AK.jpg
-- https://oldthing.de/ALTE-POSTKARTE-GASTHAUS-HEIDEKRUG-BEI-DESSAU-BES-EMIL-KLUMP-20-MIN-V-BAHNHOF-MARKE-Dessau-Rosslau-cpa-postcard-AK-0027274423
+#### Boppau - heute Bobbau (12.268188 51.69029)
+[Wikipedia](https://de.wikipedia.org/wiki/Bobbau)
+[Wikidata](https://www.wikidata.org/wiki/Q687880)
 
-#### Rennstrecke Dessau
-- https://www.geocaching.com/geocache/GC1B57N_die-dessauer-rennstrecke-jugendkurve?guid=fe0e94cd-27be-4d9f-ad8e-e9cc00e153a2
-- http://www.silhouet.com/motorsport/tracks/dessauer.html
-- https://driveeurope.co.uk/2014/02/16/sunday-2/
-- https://www.webreichsautobahn.de/rekordstrecke_dessau.html
-- https://www.motorrennsportarchiv.de/locations/dessau/
-- http://webcache.googleusercontent.com/search?q=cache:sH7NqTZZS58J:www.radiosaw.de/historische-rekordwoche-dessau+&cd=1&hl=de&ct=clnk&gl=de&lr=lang_de%7Clang_en&client=ubuntu
-- http://www.radiosaw.de/sites/default/files/vor_bruecke_autobahn_bei_dessau_2_0.jpg
+#### Wasserturm Bobbau (12.261997 51.691148)
+erbaut von 1926 bis Juli 1927, Kapazität 320 Kubikmeter
+- [Bild: Bobbau,Wasserturm](https://de.wikipedia.org/wiki/Datei:Bobbau,Wasserturm,Stadt_Bitterfeld-Wolfen.jpg)
+- [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Wasserturm_Bobbau)
 
-#### Jagdschloss Haideburg
-- https://de.wikipedia.org/wiki/Jagdschloss_Haideburg
-- https://commons.wikimedia.org/wiki/Category:Jagdschloss_Haideburg?uselang=de
+#### Gasthaus Heidekrug (12.229865 51.732304)
+- [Artikel: Geschichte des Gasthauses](https://www.mz-web.de/bitterfeld/anhalt-bitterfeld-ausgespannt-und-entspannt-7851924)
+- [Bild: Gasthaus Heidekrug, um 1907](https://www.philaseiten.de/up/1228399/1/2/dcb06c03_h.jpeg)
+- [Bild: Gasthaus Heidekrug, um 1907](https://imgl.aklex.de/1562f783fb7aa6.jpg)
+- [Bild: Gasthaus Heidekrug, um 1925](https://www.philaseiten.de/up/1228399/3/0/f7de49b2_h.jpeg)
+- [Bild: Gasthaus Heidekrug, ???](https://st.museum-digital.de/singleimage.php?objektnum=3634&imagenr=5204)
+- [Artikel im Buch "Bitterfeld und das untere Muldetal: eine landeskundliche Bestandsaufnahme"](https://books.google.de/books?id=1GoU-dJ9ezUC&pg=PA97&lpg=PA97&dq=Gasthaus+Heidekrug+mosigkauer+heide&source=bl&ots=eF-x2k9zxg&sig=nTkCvVClrWIYpjYt6UQvLXylqMk&hl=de&sa=X&ved=0ahUKEwj1qs6Gt7LbAhWPb1AKHcu5Co4Q6AEIPzAD#v=onepage&q=Gasthaus%20Heidekrug%20mosigkauer%20heide&f=false)
+
+#### Rennstrecke Dessau (12.2272 51.7567)
+- [Wikipedia](https://de.wikipedia.org/wiki/Rennstrecke_Dessau)
+- [Wikidata](https://www.wikidata.org/wiki/Q2144189)
+- [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Rennstrecke_Dessau?uselang=de)
+- [Bild: Streckenführung 1952](https://de.wikipedia.org/wiki/Datei:Rennstrecke_Dessau,11.05.1952.jpg)
+- [Bild: Kurve der Jugend](https://commons.wikimedia.org/wiki/File:Rennstrecke_Dessau,_Kurve_der_Jugend,Jugendkurve.jpg)
+- [Bild: Ansicht in Fahrtrichtung zur „Kurve der Jugend“](https://de.wikipedia.org/wiki/Datei:Rennstrecke_Dessau,_ehemalige_Verbindungsstra%C3%9Fe_zwischen_Dessau_und_Wolfen_%282%29.jpg)
+- [Weitere Informationen und Bilder](https://www.geocaching.com/geocache/GC1B57N_die-dessauer-rennstrecke-jugendkurve?guid=fe0e94cd-27be-4d9f-ad8e-e9cc00e153a2)
+- [Informationen zur Streckenführung](http://www.silhouet.com/motorsport/tracks/dessauer.html)
+- [Weitere Informationen und Bilder](https://www.webreichsautobahn.de/rekordstrecke_dessau.html)
+- [Artikel: Diesel-Rekord-Wagen-Auferstehung](https://ticker.mercedes-benz-passion.com/diesel-rekord-wagen-auferstehung/)
+- [Bild: Hanomag Diesel-Rekord-Wagen auf der Dessauer Rennstrecke](https://i2.wp.com/ticker.mercedes-benz-passion.com/wp-702ef-content/Hanomag-Rekord-Vor-Br%C3%BCcke-Autobahn-bei-Dessau.jpg)
+- [Artikel: Die Geschichte des Dessauer Motorbootrennens](http://www.motorbootrennen-dessau.de/50er.html)
+
+#### Jagdschloss Haideburg (12.240392 51.786642)
+1782 bis 1783 errichtet. Fürst Leopold III. Friedrich Franz von Anhalt-Dessau beauftragte den Baumeister Friedrich Wilhelm von Erdmannsdorff mit dem Bau als Jagdschloss und Oberförsterei. Es soll dem preußischen Krönungsschloss in Königsberg in kleinerer Form nachgestellt worden sein.
+- [Wikipedia](https://de.wikipedia.org/wiki/Jagdschloss_Haideburg)
+- [Wikidata](https://www.wikidata.org/wiki/Q38177805)
+- [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Jagdschloss_Haideburg?uselang=de)
+- [Weitere Informationen](http://www.architektur-blicklicht.de/schloesser-herrenhaeuser/jagdschloss-haideburg-dessau-rosslau/)
+- [Ansichtskarte: Jagdschloss Haideburg und Gasthaus Haideburg](https://imgl.aklex.de/1562f783faeea0.jpg)
+
+#### Bauhaus (12.2267 51.8392)
+Das Bauhausgebäude entstand 1925 bis 1926 nach Plänen von Walter Gropius als Schulgebäude für die Kunst-, Design- und Architekturschule Bauhaus.
+- [Wikipedia](https://de.wikipedia.org/wiki/Bauhaus_Dessau)
+- [Wikidata](https://www.wikidata.org/wiki/Q516770)
+- [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Bauhaus-Gebäude_Dessau)
+- [Bild: Bauhaus Dessau](https://commons.wikimedia.org/wiki/File:Dessau_Bauhaus_neu.JPG)
+- [Bild: historische Aufnahme vom Bauhausgebäude](https://www.lempertz.com/typo3temp/_processed_/csm_Lempertz-978-31-Photography-Lucia-Moholy-und-Junkers-Luftbild-BAUHAUS-BUILDING-IN-DESSA_fd41595137.jpg)
+- [Bild: historische Luftbildaufnahme vom Bauhausgebäude](https://www.lempertz.com/typo3temp/_processed_/csm_Lempertz-978-31-Photography-Lucia-Moholy-und-Junkers-Luftbild-BAUHAUS-BUILDING-IN-DESSA-b_14c29403c6.jpg)
+- [Weitere Informationen](https://www.bauhaus-dessau.de/de/architektur/bauhausgebaeude/das-bauhausgebaeude.html)
+
+#### Kornhaus (12.2169 51.8564)
+Carl Fieger entwarf das Kornhaus in den Jahren 1929/30 im Auftrag der Stadt Dessau und der Schultheiss-Patzenhofer Brauerei AG.
+- [Wikipedia](https://de.wikipedia.org/wiki/Kornhaus_%28Dessau%29)
+- [Wikidata](https://www.wikidata.org/wiki/Q1784544)
+- [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Kornhaus,_Dessau)
+- [Bild: Kornhaus Dessau an der Elbe](https://commons.wikimedia.org/wiki/File:Kornhaus_Dessau_an_der_Elbe.jpg)
+- [Weitere Informationen](https://www.bauhaus-dessau.de/de/architektur/bauhausbauten/kornhaus.html)
+
+#### Elbhaus (12.23583, 51.863944)
+- [Ansichtskarte: Elbhaus](https://img.oldthing.net/8867/22646361/0/n/Dessau-Rosslau-Dessau-Elbhaus-x-Dessau-Rosslau-Anhalt-Bitterfeld-LKR.jpg)
+- [Ansichtskarte: Elbhaus](http://www.ansichtskarten-center.de/webshop/shop/ProdukteBilder/52713/AK_51329288_gr_1.jpg)
+
+#### Elbzollhaus (12.237728 51.879187)
+Das Elbzollhaus ist ein historischer Gebäudekomplex an der Elbbrücke zwischen Dessau und Roßlau. Fürst Franz (1740–1817) ließ das Zollhaus 1789 nach einem Entwurf des deutschen Architekten Friedrich Wilhelm von Erdmannsdorff (1736–1800) bauen.
+- [Wikipedia](https://de.wikipedia.org/wiki/Elbzollhaus)
+- [Wikidata](https://www.wikidata.org/wiki/Q15807741)
+- [aktuelle Webseite](https://elbzollhaus.de/)
 
 ## Dessau nach Wörlitz
 
 ### Wegbeschreibung
 Ausfahrt über die Muldenbrücke und links die Bahn Dessau—Oranienbaum kreuzend, dann auf schönen Radfahrwegen über Jonitz (2,1 km), Naundorf (2 km) und Vockerode (4 km) nach Wörlitz (5 km).
 
-#### Wörlitz
+### Wegpunkte
+
+#### Jonitz (12.27278 51.841041)
+- [Wikipedia](https://de.wikipedia.org/wiki/Jonitz)
+- [Wikidata](https://www.wikidata.org/wiki/Q15056901)
+
+#### Naundorf (12.2781 51.845)
+heute Waldersee (Jonitz + Naundorf)
+- [Wikipedia](https://de.wikipedia.org/w/index.php?title=Naundorf_(Dessau-Roßlau))
+- [Wikidata](https://www.wikidata.org/wiki/Q2541484)
+- [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Waldersee)
+- [weitere Informationen](https://web.archive.org/web/20100401100743/http://www.dessau-waldersee.de/waldersee/ch/ch_ue.php)
+
+#### Luisium (12.2721 51.8507)
+Schloss und Garten Luisium entstanden zwischen 1774 und 1778 als Geschenk für die Fürstin Luise von Brandenburg-Schwedt, der Gemahlin des Fürsten Leopold III. Friedrich Franz von Anhalt-Dessau, und sollte der Fürstin als Witwensitz dienen.
+- [Wikipedia](https://de.wikipedia.org/wiki/Luisium)
+- [Wikidata](https://www.wikidata.org/wiki/Q319110)
+- [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Luisium?uselang=de)
+
+#### Gustavusburg - Schwedenhaus (12.30247778 51.84348333)
+Als Gustavusburg oder Gustav Adolf wird ein zum Dessau-Wörlitzer Gartenreich gehörendes Gebäude bezeichnet. Die gebräuchliche Bezeichnung Schwedenhaus ist auf ein vergoldeten Relief an der Hauptfassade zurückzuführen, welches den Schwedenkönig Gustav Adolph darstellt.
+- [Wikipedia](https://de.wikipedia.org/wiki/Gustavusburg)
+- [Wikidata](https://www.wikidata.org/wiki/Q15708461)
+- [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Schwedenhaus_(Dessau-Waldersee)?uselang=de)
+- [Bild: Schwedenhaus am Schwedenwall in Dessau-Waldersee](https://de.wikipedia.org/wiki/Datei:Goldig-5a.JPG)
+
+#### Vockerode (12.351422 51.847643)
+- [Wikipedia](https://de.wikipedia.org/wiki/Vockerode)
+- [Wikidata](https://www.wikidata.org/wiki/Q631408)
+- [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Vockerode?uselang=de)
+
+#### Wörlitz ()
 Kirche mit weithin sichtbarem Turm, 1809 im gotischen Stile erneuert. Schloß und berühmter sehenswerter Park. Dieser, im letzten Drittel des 18. Jahrhunderts angelegt, schließt den Wörlitzer See — Gondelgelegenheit — ein und bietet eine Anzahl Sehenswürdigkeiten, z. B. das Gotische Haus mit Sammlungen, den Floratempel, die Kettenbrücke, die Luisenklippe, den Venustempel, das Monument, das Pantheon, den „Stein“, den Tempel der Nacht und die Grotte der Egeria.
+- [Wikipedia](https://de.wikipedia.org/wiki/W%C3%B6rlitz)
+- [Wikidata](https://www.wikidata.org/wiki/Q518275)
+- [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:W%C3%B6rlitz?uselang=de)
+
+#### Schloss Wörlitz (12.42138889 51.84611111)
+- [Wikipedia](https://de.wikipedia.org/wiki/Schloss_W%C3%B6rlitz)
+- [Wikidata](https://www.wikidata.org/wiki/Q21293161)
+- [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Schloss_W%C3%B6rlitz?uselang=de)
+
+#### Wörlitzer Park (12.4233 51.8481)
+- [Wikipedia](https://de.wikipedia.org/wiki/W%C3%B6rlitzer_Park)
+- [Wikidata](https://www.wikidata.org/wiki/Q638162)
+- [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:W%C3%B6rlitzer_Park?uselang=de)
 
 ## Wörlitz nach Bitterfeld
 
 ### Wegbeschreibung
 Ausfahrt in südlicher Richtung nach Oranienbaum (5,8 km). Südwärts hinaus an der Mölkauer Mühle vorüber, dann durch schönen Wald und über Jüdenberg (6 km) nach Gräfenhainichen (3,6 km). Nach Leipzig (51,7 km),
 
-#### Oranienbaum
+### Wegpunkte
+
+#### Oranienbaum (12.40541, 51.799612)
 Hier das 1683—1698 von Katharina v. Oranien erbaute Schloß nebst Park.
+- [Wikipedia](https://de.wikipedia.org/wiki/Oranienbaum)
+- [Wikidata](https://www.wikidata.org/wiki/Q1469188)
+- [Wikipedia: Schloss Oranienbaum](https://de.wikipedia.org/wiki/Schloss_Oranienbaum)
+- [Wikidata: Schloss Oranienbaum](https://www.wikidata.org/wiki/Q473807)
+- [Wikimedia Commons: Schloss Oranienbaum](https://commons.wikimedia.org/wiki/Category:Schloss_Oranienbaum?uselang=de)
+- [Bild: Schloss Oranienbaum](https://commons.wikimedia.org/wiki/File:Schloss_Oranienbaum2.JPG)
 
-#### Gräfenhainichen
+#### Müchauer Mühle (12.396966, 51.770496)
+Statt "Mölkauer Mühle" eigentlich "Müchauer Mühle" (Fehler des Autors)
+- [technische Zeichnung des Mühlenrades](https://berlin.museum-digital.de/index.php?t=listen&type=7&persinst_id=23845&oges=8327)
+
+#### Jüdenberg (12.415495, 51.748667)
+- [Wikipedia](https://de.wikipedia.org/wiki/J%C3%BCdenberg)
+- [Wikidata](https://www.wikidata.org/wiki/Q878350)
+- [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:J%C3%BCdenberg?uselang=de)
+
+#### Ferropolis (12.447478, 51.758929)
+Ferropolis ist ein Museum und Veranstaltungsort nahe Gräfenhainichen östlich von Dessau auf einer Halbinsel im ehemaligen Tagebau Golpa-Nord. Ferropolis ist Ankerpunkt der Europäischen Route der Industriekultur.
+- [Wikipedia](https://de.wikipedia.org/wiki/Ferropolis)
+- [Wikidata](https://www.wikidata.org/wiki/Q896647)
+- [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Ferropolis?uselang=de)
+
+#### Gräfenhainichen (12.459719 51.732417)
 Schloßruine. Geburtsort des Liederdichters Paul Gerhardt.
+- [Wikipedia](https://de.wikipedia.org/wiki/Gr%C3%A4fenhainichen)
+- [Wikidata](https://www.wikidata.org/wiki/Q373077)
+- [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Gr%C3%A4fenhainichen?uselang=de)
 
-#### Gröbern
+#### Fundort des Gröberner Waldelefanten (12.4638182 51.7004817)
+Im Tagebau Gröbern wurde am 8. Juni 1987 ein ca. 100.000 Jahre altes Skelett eines Waldelefanten gefunden.
+- [Informationen zum Waldelefanten](http://www.lda-lsa.de/landesmuseum_fuer_vorgeschichte/dauerausstellung/altsteinzeit/groebern/)
+- [Informationen zum Fund des Waldelefanten](https://www.seeresort-groebern.de/groeberner-waldelefant/)
 
-#### Gossa
+#### Gröbern (12.451748 51.690217)
+- [Wikipedia](https://de.wikipedia.org/wiki/Gr%C3%B6bern_%28Muldestausee%29)
+- [Wikidata](https://www.wikidata.org/wiki/Q690019)
+- [Bild: Gröbern vor 1945](http://www.deutschefotothek.de/documents/obj/90022093/df_hauptkatalog_0013458)
 
-#### Schlaitz
+#### Schlaitz (12.42955 51.660524)
+Die Schlaitzer Dorfkirche stammt aus dem Jahre 1287. Gegenüber der Kirche findet sich eine 1871 anlässlich des Friedensvertrages nach dem Deutsch-Französischen Krieg gepflanzte Friedenseiche.
+- [Wikipedia](https://de.wikipedia.org/wiki/Schlaitz)
+- [Wikidata](https://www.wikidata.org/wiki/Q2091660)
+- [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Schlaitz?uselang=de)
+
+#### Fischadler-Beobachtung-Station (12.3895699 51.6565760)
+- [weitere Informationen](http://www.informationszentrum-hausamsee-schlaitz.de/de/projekt-fischadler.html)
+
+#### Bitterfeld (12.33005 51.623858)
+- [Wikipedia](https://de.wikipedia.org/wiki/Bitterfeld)
+- [Wikidata](https://www.wikidata.org/wiki/Q836932)
+- [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Bitterfeld?uselang=de)
+- [Wikivoyage](https://de.wikivoyage.org/wiki/Bitterfeld)
 
 ## Bitterfeld nach Leipzig
+von Holzweißig wie Hinfahrt
