@@ -1,5 +1,5 @@
 
-# Tourbeschreibung: 100. Leipzig— Zwenkau — Lobstädt — Altenburg — Crimmitschau — Werdau \[...\].
+# Tourbeschreibung: 100. Leipzig— Zwenkau — Lobstädt — Altenburg — Crimmitschau — Werdau [...].
 
 \[79,6\] km guter, erst ebener, dann welliger und hügeliger Strasse.
 
@@ -26,7 +26,7 @@
 ### Wegpunkte
 
 #### Restaurant Forsthaus Raschwitz
-Das Restaurant „Forsthaus Raschwitz“ lädt schon 1900 alle Radfahrenden zu einer Pause ein: „Dieses große Etablissement mit seinen ausgedehnten Gartenanlagen bildet im gewissen Sinne den Brennpunkt des Ausflüglerlebens. Hier geben sich die Radlerinnen und Radler ihr Rendezvous, und wenn man an Sonn- und Festtagen die Straße beobachtet, sollte man fast glauben, es seien die Stahlrosse zur alleinherrschenden Macht auf dem Gebiete des Verkehrswesens geworden.“ \([Adreßbuch für die südlichen Vororte Leipzigs, 1904] (http://digital.slub-dresden.de/werkansicht/dlf/105288/421/0/)\)
+Das Restaurant „Forsthaus Raschwitz“ lädt schon 1900 alle Radfahrenden zu einer Pause ein: „Dieses große Etablissement mit seinen ausgedehnten Gartenanlagen bildet im gewissen Sinne den Brennpunkt des Ausflüglerlebens. Hier geben sich die Radlerinnen und Radler ihr Rendezvous, und wenn man an Sonn- und Festtagen die Straße beobachtet, sollte man fast glauben, es seien die Stahlrosse zur alleinherrschenden Macht auf dem Gebiete des Verkehrswesens geworden.“ \([Adreßbuch für die südlichen Vororte Leipzigs, 1904](http://digital.slub-dresden.de/werkansicht/dlf/105288/421/0/)\)
 
 Restaurant Forsthaus Raschwitz
 Koburger Straße 33
@@ -42,7 +42,7 @@ Gaststätte Schützenhaus
 Geschwister-Scholl-Platz 1
 04442 Zwenkau
 
-![Anzeige Restaurant „Zum Schützenhaus“ Zwenkau] (http://digital.slub-dresden.de/fileadmin/data/403758513-19040000/403758513-19040000_tif/jpegs/00000431.tif.large.jpg) im [Adressbuch für die südlichen Vororte Leipzigs, 1904] (http://digital.slub-dresden.de/werkansicht/dlf/105288/431/0/)
+![Anzeige Restaurant „Zum Schützenhaus“ Zwenkau](http://digital.slub-dresden.de/fileadmin/data/403758513-19040000/403758513-19040000_tif/jpegs/00000431.tif.large.jpg) im [Adressbuch für die südlichen Vororte Leipzigs, 1904](http://digital.slub-dresden.de/werkansicht/dlf/105288/431/0/)
 
 
 ## Zwenkau nach Altenburg
@@ -61,8 +61,8 @@ Imnitz wurde 1929 nach Zwenkau eingemeindet.
 Das Dorf Medewitzsch wurde 1934 nach Lippendorf eingemeindet, dabei verdrängte der Ortsname Lippendorf den Ortsnamen Medewitzsch. Heute gehört Lippendorf zur Gemeinde Neukieritzsch.
 Die Gemeinde Pulgar wurde ab 1971 schrittweise abgebrochen und mit den Chemischen Werken Böhlen überbaut. Heute gehören die Flächen zur Gemeinde Neukieritzsch.
 
--[Wikipedia: Lippendorf](https://de.wikipedia.org/wiki/Lippendorf)
--[Wikipedia: Peres-Pulgar](https://de.wikipedia.org/wiki/Peres-Pulgar)
+- [Wikipedia: Lippendorf](https://de.wikipedia.org/wiki/Lippendorf)
+- [Wikipedia: Peres-Pulgar](https://de.wikipedia.org/wiki/Peres-Pulgar)
 
 
 #### Lobstädt
@@ -85,14 +85,14 @@ Von A. hügelig w. üb. 1. 3,4 Mockern; 1,0 Gardschütz; r. 1,0 Lehndorf, P. T. 
 24,5. 69,5 Crimmitschau. 230. P. T. B. Cr. wird 1210 als Stadt erwähnt; 1430 v. d. hussit. Tschechen verbrannt, im dreissigjähr. Kriege fünfmal geplündert; besass 1794 noch seine Ringmauern mit 3 Thoren und 2 Türmen. 1748 Einführung der Streichgarnspinnerei durch David Oehler.
 
 ##### Textilstadt Crimmitschau
-Anknüpfend an die Initiative von David Friedrich Oehler hat sich Crimmitschau zu einem Zentrum der Textilindustrie entwickelt. Wer 1899 nach Crimmitschau radelt, erlebt eine wohlhabende Industriestadt. Schon aus der Ferne fallen die vielen Fabrikgebäude auf, die Crimmitschau den Spitznamen „Stadt der 100 Schornsteine“ eingebracht haben: „Der Reisende staunt bei dem Herannahen an die verhältnismäßig nicht eben groß zu nennende Stadt über den wahren Wald von Dampfessen, welcher sich oft dicht zusammengedrängt auf allen Stellen erhebt[...], so dass der ganze Platz den Anblick gewährt, als sei er eine einzige große Fabrik“ \([Album der Sächsischen Industrie, 1856, Bd. 1, S. 119] (https://digital.slub-dresden.de/werkansicht/dlf/505/233/0/)\).
+Anknüpfend an die Initiative von David Friedrich Oehler hat sich Crimmitschau zu einem Zentrum der Textilindustrie entwickelt. Wer 1899 nach Crimmitschau radelt, erlebt eine wohlhabende Industriestadt. Schon aus der Ferne fallen die vielen Fabrikgebäude auf, die Crimmitschau den Spitznamen „Stadt der 100 Schornsteine“ eingebracht haben: „Der Reisende staunt bei dem Herannahen an die verhältnismäßig nicht eben groß zu nennende Stadt über den wahren Wald von Dampfessen, welcher sich oft dicht zusammengedrängt auf allen Stellen erhebt[...], so dass der ganze Platz den Anblick gewährt, als sei er eine einzige große Fabrik“ \([Album der Sächsischen Industrie, 1856, Bd. 1, S. 119](https://digital.slub-dresden.de/werkansicht/dlf/505/233/0/)\).
 
-[!Ansicht von Crimmitschau, Lithografie, um 1860] (http://fotothek.slub-dresden.de/fotos/df/dk/0005000/df_dk_0005155.jpg)
+![Ansicht von Crimmitschau, Lithografie, um 1860](http://fotothek.slub-dresden.de/fotos/df/dk/0005000/df_dk_0005155.jpg)
 
 ##### Industriearchitektur
 Manche der Tuchfabriken, Spinnereien und Färbereien, welche das Stadtbild lange Zeit geprägt haben, existieren auch heute noch und sind in der Datenbank des Projekts [Industrie.Kultur.Ost](https://www.industrie-kultur-ost.de/datenbank/textilindustrie/gebiet-zwickau/) erfasst. 
 
-[!Vigogne-Spinnerei von H. F. Kürzel in Crimmitschau](http://digital.slub-dresden.de/fileadmin/data/252070399/252070399_tif/jpegs/00000383.tif.large.jpg)
+![Vigogne-Spinnerei von H. F. Kürzel in Crimmitschau](http://digital.slub-dresden.de/fileadmin/data/252070399/252070399_tif/jpegs/00000383.tif.large.jpg)
 
 
 ##### Sächsisches Industriemuseum
@@ -116,7 +116,7 @@ Nun im Pleissenthale eben üb. 2,9 Neukirchen; 2,4 Kleinhessen; 1,8 Langenhessen
 10,1. 79,6 Werdau. 281. P. T. B. Hier l. n. 10,0 Zwickau. —1298 als Stadt angeführt; 1430 Zerstörung durch d. Hussiten, 1633 Pest. W. hatte früher starke Stadtmauer mit zwei Thoren. — Bedeutende Textilindustrie.
 
 ##### Radkultur
-Auch Werdau hat 1899 eine aktive Radler-Szene: Laut den [historischen Adressbüchern] (http://digital.slub-dresden.de/werkansicht/dlf/98121/267/0/) gibt es in der Stadt im Jahr 1903 fünf verschiedene Radfahrer-Klubs, von denen drei seit 1897 neu gegründet wurden.
+Auch Werdau hat 1899 eine aktive Radler-Szene: Laut den [historischen Adressbüchern](http://digital.slub-dresden.de/werkansicht/dlf/98121/267/0/) gibt es in der Stadt im Jahr 1903 fünf verschiedene Radfahrer-Klubs, von denen drei seit 1897 neu gegründet wurden.
 
 ##### Arbeiter-Radfahrer
 Wer fährt überhaupt Rad um 1900? Wegen der hohen Anschaffungskosten war Radfahren zunächst vor allem ein Sport des Bürgertums. Um 1900 ändert sich das: Als die Preise für Fahrräder sinken, können sich auch besser verdienende Fabrikarbeiter*innen ein gebrauchtes Rad leisten. In den 1890er Jahren gründen sich spezielle Arbeiter-Radfahrer-Klubs wie der „Arbeiter-Radfahrerbund Solidarität“, der sich ausdrücklich als Teil der Arbeiterbewegung versteht. Auch die Industriestadt Werdau verzeichnet für 1903 einen Ableger der „Solidarität“. Ihre Kritik an den bürgerlichen Vereinen bringt die „Solidarität“ so auf den Punkt: „[…] in diesen bürgerlichen radsportlichen Organisationen hat[] man es sich zur Aufgabe gemacht, in der Hauptsache dem Radrennsport zu huldigen und sich an allem möglichen patriotischen Klimbim zu beteiligen“ \([Werden und Wachsen des Arbeiter-Radfahrer-Bundes Solidarität: die Bundesgeschichte bis zum Jahre 1926, 1927, S. 9](https://library.fes.de/TouchPoint/id=181481)\).
