@@ -28,9 +28,9 @@
 #### Restaurant Forsthaus Raschwitz
 Das Restaurant „Forsthaus Raschwitz“ lädt schon 1900 alle Radfahrenden zu einer Pause ein: „Dieses große Etablissement mit seinen ausgedehnten Gartenanlagen bildet im gewissen Sinne den Brennpunkt des Ausflüglerlebens. Hier geben sich die Radlerinnen und Radler ihr Rendezvous, und wenn man an Sonn- und Festtagen die Straße beobachtet, sollte man fast glauben, es seien die Stahlrosse zur alleinherrschenden Macht auf dem Gebiete des Verkehrswesens geworden.“ \([Adreßbuch für die südlichen Vororte Leipzigs, 1904](http://digital.slub-dresden.de/werkansicht/dlf/105288/421/0/)\)
 
-Restaurant Forsthaus Raschwitz
-Koburger Straße 33
-04416 Markkleeberg
+Restaurant Forsthaus Raschwitz  
+Koburger Straße 33  
+04416 Markkleeberg  
 
 #### Zwenkau
 14,5. 14,5 Zwenkau. 133. P. T. B. Hier r. n. Markranstädt 12,6; Zw. früher bed. Ort, jetzt Landstädtchen, wurde i. J. 974 v. Kaiser Otto II. dem Stifte Merseburg geschenkt. Auf einem Hügel an der Elsterniederung Reste einer im Mittelalter berühmten Burg; 1315 wurde bei ein. Belagerung ders. Friedr. d. Lahme, Markgr. Friedr. d. Gebissenen Sohn, m. ein. Pfeile erschossen.
@@ -38,9 +38,9 @@ Koburger Straße 33
 ##### Gaststätte Schützenhaus
 Wer einkehren möchte, wo sich schon 1904 der Radfahrer-Verein Zwenkau traf, kann das in der Gaststätte „Schützenhaus“ tun.
 
-Gaststätte Schützenhaus
-Geschwister-Scholl-Platz 1
-04442 Zwenkau
+Gaststätte Schützenhaus  
+Geschwister-Scholl-Platz 1  
+04442 Zwenkau  
 
 ![Anzeige Restaurant „Zum Schützenhaus“ Zwenkau](http://digital.slub-dresden.de/fileadmin/data/403758513-19040000/403758513-19040000_tif/jpegs/00000431.tif.large.jpg) im [Adressbuch für die südlichen Vororte Leipzigs, 1904](http://digital.slub-dresden.de/werkansicht/dlf/105288/431/0/)
 
@@ -69,7 +69,7 @@ Die Gemeinde Pulgar wurde ab 1971 schrittweise abgebrochen und mit den Chemische
 13,6. 28,1 **Lobstädt**. 140. P. T. B. Hier Strassengabelung (1. l. n. 4,6 Borna), r. weiter sanft steigend üb. 4,5 r. Blumroda (h. 1. n. 5,0 Borna); 4,0 Serbitz; 0,8 Treben, P. T, B.; 3,1 Zschaschelwitz; üb. d. Str. Lucka-Geithain (l. n. 19,1 Geithain, r. n. 15,9 Lucka); mit stark. Fall 4,5 n.
 
 #### Altenburg
-16,9. 45,0 **Altenburg**. 178. P. T. B. Hier r. n. 10,9 Schmölln; 24,8 Ronneburg; 11,7 Meuselwitz; l. n. 22,1 Penig und 18.0 Waldenburg. Residenz d. Herzöge v. Sachs-Altenburg aus d. Hause Wettin ernestinischer L. Alte, ber. 980 urk. erw. St., i. 12. Jahrh. Reichsst., anf. d. 14. Jahrh. an d. Haus Wettin. Auf mächt., steil. Porphyrfelsen d. herzogl. Schloss a. d. 11. Jahrh. Nach verschied. Bränden 1706—44 neu geb. (die 1865 und 1868 abgebr. Flügel sind ern), m. prächt. Saale, Rüstkammer, Kunstkammer, schönem Park. 8 Juli 1455 Prinzenraub (Kurf. Friedr. d. Sanftmüt. v. Sachs. Söhne Ernst u. Albert. Kunz v. Kaufungen). Am Fusse d. Schlossberges Siegesdenkm. u. Denkmal Kais. Wilh. I. Am Markte d. 1562-64 im deutsch. Renaissancestil erb. Rath. Von Kirchen sind zu erw. die 1087 geb. u. 1878 ern. Bartholomäik., die 1411 erb. spätgot. Schlosskirche. Sehensw. noch die Roten Spitzen, ehem. Augustinerkl., 1172 v. Kaiser Friedr. I. gegr., 1533 aufgeh., 1872 ern., enth. das Staatsarchiv. —A. hat schöne Promenaden an 3 grossen Teichen.
+16,9. 45,0 **Altenburg**. 178. P. T. B. Hier r. n. 10,9 Schmölln; 24,8 Ronneburg; 11,7 Meuselwitz; l. n. 22,1 Penig und 18.0 Waldenburg. Residenz d. Herzöge v. Sachs-Altenburg aus d. Hause Wettin ernestinischer L. Alte, ber. 980 urk. erw. St., i. 12. Jahrh. Reichsst., anf. d. 14. Jahrh. an d. Haus Wettin. Auf mächt., steil. Porphyrfelsen d. herzogl. Schloss a. d. 11. Jahrh. Nach verschied. Bränden 1706—44 neu geb. (die 1865 und 1868 abgebr. Flügel sind ern.), m. prächt. Saale, Rüstkammer, Kunstkammer, schönem Park. 8. Juli 1455 Prinzenraub (Kurf. Friedr. d. Sanftmüt. v. Sachs. Söhne Ernst u. Albert. Kunz v. Kaufungen). Am Fusse d. Schlossberges Siegesdenkm. u. Denkmal Kais. Wilh. I. Am Markte d. 1562-64 im deutsch. Renaissancestil erb. Rath. Von Kirchen sind zu erw. die 1087 geb. u. 1878 ern. Bartholomäik., die 1411 erb. spätgot. Schlosskirche. Sehensw. noch die Roten Spitzen, ehem. Augustinerkl., 1172 v. Kaiser Friedr. I. gegr., 1533 aufgeh., 1872 ern., enth. das Staatsarchiv. —A. hat schöne Promenaden an 3 grossen Teichen.
 
 
 
@@ -98,10 +98,10 @@ Manche der Tuchfabriken, Spinnereien und Färbereien, welche das Stadtbild lange
 ##### Sächsisches Industriemuseum
 In der historischen Tuchfabrik Gebr. Pfau ist inzwischen das Sächsische Industriemuseum untergebracht und macht die damaligen Produktionsbedingungen erlebbar.
 
-Sächsisches Industriemuseum
-Tuchfabrik Gebr. Pfau
-Leipziger Straße 125
-08451 Crimmitschau
+Sächsisches Industriemuseum  
+Tuchfabrik Gebr. Pfau  
+Leipziger Straße 125  
+08451 Crimmitschau  
 
 
 ## Crimmitschau nach Werdau
