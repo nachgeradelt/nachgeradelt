@@ -240,7 +240,7 @@ Silbersee ist die im Volksmund entstandene Bezeichnung für das Restloch des Tag
 - [Wikivoyage](https://de.wikivoyage.org/wiki/Wolfen)
 - [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Wolfen,_Germany)
 
-### I.G. Farbenindustrie A.G. 
+#### I.G. Farbenindustrie A.G. 
 - [Wikipedia](https://de.wikipedia.org/wiki/I.G._Farben) Gegründet 1925, Zusammenschluss von acht großen Chemiekonzernen zwecks Weltmarkt-Konkurrenzfähigkeit. Damals das größte Chemieunternehmen der Welt!
 
 - [Wikipedia](https://upload.wikimedia.org/wikipedia/commons/9/9d/IG_Farben_1932.jpg) Karte mit Übersicht der deutschen Chemieindustrie im Jahre 1932
