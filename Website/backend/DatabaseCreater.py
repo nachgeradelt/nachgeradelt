@@ -11,6 +11,10 @@ from database.Queries.Insert import INSERT
 from database.Queries.Indexe import Indexe
 
 def getAllDataFromCSV(file="",rows=[]):
+    """ Read all columms of a CSV file
+        @param file: path to the CSV file
+        @param rows: header of the CSV file
+    """
     reader = csv.DictReader(open(file, 'r'),
                             skipinitialspace=True,delimiter = ',', quotechar = '"', )
     allData =  []
@@ -38,7 +42,7 @@ if __name__ == '__main__':
     cnx.insertTableSimple(cityname,query= INSERT["waypoints"])
     allData = getAllDataFromCSV(file="../../tourenverzeichnis.csv",
                             rows = ["Start","Über1","Über2","Über3","Über4","Über5","Über6","Über7","Über8","Ziel",
-                                    "Länge in km","Verlinkung zum Fahrtenbuch","Erscheinungsjahr"]) 
+                                    "Länge in km","Verlinkung zum Fahrtenbuch","Erscheinungsjahr"])
     allTours = []
     city_rows = cnx.readTable(query="Select id, name from waypoints")
     waypoints_tour = []

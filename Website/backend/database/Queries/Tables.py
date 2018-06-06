@@ -5,6 +5,8 @@ Created on May 10, 2018
 @author: iranox
 '''
 
+"""This are all needed Tables """
+
 TABLES = {}
 TABLES['waypoints'] = ("CREATE TABLE IF NOT EXISTS `waypoints` ( `id` int(11) NOT NULL AUTO_INCREMENT,"
     "`name` varchar(30) NOT NULL,"
@@ -37,4 +39,3 @@ TABLES['quotes'] = ("CREATE TABLE IF NOT EXISTS `quotes` ( `id` int(11) NOT NULL
     " `link` text,"
     "  PRIMARY KEY (`id`)"
     ") ENGINE=InnoDB")
-    

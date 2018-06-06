@@ -9,10 +9,11 @@ import yaml
 
 app = Flask(__name__)
 
-datamanger = DatabaseManager(configfile=None, host="localhost", database="radfahrerwissen",
-                                           user="root", password="password")
+
 
 configfile = "config.yml"
+
+datamanger = DatabaseManager(configfile=configfile)
 
 @app.route("/v1/city")
 def getAllCities():
