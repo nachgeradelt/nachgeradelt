@@ -243,12 +243,10 @@ Silbersee ist die im Volksmund entstandene Bezeichnung für das Restloch des Tag
 ### I.G. Farbenindustrie A.G. 
 - [Wikipedia](https://de.wikipedia.org/wiki/I.G._Farben) Gegründet 1925, Zusammenschluss von acht großen Chemiekonzernen zwecks Weltmarkt-Konkurrenzfähigkeit. Damals das größte Chemieunternehmen der Welt!
 
-- [Wikipedia](https://upload.wikimedia.org/wikipedia/commons/9/9d/IG_Farben_1932.jpg)Karte mit Übersicht der deutschen Chemieindustrie im Jahre 1932:
+- [Wikipedia](https://upload.wikimedia.org/wikipedia/commons/9/9d/IG_Farben_1932.jpg) Karte mit Übersicht der deutschen Chemieindustrie im Jahre 1932
 
 Die Interessengemeinschaft hat zahlreiche Patente hervorgebracht, war gleichzeitig aber auch aktiver Unterstützer und Akteur der Verbrechen des 3.Reichs.
-- [Buchtipp "Studien Geschichte der Filmfabrik Wolfen und er IG Farbenindustrie AG in Mitteldeutschland](https://klartext-verlag.de/programm/fachbuch/wirtschafts-technikgeschichte/1891/studien-zur-geschichte-der-filmfabrik-wolfen-und-der-ig-farbenindustrie-ag-in-mitteldeutschland) Buch zu den Verbrechen der I.G. Farbenindustrie im 3. Reich.
-
-
+- [Buchtipp](https://klartext-verlag.de/programm/fachbuch/wirtschafts-technikgeschichte/1891/studien-zur-geschichte-der-filmfabrik-wolfen-und-der-ig-farbenindustrie-ag-in-mitteldeutschland) Studien zur Geschichte der Filmfabrik und IG Farbenindustrie und deren Verbrechen im 3. Reich.
 
 
 #### Filmfabrik Wolfen (12.262589 51.656583)
@@ -383,6 +381,9 @@ Kirche mit weithin sichtbarem Turm, 1809 im gotischen Stile erneuert. Schloß un
 - [Wikipedia](https://de.wikipedia.org/wiki/W%C3%B6rlitzer_Park)
 - [Wikidata](https://www.wikidata.org/wiki/Q638162)
 - [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:W%C3%B6rlitzer_Park?uselang=de)
+
+#### Gondelfahrt auf dem Wörlitzer See
+Gondelfahrten sind auch heute noch möglich und können von April bis November [hier](http://www.gartenreich.com/de/besuchen/gondeln_faehren/gondeln/index.html) gebucht werden!
 
 ## Wörlitz nach Bitterfeld
 
