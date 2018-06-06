@@ -241,13 +241,13 @@ Silbersee ist die im Volksmund entstandene Bezeichnung für das Restloch des Tag
 - [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Wolfen,_Germany)
 
 ### I.G. Farbenindustrie A.G. 
-Gegründet 1925, Zusammenschluss von acht großen Chemiekonzernen zwecks Weltmarkt-Konkurrenzfähigkeit. Damals dass größte Chemieunternehmen der Welt!
-- [Wikipedia](https://de.wikipedia.org/wiki/I.G._Farben) 
-Karte mit Übersicht der deutschen Chemieindustrie im Jahre 1932:
-- [Wikipedia](https://upload.wikimedia.org/wikipedia/commons/9/9d/IG_Farben_1932.jpg)
+- [Wikipedia](https://de.wikipedia.org/wiki/I.G._Farben) Gegründet 1925, Zusammenschluss von acht großen Chemiekonzernen zwecks Weltmarkt-Konkurrenzfähigkeit. Damals das größte Chemieunternehmen der Welt!
+
+- [Wikipedia](https://upload.wikimedia.org/wikipedia/commons/9/9d/IG_Farben_1932.jpg)Karte mit Übersicht der deutschen Chemieindustrie im Jahre 1932:
+
 Die Interessengemeinschaft hat zahlreiche Patente hervorgebracht, war gleichzeitig aber auch aktiver Unterstützer und Akteur der Verbrechen des 3.Reichs.
-Buch zu den Verbrechen der I.G. Farbenindustrie im 3. Reich: 
-- [Buchtipp "Studien Geschichte der Filmfabrik Wolfen und er IG Farbenindustrie AG in Mitteldeutschland](https://klartext-verlag.de/programm/fachbuch/wirtschafts-technikgeschichte/1891/studien-zur-geschichte-der-filmfabrik-wolfen-und-der-ig-farbenindustrie-ag-in-mitteldeutschland)
+- [Buchtipp "Studien Geschichte der Filmfabrik Wolfen und er IG Farbenindustrie AG in Mitteldeutschland](https://klartext-verlag.de/programm/fachbuch/wirtschafts-technikgeschichte/1891/studien-zur-geschichte-der-filmfabrik-wolfen-und-der-ig-farbenindustrie-ag-in-mitteldeutschland) Buch zu den Verbrechen der I.G. Farbenindustrie im 3. Reich.
+
 
 
 
