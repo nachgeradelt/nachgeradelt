@@ -240,6 +240,17 @@ Silbersee ist die im Volksmund entstandene Bezeichnung für das Restloch des Tag
 - [Wikivoyage](https://de.wikivoyage.org/wiki/Wolfen)
 - [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Wolfen,_Germany)
 
+### I.G. Farbenindustrie A.G. 
+Gegründet 1925, Zusammenschluss von acht großen Chemiekonzernen zwecks Weltmarkt-Konkurrenzfähigkeit. Damals dass größte Chemieunternehmen der Welt!
+- [Wikipedia](https://de.wikipedia.org/wiki/I.G._Farben) 
+Karte mit Übersicht der deutschen Chemieindustrie im Jahre 1932:
+- [Wikipedia](https://upload.wikimedia.org/wikipedia/commons/9/9d/IG_Farben_1932.jpg)
+Die Interessengemeinschaft hat zahlreiche Patente hervorgebracht, war gleichzeitig aber auch aktiver Unterstützer und Akteur der Verbrechen des 3.Reichs.
+Buch zu den Verbrechen der I.G. Farbenindustrie im 3. Reich: 
+- [Buchtipp "Studien Geschichte der Filmfabrik Wolfen und er IG Farbenindustrie AG in Mitteldeutschland](https://klartext-verlag.de/programm/fachbuch/wirtschafts-technikgeschichte/1891/studien-zur-geschichte-der-filmfabrik-wolfen-und-der-ig-farbenindustrie-ag-in-mitteldeutschland)
+
+
+
 #### Filmfabrik Wolfen (12.262589 51.656583)
 - [Wikipedia](https://de.wikipedia.org/wiki/Filmfabrik_Wolfen)
 - [Wikidata](https://www.wikidata.org/wiki/Q566399)
