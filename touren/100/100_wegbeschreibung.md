@@ -1,6 +1,8 @@
 
 # Tourbeschreibung: 100. Leipzig— Zwenkau — Lobstädt — Altenburg — Crimmitschau — Werdau [...].
 
+aus SLUB Dresden: B. Böhm, "Touren-Buch des Sächsischen Radfahrer-Bundes", 1899, http://digital.slub-dresden.de/id407531238 (CC-BY-SA 4.0).
+
 \[79,6\] km guter, erst ebener, dann welliger und hügeliger Strasse.
 
 
