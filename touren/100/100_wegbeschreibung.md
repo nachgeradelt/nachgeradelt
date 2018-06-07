@@ -27,7 +27,7 @@ aus SLUB Dresden: B. Böhm, "Touren-Buch des Sächsischen Radfahrer-Bundes", 189
 #### Leipzig
 
 ##### Karl-Liebknecht-Straße (ehem. Zeitzer Straße und Südstraße)
-Zeitzer Straße und Südstraße wurden 1933 zusammengelegt und in Adolf-Hitler-Straße umbenannt. Nach Ende des 2. Weltkriegs erhielt sie unter US-amerikanischer Besatzung zunächst ihren alten Namen zurück, bevor sie im selben Jahr unter sowjetischer Besatzung in Karl-Liebknecht-Straße umbenannt wurde.
+Zeitzer Straße und Südstraße wurden 1933 zusammengelegt und in Adolf-Hitler-Straße umbenannt. Nach Ende des Zweiten Weltkriegs erhielt sie unter US-amerikanischer Besatzung zunächst ihren alten Namen zurück, bevor sie im selben Jahr unter sowjetischer Besatzung in Karl-Liebknecht-Straße umbenannt wurde.
 
 ##### Restaurant Forsthaus Raschwitz
 Das Restaurant „Forsthaus Raschwitz“ lädt schon 1900 alle Radfahrenden zu einer Pause ein: „Dieses große Etablissement mit seinen ausgedehnten Gartenanlagen bildet im gewissen Sinne den Brennpunkt des Ausflüglerlebens. Hier geben sich die Radlerinnen und Radler ihr Rendezvous, und wenn man an Sonn- und Festtagen die Straße beobachtet, sollte man fast glauben, es seien die Stahlrosse zur alleinherrschenden Macht auf dem Gebiete des Verkehrswesens geworden" (SLUB Dresden: "Adreßbuch für die südlichen Vororte Leipzigs", 1904, http://digital.slub-dresden.de/id403758513-19040000, IV. Abt., S. 4).
