@@ -6,15 +6,12 @@
 
 <!-- TOC depthFrom:2 depthTo:2 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-- [Leipzig](#leipzig)
 - [Leipzig nach Zwenkau](#leipzig-nach-zwenkau)
 - [Zwenkau nach Altenburg](#zwenkau-nach-altenburg)
 - [Altenburg nach Crimmitschau](#altenburg-nach-crimmitschau)
 - [Crimmitschau nach Werdau](#crimmitschau-nach-werdau)
 
 <!-- /TOC -->
-
-## Leipzig 
 
 
 ## Leipzig nach Zwenkau
@@ -25,12 +22,13 @@
 
 ### Wegpunkte
 
-#### Karl-Liebknecht-Straße (ehem. Zeitzer Straße und Südstraße)
+#### Leipzig
+
+##### Karl-Liebknecht-Straße (ehem. Zeitzer Straße und Südstraße)
 Zeitzer Straße und Südstraße wurden 1933 zusammengelegt und in Adolf-Hitler-Straße umbenannt. Nach Ende des 2. Weltkriegs erhielt sie unter US-amerikanischer Besatzung zunächst ihren alten Namen zurück, bevor sie im selben Jahr unter sowjetischer Besatzung in Karl-Liebknecht-Straße umbenannt wurde.
 
-#### Restaurant Forsthaus Raschwitz
-Das Restaurant „Forsthaus Raschwitz“ lädt schon 1900 alle Radfahrenden zu einer Pause ein: „Dieses große Etablissement mit seinen ausgedehnten Gartenanlagen bildet im gewissen Sinne den Brennpunkt des Ausflüglerlebens. Hier geben sich die Radlerinnen und Radler ihr Rendezvous, und wenn man an Sonn- und Festtagen die Straße beobachtet, sollte man fast glauben, es seien die Stahlrosse zur alleinherrschenden Macht auf dem Gebiete des Verkehrswesens geworden.“  
-aus: [SLUB Dresden: "Adreßbuch für die südlichen Vororte Leipzigs", 1904, http://digital.slub-dresden.de/id403758513-19040000, IV. Abt., S. 4.](http://digital.slub-dresden.de/werkansicht/dlf/105288/421/0/)\)
+##### Restaurant Forsthaus Raschwitz
+Das Restaurant „Forsthaus Raschwitz“ lädt schon 1900 alle Radfahrenden zu einer Pause ein: „Dieses große Etablissement mit seinen ausgedehnten Gartenanlagen bildet im gewissen Sinne den Brennpunkt des Ausflüglerlebens. Hier geben sich die Radlerinnen und Radler ihr Rendezvous, und wenn man an Sonn- und Festtagen die Straße beobachtet, sollte man fast glauben, es seien die Stahlrosse zur alleinherrschenden Macht auf dem Gebiete des Verkehrswesens geworden" (SLUB Dresden: "Adreßbuch für die südlichen Vororte Leipzigs", 1904, http://digital.slub-dresden.de/id403758513-19040000, IV. Abt., S. 4).
 
 Restaurant Forsthaus Raschwitz  
 Koburger Straße 33  
@@ -46,7 +44,8 @@ Gaststätte Schützenhaus
 Geschwister-Scholl-Platz 1  
 04442 Zwenkau  
 
-![Anzeige Restaurant „Zum Schützenhaus“ Zwenkau](http://digital.slub-dresden.de/fileadmin/data/403758513-19040000/403758513-19040000_tif/jpegs/00000431.tif.large.jpg) aus: [SLUB Dresden: "Adreßbuch für die südlichen Vororte Leipzigs", 1904, http://digital.slub-dresden.de/id403758513-19040000,IV. Abt., S. 4.](http://digital.slub-dresden.de/werkansicht/dlf/105288/431/0/)
+![Anzeige Restaurant „Zum Schützenhaus“ Zwenkau](http://digital.slub-dresden.de/fileadmin/data/403758513-19040000/403758513-19040000_tif/jpegs/00000431.tif.large.jpg)
+SLUB Dresden: "Adreßbuch für die südlichen Vororte Leipzigs", 1904, http://digital.slub-dresden.de/id403758513-19040000,IV. Abt., S. 4.
 
 
 ## Zwenkau nach Altenburg
@@ -67,7 +66,9 @@ Die Gemeinde Pulgar wurde ab 1971 schrittweise abgebrochen und mit den Chemische
 
 - [Wikipedia: Lippendorf](https://de.wikipedia.org/wiki/Lippendorf)
 - [Wikipedia: Peres-Pulgar](https://de.wikipedia.org/wiki/Peres-Pulgar)
-![SLUB/Deutsche Fotothek: "Äquidistantenkarte 42 : Section Lobstädt", 1894, http://www.deutschefotothek.de/documents/obj/71055352 (CC-BY-SA 4.0).](http://fotothek.slub-dresden.de/fotos/df/dk/0010000/df_dk_0010001_4840_1894.jpg) 
+![Äquidistantenkarte 42 : Section Lobstädt, 1894](http://fotothek.slub-dresden.de/fotos/df/dk/0010000/df_dk_0010001_4840_1894.jpg)
+
+SLUB/Deutsche Fotothek: "Äquidistantenkarte 42 : Section Lobstädt", 1894, http://www.deutschefotothek.de/documents/obj/71055352 (CC-BY-SA 4.0).
 
 
 #### Lobstädt
@@ -90,15 +91,16 @@ Von A. hügelig w. üb. 1. 3,4 Mockern; 1,0 Gardschütz; r. 1,0 Lehndorf, P. T. 
 24,5. 69,5 Crimmitschau. 230. P. T. B. Cr. wird 1210 als Stadt erwähnt; 1430 v. d. hussit. Tschechen verbrannt, im dreissigjähr. Kriege fünfmal geplündert; besass 1794 noch seine Ringmauern mit 3 Thoren und 2 Türmen. 1748 Einführung der Streichgarnspinnerei durch David Oehler.
 
 ##### Textilstadt Crimmitschau
-Anknüpfend an die Initiative von David Friedrich Oehler hat sich Crimmitschau zu einem Zentrum der Textilindustrie entwickelt. Wer 1899 nach Crimmitschau radelt, erlebt eine wohlhabende Industriestadt. Schon aus der Ferne fallen die vielen Fabrikgebäude auf, die Crimmitschau den Spitznamen „Stadt der 100 Schornsteine“ eingebracht haben: „Der Reisende staunt bei dem Herannahen an die verhältnismäßig nicht eben groß zu nennende Stadt über den wahren Wald von Dampfessen, welcher sich oft dicht zusammengedrängt auf allen Stellen erhebt[...], so dass der ganze Platz den Anblick gewährt, als sei er eine einzige große Fabrik“.
-aus [SLUB Dresden: "Album der Sächsischen Industrie", 1856, http://digital.slub-dresden.de/id252070399, Bd. 1, S. 119, (CC-BY-SA 4.0).](https://digital.slub-dresden.de/werkansicht/dlf/505/233/0/)
+Anknüpfend an die Initiative von David Friedrich Oehler hat sich Crimmitschau zu einem Zentrum der Textilindustrie entwickelt. Wer 1899 nach Crimmitschau radelt, erlebt eine wohlhabende Industriestadt. Schon aus der Ferne fallen die vielen Fabrikgebäude auf, die Crimmitschau den Spitznamen „Stadt der 100 Schornsteine“ eingebracht haben: „Der Reisende staunt bei dem Herannahen an die verhältnismäßig nicht eben groß zu nennende Stadt über den wahren Wald von Dampfessen, welcher sich oft dicht zusammengedrängt auf allen Stellen erhebt[...], so dass der ganze Platz den Anblick gewährt, als sei er eine einzige große Fabrik“ (SLUB Dresden: "Album der Sächsischen Industrie", 1856, http://digital.slub-dresden.de/id252070399, Bd. 1, S. 119, (CC-BY-SA 4.0)).
 
-![SLUB/Deutsche Fotothek: G. Frank, "Ansicht von Crimmitschau", Lithografie, 1860, http://www.deutschefotothek.de/documents/obj/70401522 (CC-BY-SA 4.0).](http://fotothek.slub-dresden.de/fotos/df/dk/0005000/df_dk_0005155.jpg)
+![Ansicht von Crimmitschau, Lithografie, 1860](http://fotothek.slub-dresden.de/fotos/df/dk/0005000/df_dk_0005155.jpg)
+SLUB/Deutsche Fotothek: G. Frank, "Ansicht von Crimmitschau", Lithografie, 1860, http://www.deutschefotothek.de/documents/obj/70401522 (CC-BY-SA 4.0).
 
 ##### Industriearchitektur
 Manche der Tuchfabriken, Spinnereien und Färbereien, welche das Stadtbild lange Zeit geprägt haben, existieren auch heute noch und sind in der Datenbank des Projekts [Industrie.Kultur.Ost](https://www.industrie-kultur-ost.de/datenbank/textilindustrie/gebiet-zwickau/) erfasst. 
 
-![Vigogne-Spinnerei von H. F. Kürzel in Crimmitschau](http://digital.slub-dresden.de/fileadmin/data/252070399/252070399_tif/jpegs/00000383.tif.large.jpg) aus SLUB Dresden: "Album der Sächsischen Industrie", 1856, http://digital.slub-dresden.de/id252070399, Bd. 1, (CC-BY-SA 4.0).
+![Vigogne-Spinnerei von H. F. Kürzel in Crimmitschau](http://digital.slub-dresden.de/fileadmin/data/252070399/252070399_tif/jpegs/00000383.tif.large.jpg)
+SLUB Dresden: "Album der Sächsischen Industrie", 1856, http://digital.slub-dresden.de/id252070399, Bd. 1, (CC-BY-SA 4.0).
 
 
 ##### Sächsisches Industriemuseum
@@ -124,10 +126,10 @@ Nun im Pleissenthale eben üb. 2,9 Neukirchen; 2,4 Kleinhessen; 1,8 Langenhessen
 ##### Radkultur
 Auch Werdau hat 1899 eine aktive Radler-Szene: Laut den historischen Adressbüchern gibt es in der Stadt im Jahr 1903 fünf verschiedene Radfahrer-Klubs, von denen drei seit 1897 neu gegründet wurden.
 
-Quelle: 
+Quelle:  
 SLUB Dresden: "Adreßbuch der Fabrikstadt Werdau mit den Vororten Leubnitz, Steinpleis und Langenhessen", 1903, http://digital.slub-dresden.de/id380404613-19030000 (CC-BY-SA 4.0).
 
 ##### Arbeiter-Radfahrer
-Wer fährt überhaupt Rad um 1900? Wegen der hohen Anschaffungskosten war Radfahren zunächst vor allem ein Sport des Bürgertums. Um 1900 ändert sich das: Als die Preise für Fahrräder sinken, können sich auch besser verdienende Fabrikarbeiter*innen ein gebrauchtes Rad leisten. In den 1890er Jahren gründen sich spezielle Arbeiter-Radfahrer-Klubs wie der „Arbeiter-Radfahrerbund Solidarität“, der sich ausdrücklich als Teil der Arbeiterbewegung versteht. Auch die Industriestadt Werdau verzeichnet für 1903 einen Ableger der „Solidarität“. Ihre Kritik an den bürgerlichen Vereinen bringt die „Solidarität“ so auf den Punkt: „[…] in diesen bürgerlichen radsportlichen Organisationen hat[] man es sich zur Aufgabe gemacht, in der Hauptsache dem Radrennsport zu huldigen und sich an allem möglichen patriotischen Klimbim zu beteiligen“ \([FES Bibliothek: A. Frahnert, "Werden und Wachsen des Arbeiter-Radfahrer-Bundes Solidarität: die Bundesgeschichte bis zum Jahre 1926", 1927, S. 9](https://library.fes.de/opac/id/181481)\).
+Wer fährt überhaupt Rad um 1900? Wegen der hohen Anschaffungskosten war Radfahren zunächst vor allem ein Sport des Bürgertums. Um 1900 ändert sich das: Als die Preise für Fahrräder sinken, können sich auch besser verdienende Fabrikarbeiter*innen ein gebrauchtes Rad leisten. In den 1890er Jahren gründen sich spezielle Arbeiter-Radfahrer-Klubs wie der „Arbeiter-Radfahrerbund Solidarität“, der sich ausdrücklich als Teil der Arbeiterbewegung versteht. Auch die Industriestadt Werdau verzeichnet für 1903 einen Ableger der „Solidarität“. Ihre Kritik an den bürgerlichen Vereinen bringt die „Solidarität“ so auf den Punkt: „[…] in diesen bürgerlichen radsportlichen Organisationen hat[] man es sich zur Aufgabe gemacht, in der Hauptsache dem Radrennsport zu huldigen und sich an allem möglichen patriotischen Klimbim zu beteiligen“ (FES Bibliothek: A. Frahnert, "Werden und Wachsen des Arbeiter-Radfahrer-Bundes Solidarität: die Bundesgeschichte bis zum Jahre 1926", 1927, https://library.fes.de/opac/id/181481, S. 9).
 
 
