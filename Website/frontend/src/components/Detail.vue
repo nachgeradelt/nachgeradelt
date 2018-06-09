@@ -106,7 +106,7 @@
           </p>
           <h6>Textilstadt Crimmitschau</h6>
             <p>
-              Anknüpfend an die Initiative von David Friedrich Oehler hat sich Crimmitschau zu einem Zentrum der Textilindustrie entwickelt. Wer 1899 nach Crimmitschau radelt, erlebt eine wohlhabende Industriestadt. Schon aus der Ferne fallen die vielen Fabrikgebäude auf, die Crimmitschau den Spitznamen „Stadt der 100 Schornsteine“ eingebracht haben:
+              Anknüpfend an die Initiative von David Friedrich Oehler hat sich Crimmitschau zu einem Zentrum der Textilindustrie entwickelt. Wer 1899 nach Crimmitschau radelt, sieht schon von weitem die vielen Fabrikgebäude, die Crimmitschau den Spitznamen „Stadt der 100 Schornsteine“ eingebracht haben:
             </p>
             <p>
               „Der Reisende staunt bei dem Herannahen [...] über den wahren Wald von Dampfessen, welcher sich oft dicht zusammengedrängt auf allen Stellen erhebt[...], so dass der ganze Platz den Anblick gewährt, als sei er eine einzige große Fabrik.“
