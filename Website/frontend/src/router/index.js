@@ -14,7 +14,9 @@ export default new Router({
       component: Tour
     },
     {
+      name: 'detail',
       path: '/detail',
+      props: true,
       component: Detail
     },
     {
