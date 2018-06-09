@@ -21,7 +21,13 @@
             </p>
           <h6>Restaurant Forsthaus Raschwitz</h6>
             <p>
-              Das Restaurant „Forsthaus Raschwitz“ lädt schon 1900 alle Radfahrenden zu einer Pause ein: „Dieses große Etablissement mit seinen ausgedehnten Gartenanlagen bildet im gewissen Sinne den Brennpunkt des Ausflüglerlebens. Hier geben sich die Radlerinnen und Radler ihr Rendezvous, und wenn man an Sonn- und Festtagen die Straße beobachtet, sollte man fast glauben, es seien die Stahlrosse zur alleinherrschenden Macht auf dem Gebiete des Verkehrswesens geworden" (SLUB Dresden: "Adreßbuch für die südlichen Vororte Leipzigs", 1904, http://digital.slub-dresden.de/id403758513-19040000, IV. Abt., S. 4).
+              Das Restaurant „Forsthaus Raschwitz“ lädt schon 1900 alle Radfahrenden zu einer Pause ein:
+            </p>
+            <p>
+              „Hier geben sich die Radlerinnen und Radler ihr Rendezvous, und wenn man an Sonn- und Festtagen die Straße beobachtet, sollte man fast glauben, es seien die Stahlrosse zur alleinherrschenden Macht auf dem Gebiete des Verkehrswesens geworden."
+            </p>
+            <p>
+              aus SLUB Dresden: "Adreßbuch für die südlichen Vororte Leipzigs", 1904, http://digital.slub-dresden.de/id403758513-19040000, IV. Abt., S. 4.
             </p>
             <p>
               Restaurant Forsthaus Raschwitz
@@ -58,10 +64,6 @@
           Weiter üb. Kotzschbar u. Imnitz (m. alt. Kapelle) zur 1,2 Strassengabelung; h. 1. üb. 2,9 Pulgar; 2.0 Medewitzsch: 4,1 Bahnh. Kieritzsch P. T. B.; 3,4 n.
         </p>
       <h4>Wegpunkte</h4>
-        <h5>Imnitz</h5>
-          <p>
-            Imnitz wurde 1929 eingemeindet und ist heute ein Stadtteil von Zwenkau.
-          </p>
         <h5>Neukieritzsch (ehem. Medewitzsch, Pulgar)</h5>
           <p>
             Das Dorf Medewitzsch wurde 1934 nach Lippendorf eingemeindet, dabei verdrängte der Ortsname Lippendorf den Ortsnamen Medewitzsch. Heute gehört Lippendorf zur Gemeinde Neukieritzsch.
@@ -97,7 +99,13 @@
           </p>
           <h6>Textilstadt Crimmitschau</h6>
             <p>
-              Anknüpfend an die Initiative von David Friedrich Oehler hat sich Crimmitschau zu einem Zentrum der Textilindustrie entwickelt. Wer 1899 nach Crimmitschau radelt, erlebt eine wohlhabende Industriestadt. Schon aus der Ferne fallen die vielen Fabrikgebäude auf, die Crimmitschau den Spitznamen „Stadt der 100 Schornsteine“ eingebracht haben: „Der Reisende staunt bei dem Herannahen an die verhältnismäßig nicht eben groß zu nennende Stadt über den wahren Wald von Dampfessen, welcher sich oft dicht zusammengedrängt auf allen Stellen erhebt[...], so dass der ganze Platz den Anblick gewährt, als sei er eine einzige große Fabrik“ (SLUB Dresden: "Album der Sächsischen Industrie", 1856, http://digital.slub-dresden.de/id252070399, Bd. 1, S. 119, (CC-BY-SA 4.0)).
+              Anknüpfend an die Initiative von David Friedrich Oehler hat sich Crimmitschau zu einem Zentrum der Textilindustrie entwickelt. Wer 1899 nach Crimmitschau radelt, erlebt eine wohlhabende Industriestadt. Schon aus der Ferne fallen die vielen Fabrikgebäude auf, die Crimmitschau den Spitznamen „Stadt der 100 Schornsteine“ eingebracht haben:
+            </p>
+            <p>
+              „Der Reisende staunt bei dem Herannahen [...] über den wahren Wald von Dampfessen, welcher sich oft dicht zusammengedrängt auf allen Stellen erhebt[...], so dass der ganze Platz den Anblick gewährt, als sei er eine einzige große Fabrik.“
+            </p>
+            <p>
+              aus SLUB Dresden: "Album der Sächsischen Industrie", 1856, http://digital.slub-dresden.de/id252070399, Bd. 1, S. 119, (CC-BY-SA 4.0).
             </p>
             <div>
               <img src="http://fotothek.slub-dresden.de/fotos/df/dk/0005000/df_dk_0005155.jpg" alt="Ansicht von Crimmitschau, Lithografie, 1860">
@@ -107,7 +115,7 @@
             </div>
           <h6>Industriearchitektur</h6>
             <p>
-              Manche der Tuchfabriken, Spinnereien und Färbereien, welche das Stadtbild lange Zeit geprägt haben, existieren auch heute noch und sind in der Datenbank des Projekts [Industrie.Kultur.Ost](https://www.industrie-kultur-ost.de/datenbank/textilindustrie/gebiet-zwickau/) erfasst.
+              Manche der Tuchfabriken, Spinnereien und Färbereien, welche das Stadtbild lange Zeit geprägt haben, existieren auch heute noch und sind in der Datenbank des Projekts Industrie.Kultur.Ost (https://www.industrie-kultur-ost.de/datenbank/textilindustrie/gebiet-zwickau/) erfasst.
             </p>
             <div>
               <img src="http://digital.slub-dresden.de/fileadmin/data/252070399/252070399_tif/jpegs/00000383.tif.large.jpg" alt="Vigogne-Spinnerei von H. F. Kürzel in Crimmitschau">
@@ -140,7 +148,7 @@
           <p>
             10,1. 79,6 Werdau. 281. P. T. B. Hier l. n. 10,0 Zwickau. —1298 als Stadt angeführt; 1430 Zerstörung durch d. Hussiten, 1633 Pest. W. hatte früher starke Stadtmauer mit zwei Thoren. — Bedeutende Textilindustrie.
           </p>
-          <h6>Radkultur</h6>
+          <h6>Radkultur um 1900</h6>
             <p>
               Auch Werdau hat 1899 eine aktive Radler-Szene: Laut den historischen Adressbüchern gibt es in der Stadt im Jahr 1903 fünf verschiedene Radfahrer-Klubs, von denen drei seit 1897 neu gegründet wurden.
             </p>
@@ -155,7 +163,10 @@
               In den 1890er Jahren gründen sich spezielle Arbeiter-Radfahrer-Klubs wie der „Arbeiter-Radfahrerbund Solidarität“, der sich ausdrücklich als Teil der Arbeiterbewegung versteht. Auch die Industriestadt Werdau verzeichnet für 1903 einen Ableger der „Solidarität“.
             </p>
             <p>
-              Ihre Kritik an den bürgerlichen Vereinen bringt die „Solidarität“ so auf den Punkt: „[…] in diesen bürgerlichen radsportlichen Organisationen hat[] man es sich zur Aufgabe gemacht, in der Hauptsache dem Radrennsport zu huldigen und sich an allem möglichen patriotischen Klimbim zu beteiligen“ (FES Bibliothek: A. Frahnert, "Werden und Wachsen des Arbeiter-Radfahrer-Bundes Solidarität: die Bundesgeschichte bis zum Jahre 1926", 1927, https://library.fes.de/opac/id/181481, S. 9).
+              Ihre Kritik an den bürgerlichen Vereinen bringt die „Solidarität“ so auf den Punkt: „[…] in diesen bürgerlichen radsportlichen Organisationen hat[] man es sich zur Aufgabe gemacht, in der Hauptsache dem Radrennsport zu huldigen und sich an allem möglichen patriotischen Klimbim zu beteiligen.“
+            </p>
+            <p>
+              aus FES Bibliothek: A. Frahnert, "Werden und Wachsen des Arbeiter-Radfahrer-Bundes Solidarität: die Bundesgeschichte bis zum Jahre 1926", 1927, https://library.fes.de/opac/id/181481, S. 9.
             </p>
 
     </div>
@@ -167,41 +178,39 @@
 export default {
 
   name: 'Detail',
-  mounted() {
-    var acc = document.getElementsByClassName("accordion");
-    var i;
+  mounted () {
+    var acc = document.getElementsByClassName('accordion')
+    var i
 
     for (i = 0; i < acc.length; i++) {
-        acc[i].addEventListener("click", function() {
-
-             /* Deactivate other panels */
-            for (var j = 0; j < acc.length; j++) {
-                if (i != j) {
-                  acc[j].classList.toggle("active");
-                  var panel = acc[j].nextElementSibling;
-                  panel.style.display = "none";
-                }
+      acc[i].addEventListener('click', function () {
+      /* Deactivate other panels */
+        var panel
+        for (var j = 0; j < acc.length; j++) {
+          if (this !== acc[j]) {
+            if (acc[j].classList.contains('active')) {
+              acc[j].classList.toggle('active')
             }
+            panel = acc[j].nextElementSibling
+            panel.style.display = 'none'
+          }
+        }
+        /* Toggle between adding and removing the "active" class,
+        to highlight the button that controls the panel */
 
-            /* Toggle between adding and removing the "active" class,
-            to highlight the button that controls the panel */
-            this.classList.toggle("active");
+        this.classList.toggle('active')
 
-            /* Toggle between hiding and showing the active panel */
-            var panel = this.nextElementSibling;
-            if (panel.style.display === "block") {
-                panel.style.display = "none";
-            } else {
-                panel.style.display = "block";
-            }
+        /* Toggle between hiding and showing the active panel */
+        panel = this.nextElementSibling
+        if (panel.style.display === 'block') {
+          panel.style.display = 'none'
+        } else {
+          panel.style.display = 'block'
+        }
 
-            this.scrollIntoView();
-
-
-        });
-      }
-
-
+        this.scrollIntoView()
+      })
+    }
   }
 }
 
@@ -215,18 +224,18 @@ export default {
   width: 60%
 }
 .accordion {
-    background-color: #eee;
+    background-color: #fff;
     color: #444;
     cursor: pointer;
     padding: 10px;
     width: 100%;
     text-align: left;
-    border: none;
+    border: dotted none;
     outline: none;
     transition: 0.4s;
 }
 .active, .accordion:hover {
-    background-color: #ccc;
+    background-color: #eee;
 }
 .panel {
     padding: 18px 18px;
