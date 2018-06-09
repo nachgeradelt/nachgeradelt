@@ -27,7 +27,7 @@
               „Hier geben sich die Radlerinnen und Radler ihr Rendezvous, und wenn man an Sonn- und Festtagen die Straße beobachtet, sollte man fast glauben, es seien die Stahlrosse zur alleinherrschenden Macht auf dem Gebiete des Verkehrswesens geworden."
             </p>
             <p>
-              aus SLUB Dresden: "Adreßbuch für die südlichen Vororte Leipzigs", 1904, http://digital.slub-dresden.de/id403758513-19040000, IV. Abt., S. 4.
+              aus SLUB Dresden: "Adreßbuch für die südlichen Vororte Leipzigs", 1904, <a href="http://digital.slub-dresden.de/id403758513-19040000">http://digital.slub-dresden.de/id403758513-19040000</a>, IV. Abt., S. 4.
             </p>
             <p>
               Restaurant Forsthaus Raschwitz
@@ -47,7 +47,7 @@
 
             <div>
               <img src="http://digital.slub-dresden.de/fileadmin/data/403758513-19040000/403758513-19040000_tif/jpegs/00000431.tif.large.jpg" alt="Anzeige Restaurant 'Zum Schützenhaus' Zwenkau">
-              <p>SLUB Dresden: "Adreßbuch für die südlichen Vororte Leipzigs", 1904, http://digital.slub-dresden.de/id403758513-19040000, IV. Abt., S. 4.</p>
+              <p>SLUB Dresden: "Adreßbuch für die südlichen Vororte Leipzigs", 1904, <a href="http://digital.slub-dresden.de/id403758513-19040000">http://digital.slub-dresden.de/id403758513-19040000</a>, IV. Abt., S. 4.</p>
             </div>
             <p>
               Gaststätte Schützenhaus
@@ -74,7 +74,7 @@
           <div>
             <img src="http://fotothek.slub-dresden.de/fotos/df/dk/0010000/df_dk_0010001_4840_1894.jpg" alt="Äquidistantenkarte 42: Section Lobstädt, 1894">
             <p>
-              SLUB/Deutsche Fotothek: "Äquidistantenkarte 42: Section Lobstädt", 1894, http://www.deutschefotothek.de/documents/obj/71055352 (CC-BY-SA 4.0).
+              SLUB/Deutsche Fotothek: "Äquidistantenkarte 42: Section Lobstädt", 1894, <a href="http://www.deutschefotothek.de/documents/obj/71055352">http://www.deutschefotothek.de/documents/obj/71055352</a> (CC-BY-SA 4.0).
             </p>
           </div>
         <h5>Lobstädt</h5>
@@ -105,22 +105,22 @@
               „Der Reisende staunt bei dem Herannahen [...] über den wahren Wald von Dampfessen, welcher sich oft dicht zusammengedrängt auf allen Stellen erhebt[...], so dass der ganze Platz den Anblick gewährt, als sei er eine einzige große Fabrik.“
             </p>
             <p>
-              aus SLUB Dresden: "Album der Sächsischen Industrie", 1856, http://digital.slub-dresden.de/id252070399, Bd. 1, S. 119, (CC-BY-SA 4.0).
+              aus SLUB Dresden: "Album der Sächsischen Industrie", 1856, <a href="http://digital.slub-dresden.de/id252070399">http://digital.slub-dresden.de/id252070399</a>, Bd. 1, S. 119, (CC-BY-SA 4.0).
             </p>
             <div>
               <img src="http://fotothek.slub-dresden.de/fotos/df/dk/0005000/df_dk_0005155.jpg" alt="Ansicht von Crimmitschau, Lithografie, 1860">
               <p>
-                SLUB/Deutsche Fotothek: G. Frank, "Ansicht von Crimmitschau", Lithografie, 1860, http://www.deutschefotothek.de/documents/obj/70401522 (CC-BY-SA 4.0).
+                SLUB/Deutsche Fotothek: G. Frank, "Ansicht von Crimmitschau", Lithografie, 1860, <a href="http://www.deutschefotothek.de/documents/obj/70401522">http://www.deutschefotothek.de/documents/obj/70401522</a> (CC-BY-SA 4.0).
               </p>
             </div>
           <h6>Industriearchitektur</h6>
             <p>
-              Manche der Tuchfabriken, Spinnereien und Färbereien, welche das Stadtbild lange Zeit geprägt haben, existieren auch heute noch und sind in der Datenbank des Projekts Industrie.Kultur.Ost (https://www.industrie-kultur-ost.de/datenbank/textilindustrie/gebiet-zwickau/) erfasst.
+              Manche der Tuchfabriken, Spinnereien und Färbereien, welche das Stadtbild lange Zeit geprägt haben, existieren auch heute noch und sind in der Datenbank des Projekts <a href="https://www.industrie-kultur-ost.de/datenbank/textilindustrie/gebiet-zwickau/">Industrie.Kultur.Ost</a> erfasst.
             </p>
             <div>
               <img src="http://digital.slub-dresden.de/fileadmin/data/252070399/252070399_tif/jpegs/00000383.tif.large.jpg" alt="Vigogne-Spinnerei von H. F. Kürzel in Crimmitschau">
               <p>
-                SLUB Dresden: "Album der Sächsischen Industrie", 1856, http://digital.slub-dresden.de/id252070399, Bd. 1, (CC-BY-SA 4.0).
+                SLUB Dresden: "Album der Sächsischen Industrie", 1856, <a href="http://digital.slub-dresden.de/id252070399">http://digital.slub-dresden.de/id252070399</a>, Bd. 1, (CC-BY-SA 4.0).
               </p>
             </div>
           <h6>Sächsisches Industriemuseum</h6>
@@ -148,12 +148,12 @@
           <p>
             10,1. 79,6 Werdau. 281. P. T. B. Hier l. n. 10,0 Zwickau. —1298 als Stadt angeführt; 1430 Zerstörung durch d. Hussiten, 1633 Pest. W. hatte früher starke Stadtmauer mit zwei Thoren. — Bedeutende Textilindustrie.
           </p>
-          <h6>Radkultur um 1900</h6>
+          <h6>Fahrradfieber um 1900</h6>
             <p>
               Auch Werdau hat 1899 eine aktive Radler-Szene: Laut den historischen Adressbüchern gibt es in der Stadt im Jahr 1903 fünf verschiedene Radfahrer-Klubs, von denen drei seit 1897 neu gegründet wurden.
             </p>
             <p>
-              Quelle: SLUB Dresden: "Adreßbuch der Fabrikstadt Werdau mit den Vororten Leubnitz, Steinpleis und Langenhessen", 1903, http://digital.slub-dresden.de/id380404613-19030000 (CC-BY-SA 4.0).
+              aus SLUB Dresden: "Adreßbuch der Fabrikstadt Werdau mit den Vororten Leubnitz, Steinpleis und Langenhessen", 1903, <a href="http://digital.slub-dresden.de/id380404613-19030000">http://digital.slub-dresden.de/id380404613-19030000</a> (CC-BY-SA 4.0).
             </p>
           <h6>Arbeiter-Radfahrer</h6>
             <p>
@@ -166,10 +166,14 @@
               Ihre Kritik an den bürgerlichen Vereinen bringt die „Solidarität“ so auf den Punkt: „[…] in diesen bürgerlichen radsportlichen Organisationen hat[] man es sich zur Aufgabe gemacht, in der Hauptsache dem Radrennsport zu huldigen und sich an allem möglichen patriotischen Klimbim zu beteiligen.“
             </p>
             <p>
-              aus FES Bibliothek: A. Frahnert, "Werden und Wachsen des Arbeiter-Radfahrer-Bundes Solidarität: die Bundesgeschichte bis zum Jahre 1926", 1927, https://library.fes.de/opac/id/181481, S. 9.
+              aus FES Bibliothek: A. Frahnert, "Werden und Wachsen des Arbeiter-Radfahrer-Bundes Solidarität: die Bundesgeschichte bis zum Jahre 1926", 1927, <a href="https://library.fes.de/opac/id/181481">https://library.fes.de/opac/id/181481</a>, S. 9.
             </p>
-
     </div>
+    <div class="source">
+      <p>
+        aus SLUB Dresden: B. Böhm, "Touren-Buch des Sächsischen Radfahrer-Bundes", 1899, <a href="http://digital.slub-dresden.de/id407531238">http://digital.slub-dresden.de/id407531238</a> (CC-BY-SA 4.0).
+      </p>
+  </div>
 </div>
 </template>
 
@@ -224,24 +228,28 @@ export default {
   width: 60%
 }
 .accordion {
-    background-color: #fff;
-    color: #444;
-    cursor: pointer;
-    padding: 10px;
-    width: 100%;
-    text-align: left;
-    border: dotted none;
-    outline: none;
-    transition: 0.4s;
+  background-color: #fff;
+  color: #444;
+  cursor: pointer;
+  padding: 10px;
+  width: 100%;
+  text-align: left;
+  border-style: none none dotted none;
+  border-color: #444;
+  outline: none;
+  transition: 0.4s;
 }
 .active, .accordion:hover {
-    background-color: #eee;
+  background-color: #eee;
 }
 .panel {
-    padding: 18px 18px;
-    background-color: white;
-    display: none;
-    overflow: hidden;
+  padding: 18px 18px;
+  background-color: white;
+  display: none;
+  overflow: hidden;
+}
+.source {
+  padding: 30px 0 0 0;
 }
 img {
   width: 100%;
