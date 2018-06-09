@@ -42,10 +42,10 @@
       <h3>Touren</h3>
       <ul>
         <li>
-          <router-link :to="{ name: 'detail', params: {id: 46, name: 'Leipzig - Dessau - Wörlitz' } }">Leipzig - Dessau - Wörlitz</router-link>
+          <router-link :to="'/detail/46'">Leipzig - Dessau - Wörlitz</router-link>
         </li>
         <li>
-          <router-link :to="{ name: 'detail', params: {id: 100, name: 'Leipzig - Altenburg - Werdau' } }">Leipzig - Altenburg - Werdau</router-link>
+          <router-link :to="'/detail/100'">Leipzig - Altenburg - Werdau</router-link>
         </li>
       </ul>
     </div>
@@ -68,7 +68,7 @@ import router from '../router/index.js'
 
 function onEachFeature (feature, layer) {
   let popupContent = Vue.extend({
-    template: `<div><p><router-link :to="{ name: 'detail', params: {id: ${layer.options.id}, name: '${layer.options.name}' } }">Details zur Route ${layer.options.name}</router-link></p></div>`,
+    template: `<div><p><router-link :to="'/detail/${layer.options.id}'">Details zur Route ${layer.options.name}</router-link></p></div>`,
     router
   })
   let popup = new popupContent()
