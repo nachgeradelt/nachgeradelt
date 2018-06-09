@@ -1,13 +1,14 @@
 <template>
 <div class="detail">
-  <h2>Deine historische Radtour: Leipzig — Werdau.</h2>
-  <p>
-    Über Zwenkau — Lobstädt — Altenburg — Crimmitschau
-  </p>
-  <p>
-    79,6 km guter, erst ebener, dann welliger und hügeliger Strasse.
-  </p>
-  <button class="accordion"><h3>Leipzig nach Zwenkau</h3></button>
+  <h2>Deine historische Radtour: {{$route.params.id === '46' ?  'Leipzig - Dessau - Wörlitz' : 'Leipzig - Altenburg - Werdau'}}</h2>
+  <div v-show="$route.params.id === '100'">
+    <p>
+      Über Lobstädt — Altenburg — Crimmitschau
+    </p>
+    <p>
+      79,6 km guter, erst ebener, dann welliger und hügeliger Strasse.
+    </p>
+    <button class="accordion"><h3>Leipzig nach Zwenkau</h3></button>
     <div class="panel">
       <h4>Wegbeschreibung</h4>
       <p>
@@ -57,12 +58,12 @@
               04442 Zwenkau
             </p>
     </div>
-  <button class="accordion"><h3>Zwenkau nach Altenburg</h3></button>
+    <button class="accordion"><h3>Zwenkau nach Altenburg</h3></button>
     <div class="panel">
       <h4>Wegbeschreibung</h4>
-        <p>
-          Weiter üb. Kotzschbar u. Imnitz (m. alt. Kapelle) zur 1,2 Strassengabelung; h. 1. üb. 2,9 Pulgar; 2.0 Medewitzsch: 4,1 Bahnh. Kieritzsch P. T. B.; 3,4 n.
-        </p>
+      <p>
+        Weiter üb. Kotzschbar u. Imnitz (m. alt. Kapelle) zur 1,2 Strassengabelung; h. 1. üb. 2,9 Pulgar; 2.0 Medewitzsch: 4,1 Bahnh. Kieritzsch P. T. B.; 3,4 n.
+      </p>
       <h4>Wegpunkte</h4>
         <h5>Neukieritzsch (ehem. Medewitzsch, Pulgar)</h5>
           <p>
@@ -77,21 +78,27 @@
               SLUB/Deutsche Fotothek: "Äquidistantenkarte 42: Section Lobstädt", 1894, <a href="http://www.deutschefotothek.de/documents/obj/71055352">http://www.deutschefotothek.de/documents/obj/71055352</a> (CC-BY-SA 4.0).
             </p>
           </div>
-        <h5>Lobstädt</h5>
-            <p>
-              13,6. 28,1 **Lobstädt**. 140. P. T. B. Hier Strassengabelung (1. l. n. 4,6 Borna), r. weiter sanft steigend üb. 4,5 r. Blumroda (h. 1. n. 5,0 Borna); 4,0 Serbitz; 0,8 Treben, P. T, B.; 3,1 Zschaschelwitz; üb. d. Str. Lucka-Geithain (l. n. 19,1 Geithain, r. n. 15,9 Lucka); mit stark. Fall 4,5 n.
-            </p>
-        <h5>Altenburg</h5>
-            <p>
-              16,9. 45,0 **Altenburg**. 178. P. T. B. Hier r. n. 10,9 Schmölln; 24,8 Ronneburg; 11,7 Meuselwitz; l. n. 22,1 Penig und 18.0 Waldenburg. Residenz d. Herzöge v. Sachs-Altenburg aus d. Hause Wettin ernestinischer L. Alte, ber. 980 urk. erw. St., i. 12. Jahrh. Reichsst., anf. d. 14. Jahrh. an d. Haus Wettin. Auf mächt., steil. Porphyrfelsen d. herzogl. Schloss a. d. 11. Jahrh. Nach verschied. Bränden 1706—44 neu geb. (die 1865 und 1868 abgebr. Flügel sind ern.), m. prächt. Saale, Rüstkammer, Kunstkammer, schönem Park. 8. Juli 1455 Prinzenraub (Kurf. Friedr. d. Sanftmüt. v. Sachs. Söhne Ernst u. Albert. Kunz v. Kaufungen). Am Fusse d. Schlossberges Siegesdenkm. u. Denkmal Kais. Wilh. I. Am Markte d. 1562-64 im deutsch. Renaissancestil erb. Rath. Von Kirchen sind zu erw. die 1087 geb. u. 1878 ern. Bartholomäik., die 1411 erb. spätgot. Schlosskirche. Sehensw. noch die Roten Spitzen, ehem. Augustinerkl., 1172 v. Kaiser Friedr. I. gegr., 1533 aufgeh., 1872 ern., enth. das Staatsarchiv. —A. hat schöne Promenaden an 3 grossen Teichen.
-            </p>
+      <h5>Lobstädt</h5>
+      <p>
+        13,6. 28,1 **Lobstädt**. 140. P. T. B. Hier Strassengabelung (1. l. n. 4,6 Borna), r. weiter sanft steigend üb. 4,5 r. Blumroda (h. 1. n. 5,0 Borna); 4,0 Serbitz; 0,8 Treben, P. T, B.; 3,1 Zschaschelwitz; üb. d. Str. Lucka-Geithain (l. n. 19,1 Geithain,
+        r. n. 15,9 Lucka); mit stark. Fall 4,5 n.
+      </p>
+      <h5>Altenburg</h5>
+      <p>
+        16,9. 45,0 **Altenburg**. 178. P. T. B. Hier r. n. 10,9 Schmölln; 24,8 Ronneburg; 11,7 Meuselwitz; l. n. 22,1 Penig und 18.0 Waldenburg. Residenz d. Herzöge v. Sachs-Altenburg aus d. Hause Wettin ernestinischer L. Alte, ber. 980 urk. erw. St., i. 12.
+        Jahrh. Reichsst., anf. d. 14. Jahrh. an d. Haus Wettin. Auf mächt., steil. Porphyrfelsen d. herzogl. Schloss a. d. 11. Jahrh. Nach verschied. Bränden 1706—44 neu geb. (die 1865 und 1868 abgebr. Flügel sind ern.), m. prächt. Saale, Rüstkammer,
+        Kunstkammer, schönem Park. 8. Juli 1455 Prinzenraub (Kurf. Friedr. d. Sanftmüt. v. Sachs. Söhne Ernst u. Albert. Kunz v. Kaufungen). Am Fusse d. Schlossberges Siegesdenkm. u. Denkmal Kais. Wilh. I. Am Markte d. 1562-64 im deutsch. Renaissancestil
+        erb. Rath. Von Kirchen sind zu erw. die 1087 geb. u. 1878 ern. Bartholomäik., die 1411 erb. spätgot. Schlosskirche. Sehensw. noch die Roten Spitzen, ehem. Augustinerkl., 1172 v. Kaiser Friedr. I. gegr., 1533 aufgeh., 1872 ern., enth. das Staatsarchiv.
+        —A. hat schöne Promenaden an 3 grossen Teichen.
+      </p>
     </div>
-  <button class="accordion"><h3>Altenburg nach Crimmitschau</h3></button>
+    <button class="accordion"><h3>Altenburg nach Crimmitschau</h3></button>
     <div class="panel">
       <h4>Wegbeschreibung</h4>
-        <p>
-          Von A. hügelig w. üb. 1. 3,4 Mockern; 1,0 Gardschütz; r. 1,0 Lehndorf, P. T. B.; 2,0 Zehma; 1,5 Löhmigen; 3,0 Gössnitz (hier r. üb. Nörditz, Nietzschka n. 6,6 Schmölln, —hinter Gössn. r. üb. Schönhain, Frankenhausen gute Str. n. 8,0 Crimmitschau); 4.0 Guteborn (hinter Guteb. 1. n. 1,9 Meerane); 4,3 Gasth. Silberner Pelikan (hier l. n. 6,5 Glauchau, geradeaus üb. Mosel n. 12,5 Zwickau); weiter r. n. 4,3 (Fall!)
-        </p>
+      <p>
+        Von A. hügelig w. üb. 1. 3,4 Mockern; 1,0 Gardschütz; r. 1,0 Lehndorf, P. T. B.; 2,0 Zehma; 1,5 Löhmigen; 3,0 Gössnitz (hier r. üb. Nörditz, Nietzschka n. 6,6 Schmölln, —hinter Gössn. r. üb. Schönhain, Frankenhausen gute Str. n. 8,0 Crimmitschau); 4.0
+        Guteborn (hinter Guteb. 1. n. 1,9 Meerane); 4,3 Gasth. Silberner Pelikan (hier l. n. 6,5 Glauchau, geradeaus üb. Mosel n. 12,5 Zwickau); weiter r. n. 4,3 (Fall!)
+      </p>
       <h4>Wegpunkte</h4>
         <h5>Crimmitschau</h5>
           <p>
@@ -140,10 +147,6 @@
   <button class="accordion"><h3>Crimmitschau nach Werdau</h3></button>
    <div class="panel">
       <h4>Wegbeschreibung</h4>
-        <p>
-          Nun im Pleissenthale eben üb. 2,9 Neukirchen; 2,4 Kleinhessen; 1,8 Langenhessen (hier r. n. 3,4 Langenbernsdorf); n. 3,0
-        </p>
-      <h4>Wegpunkte</h4>
         <h5>Werdau</h5>
           <p>
             10,1. 79,6 Werdau. 281. P. T. B. Hier l. n. 10,0 Zwickau. —1298 als Stadt angeführt; 1430 Zerstörung durch d. Hussiten, 1633 Pest. W. hatte früher starke Stadtmauer mit zwei Thoren. — Bedeutende Textilindustrie.
@@ -173,43 +176,78 @@
       <p>
         aus SLUB Dresden: B. Böhm, "Touren-Buch des Sächsischen Radfahrer-Bundes", 1899, <a href="http://digital.slub-dresden.de/id407531238">http://digital.slub-dresden.de/id407531238</a> (CC-BY-SA 4.0).
       </p>
+    </div>
+  </div>
+  <div v-show="$route.params.id === '46'">
+    <p>Über Eutritzsch — Wiederitzsch — Delitzsch — Wolfen</p>
+    <button class="accordion"><h3>Leipzig nach Eutritzsch</h3></button>
+    <div class="panel">
+      <h4>Wegbeschreibung</h4>
+      <p>Vom Marktplatz, Katharinenstraße, Brühl, Am Hallischen Tor, Blücherplatz, Blücherstraße, Eutritzscher Straße, rechts Delitzscher Straße, Vorstadt Eutritzsch (3,5 km). Alte historische Gosenschänke. Außerhalb des Ortes Straßengabelung.</p>
+      <h4>Wegpunkte</h4>
+    </div>
+    <button class="accordion"><h3>Eutritzsch nach Wiederitzsch</h3></button>
+    <div class="panel">
+      <h4>Wegbeschreibung</h4>
+      <p>Geradeaus, dann am Krankenhaus St. Georg vorbei nach Wiederitzsch (3,3 km).
+      </p>
+      <h4>Wegpunkte</h4>
+    </div>
+    <button class="accordion"><h3>Wiederitzsch nach Delitzsch</h3></button>
+    <div class="panel">
+      <h4>Wegbeschreibung</h4>
+      <p>Ueber die sächsisch-preußische Grenze, durch Schladitz (4,6 km), mäßig abwärts über die alte Salzstraße nach Lemsel (3,6 km), Brodenaundorf (1,0 km) und Delitzsch (6,0 km).</p>
+      <h4>Wegpunkte</h4>
+    </div>
+    <button class="accordion"><h3>Delitzsch nach Wolfen</h3></button>
+    <div class="panel">
+      <h4>Wegbeschreibung</h4>
+      <p>In nördlicher Richtung durch die Stadt über Benndorf (3,2 km) nach Holzweißig (6,1 km). Nordwärts die Bahn kreuzend und am Gasth. „Preuß. Krone“ geradeaus. Dieser Gasthof ist eine alte Ausspannung, wo die vom Norden kommenden Messebesucher ihre letzte größere Rast vor Leipzig hielten. Dann an den Kohlengruben vorbei zur Kreuzung Zörbig—Bitterfeld. Geradeaus auf landschaftlich weniger interessantem Wege nach Wolfen (8,1 km). Dagegen ist dieser Weg nicht ohne Reiz durch die zahlreichen Industrieanlagen, von denen er eingesäumt wird. Da treffen wir wieder auf Braunkohlengruben und vor allem auf die langgedehnten chemischen Werke der I. G. Farbenindustrie. Von der etwas hoch liegenden Straße bietet sich ein schöner Blick nach dem Muldensteiner Berg (rechts) mit den drei riesigen Schornsteinen des großen Eisenbahn-Kraftwerkes, während wir im Hintergrund die neun, je 110 m hohen Schornsteine von Golpa-Zschornewitz sehen, die eine lebhafte Unterbrechung der den ganzen Horizont bedeckenden dunklen Waldlinie der Dübener Heide bilden. Linker Hand sieht man bei günstigem Wetter den Petersberg bei Löbejün. Beim Kilometerstein 18,6 Gabelung.</p>
+      <h4>Wegpunkte</h4>
+    </div>
+    <button class="accordion"><h3>Wolfen nach Dessau</h3></button>
+    <div class="panel">
+      <h4>Wegbeschreibung</h4>
+      <p>Geradeaus und über Boppau (2,2 km) zum Heidekrug (5,7 km). Die sehr gute Straße führt nun durch die Mosigkauer Heide, einen schönen Wald, bis zum Forsthaus Heideburg (6,9 km). Dann weiter und durch die Heidestr.., Franzstr., Kavalierstr. in Dessau (5,1 km). An der Mulde. Rathaus 1901 erbaut im Stile der deutschen Renaissance mit 75 m hohem Turm. Schloß mit Park und Tiergarten. Prächtige Umgebung. Lohnender Abstecher nördlich zur Elbe, vorbei am Gasth. „Elbhaus“ und Gasth. „Elbzollhaus“. Hier schöner Blick auf die Elbe.</p>
+      <h4>Wegpunkte</h4>
+    </div>
+    <button class="accordion"><h3>Dessau nach Wörlitz</h3></button>
+    <div class="panel">
+      <h4>Wegbeschreibung</h4>
+      <p>Ausfahrt über die Muldenbrücke und links die Bahn Dessau—Oranienbaum kreuzend, dann auf schönen Radfahrwegen über Jonitz (2,1 km), Naundorf (2 km) und Vockerode (4 km) nach Wörlitz (5 km).</p>
+      <h4>Wegpunkte</h4>
+    </div>
   </div>
 </div>
 </template>
 
 <script>
-
 export default {
-
   name: 'Detail',
   mounted () {
-    var acc = document.getElementsByClassName('accordion')
-    var i
+    const acc = document.getElementsByClassName('accordion')
 
-    for (i = 0; i < acc.length; i++) {
+    for (let i = 0; i < acc.length; i++) {
       acc[i].addEventListener('click', function () {
-      /* Deactivate other panels */
-        var panel
-        for (var j = 0; j < acc.length; j++) {
-          if (this !== acc[j]) {
-            if (acc[j].classList.contains('active')) {
-              acc[j].classList.toggle('active')
-            }
-            panel = acc[j].nextElementSibling
+        /* Deactivate other panels */
+        for (let j = 0; j < acc.length; j++) {
+          if (i !== j) {
+            acc[j].classList.toggle('active')
+            let panel = acc[j].nextElementSibling
             panel.style.display = 'none'
           }
         }
-        /* Toggle between adding and removing the "active" class,
-        to highlight the button that controls the panel */
 
+        /* Toggle between adding and removing the "active" class,
+            to highlight the button that controls the panel */
         this.classList.toggle('active')
 
         /* Toggle between hiding and showing the active panel */
-        panel = this.nextElementSibling
-        if (panel.style.display === 'block') {
-          panel.style.display = 'none'
+        var activePanel = this.nextElementSibling
+        if (activePanel.style.display === 'block') {
+          activePanel.style.display = 'none'
         } else {
-          panel.style.display = 'block'
+          activePanel.style.display = 'block'
         }
 
         this.scrollIntoView()
@@ -217,7 +255,6 @@ export default {
     }
   }
 }
-
 </script>
 
 <style>
@@ -227,8 +264,9 @@ export default {
   margin: 60px auto;
   width: 60%
 }
+
 .accordion {
-  background-color: #fff;
+  background-color: #eee;
   color: #444;
   cursor: pointer;
   padding: 10px;
@@ -239,18 +277,24 @@ export default {
   outline: none;
   transition: 0.4s;
 }
-.active, .accordion:hover {
-  background-color: #eee;
+
+.active,
+.accordion:hover {
+  background-color: #ccc;
 }
+
 .panel {
   padding: 18px 18px;
   background-color: white;
   display: none;
   overflow: hidden;
+
 }
+
 .source {
   padding: 30px 0 0 0;
 }
+
 img {
   width: 100%;
   max-height: 5%
