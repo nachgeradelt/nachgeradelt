@@ -55,7 +55,6 @@ body {
 }
 
 .header {
-  height: 100px;
   background: #179999;
 }
 
