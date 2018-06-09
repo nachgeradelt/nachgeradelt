@@ -1,7 +1,9 @@
 <template>
 <div id="app">
   <div class="content">
-    <h1>nachgeradelt</h1>
+    <div class="header">
+      <img src="./assets/header.svg" alt="Header" />
+    </div>
     <router-view/>
   </div>
 
@@ -37,6 +39,7 @@ export default {
 @import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
 html,
 body {
+  font-family: 'Lato';font-size: 20px;
   height: 100%;
 }
 
@@ -44,13 +47,21 @@ body {
   display: flex;
   flex-direction: column;
   height: 100%;
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
   text-align: center;
 }
 
 .content {
   flex: 1 0 auto;
-  padding: 20px;
+}
+
+.header {
+  height: 100px;
+  background: #179999;
+}
+
+.header img {
+  height: 100px;
+  background: none;
 }
 
 .footer {
@@ -64,10 +75,7 @@ body {
 body {
   margin: 0;
   padding: 0;
-}
-
-h1 {
-  margin: 0 0 20px 0;
+  background: #F1F1F2;
 }
 
 p {
@@ -83,7 +91,7 @@ p {
 /* Footer */
 
 footer {
-  background: #007b5e !important;
+  background: #0C2F2F !important;
 }
 
 footer a {

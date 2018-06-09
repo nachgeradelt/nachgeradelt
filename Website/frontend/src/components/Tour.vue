@@ -1,7 +1,7 @@
 <template>
 <div class="tour">
   <div class="map">
-    <l-map style="height: calc(100% - 50px)" :zoom="zoom" :center="center" :bounds="bounds">
+    <l-map style="height: calc(100% - 100px)" :zoom="zoom" :center="center" :bounds="bounds">
       <l-tile-layer :url="url" :attribution="attribution"></l-tile-layer>
       <l-geo-json :geojson="geojson" :options="options"></l-geo-json>
       <l-marker :lat-lng="marker">
@@ -140,14 +140,16 @@ export default {
 .tour {
   display: flex;
   height: 100%;
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
   text-align: center;
 }
 
 .map {
   flex: 1 0 auto;
-  z-index: 1;
   max-width: 100%;
+}
+
+.vue2leaflet-map {
+  z-index: 1;
 }
 
 .slider {
@@ -155,7 +157,8 @@ export default {
 }
 
 .menu {
-  height: calc(100% - 50px);
+  font-family: 'Arapey';font-size: 20px;
+  height: calc(100% - 100px);
   width: 250px;
   margin-left: -260px;
   position: relative;
@@ -181,7 +184,7 @@ export default {
 
 .filter {
   height: 85%;
-  background: rgba(255, 255, 255, .5);
+  background: rgba(208, 210, 211, .5);
   padding: 0 1em;
   pointer-events: auto;
 }
