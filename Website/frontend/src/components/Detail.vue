@@ -257,7 +257,7 @@ export default {
 }
 </script>
 
-<style>
+<style scoped>
 .detail {
   text-align: left;
   color: #2c3e50;
