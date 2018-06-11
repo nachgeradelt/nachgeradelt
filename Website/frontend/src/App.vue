@@ -59,12 +59,13 @@ body {
 .header {
   background: #179999;
   display: flex;
+  padding: 15px 10px;
 }
 
+
 .header img {
-  height: 100px;
+  height: 75px;
   background: none;
-  padding: 3px;
   max-width: 100%;
 }
 
@@ -93,7 +94,7 @@ p {
 .banner {
   background: transparent url("./assets/logo_banner.jpg") repeat scroll 0% 0%;
   max-width: 100%;
-  height: 50px;
+  height: 45px;
 }
 
 /* Footer */
