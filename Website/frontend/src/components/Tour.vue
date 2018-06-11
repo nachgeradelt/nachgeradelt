@@ -190,7 +190,8 @@ export default {
 }
 
 .menu {
-  font-family: 'Arapey';font-size: 20px;
+  font-family: 'Arapey';
+  font-size: 18px;
   height: calc(100% - 100px);
   width: 250px;
   margin-left: -260px;

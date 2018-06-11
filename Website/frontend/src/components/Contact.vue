@@ -15,9 +15,9 @@ export default {
 </script>
 <!-- styling for the component -->
 <style>
-#contact {
+.contact {
   text-align: center;
-  font-size: 20px;
+  font-size: 18px;
   margin-top: 60px;
 }
 </style>
