@@ -2,7 +2,9 @@
 <div id="app">
   <div class="content">
     <div class="header">
-      <img src="./assets/header.svg" alt="Header" />
+      <router-link v-bind:to="'/'">
+        <img src="./assets/header.svg" alt="Header" />
+      </router-link>
     </div>
     <router-view/>
   </div>
@@ -16,14 +18,13 @@
       <li>
         <router-link v-bind:to="'/about'"><i class="fa fa-angle-double-right"></i>Über uns</router-link>
       </li>
-      <li>
+      <!--li>
         <router-link v-bind:to="'/contact'"><i class="fa fa-angle-double-right"></i>Kontakt</router-link>
-      </li>
+      </li-->
     </ul>
     <ul class="list-unstyled list-inline social text-center">
       <li class="list-inline-item"><a href="https://twitter.com/radfahrerwissen"><i class="fa fa-twitter"></i></a></li>
-      <li class="list-inline-item"><a href="https://github.com/jnauber/radfahrerwissen"><i class="fa fa-github"></i></a></li>
-      <li class="list-inline-item"><a href="mailto:m.mustermann@domain.de" target="_blank"><i class="fa fa-envelope"></i></a></li>
+      <li class="list-inline-item"><a href="https://github.com/nachgeradelt/nachgeradelt"><i class="fa fa-github"></i></a></li>
     </ul>
   </footer>
 </div>
@@ -39,7 +40,8 @@ export default {
 @import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
 html,
 body {
-  font-family: 'Lato';font-size: 20px;
+  font-family: 'Lato';
+  font-size: 18px;
   height: 100%;
 }
 
@@ -56,15 +58,22 @@ body {
 
 .header {
   background: #179999;
+  display: flex;
 }
 
 .header img {
   height: 100px;
   background: none;
+  padding: 3px;
+  max-width: 100%;
 }
 
 .footer {
   flex-shrink: 0;
+}
+
+.list-unstyled {
+  margin-bottom: 0;
 }
 
 * {
@@ -83,7 +92,7 @@ p {
 
 .banner {
   background: transparent url("./assets/logo_banner.jpg") repeat scroll 0% 0%;
-  width: 100%;
+  max-width: 100%;
   height: 50px;
 }
 
