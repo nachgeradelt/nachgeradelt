@@ -9,6 +9,25 @@
       <p>
         79,6 km guter, erst ebener, dann welliger und hügeliger Strasse.
       </p>
+      <div class="teaser">
+        <div class="galleryItem">
+          <a title="By Appaloosa [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], from Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Altes_Rathaus_Leipzig_2013.jpg">
+            <img width="512" alt="Altes Rathaus Leipzig 2013" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Altes_Rathaus_Leipzig_2013.jpg/512px-Altes_Rathaus_Leipzig_2013.jpg">
+          </a>
+        </div>
+        <div class="galleryItem">
+          <a title="By NcMhlr at de.wikipedia [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-sa/3.0/)], from Wikimedia Commons"
+            href="https://commons.wikimedia.org/wiki/File:Altenburg-Schloss.jpg">
+            <img width="512" alt="Altenburg-Schloss" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Altenburg-Schloss.jpg">
+          </a>
+        </div>
+        <div class="galleryItem">
+          <a title="By André Karwath aka Aka [CC BY-SA 2.5 (https://creativecommons.org/licenses/by-sa/2.5)], from Wikimedia Commons"
+            href="https://commons.wikimedia.org/wiki/File:Werdau_-_townhall_(aka).jpg">
+            <img width="512" alt="Werdau - townhall (aka)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Werdau_-_townhall_%28aka%29.jpg/512px-Werdau_-_townhall_%28aka%29.jpg">
+          </a>
+        </div>
+      </div>
       <button class="accordion">
         <h3>Leipzig nach Zwenkau</h3>
       </button>
@@ -227,6 +246,24 @@
     </div>
     <div v-show="$route.params.id === '46'">
       <p>Über Eutritzsch — Wiederitzsch — Delitzsch — Wolfen</p>
+      <div class="teaser">
+        <div class="galleryItem">
+          <a title="By Appaloosa [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], from Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Altes_Rathaus_Leipzig_2013.jpg">
+            <img width="512" alt="Altes Rathaus Leipzig 2013" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Altes_Rathaus_Leipzig_2013.jpg/512px-Altes_Rathaus_Leipzig_2013.jpg">
+          </a>
+        </div>
+        <div class="galleryItem">
+          <a title="Mewes [Public domain], from Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Bauhaus.JPG">
+            <img width="512" alt="Bauhaus" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Bauhaus.JPG/512px-Bauhaus.JPG">
+          </a>
+        </div>
+        <div class="galleryItem">
+          <a title="I, Nikater [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons"
+            href="https://commons.wikimedia.org/wiki/File:W%C3%B6rlitzer_See_mit_St._Petri.jpg">
+            <img width="512" alt="Wörlitzer See mit St. Petri" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/W%C3%B6rlitzer_See_mit_St._Petri.jpg/512px-W%C3%B6rlitzer_See_mit_St._Petri.jpg">
+          </a>
+        </div>
+      </div>
       <button class="accordion">
         <h3>Leipzig nach Eutritzsch</h3>
       </button>
@@ -266,10 +303,6 @@
         <h4>Wegpunkte</h4>
         <h5>Handschwengelpumpe Gräfestraße</h5>
         <p>Handschwengelpumpe mit Brunnenschacht und Abdeckplatte (Typ Kleiner Löwe)
-          <a title="By Geisler Martin [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], from Wikimedia Commons"
-            href="https://commons.wikimedia.org/wiki/File:Handschwengelpumpe_Gr%C3%A4festra%C3%9Fe_Leipzig.jpg">
-            <img width="256" alt="Handschwengelpumpe Gräfestraße Leipzig" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Handschwengelpumpe_Gr%C3%A4festra%C3%9Fe_Leipzig.jpg/256px-Handschwengelpumpe_Gr%C3%A4festra%C3%9Fe_Leipzig.jpg">
-          </a>
         </p>
         <h5>Krankenhaus Sankt Georg - heute Klinikum St. Georg Leipzig</h5>
         <p>Das Klinikum St. Georg ist das älteste und nach dem Universitätsklinikum das zweitgrößte Krankenhaus in Leipzig.</p>
@@ -315,7 +348,8 @@
         <h5>Walzenmühle Delitzsch</h5>
         <p>Fabrikantenvilla (Nr. 26) und Fabrikgebäude der Walzenmühle (Nr. 24b), einschließlich des Kopfbaues eines Nebengebäudes
           (Nr. 24d) zwischen der Bahnlinie und Walzenmühle; stattliches gründerzeitliches Fabrikensemble mit reich gegliederter
-          Fabrik</p>
+          Fabrik
+        </p>
         <h5>Delitzsch</h5>
         <p>Altes Schloß, im 30jährigen Krieg zerstört.
           <a title="By Stadtverwaltung Delitzsch [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], from Wikimedia Commons"
@@ -364,9 +398,6 @@
         <p>Nach der Stilllegung des Tagebaus Goitzsche im Jahr 1990 begann im gleichen Jahr die Festlegung des Naturschutzgebiets
           Paupitzscher See. Durch die Flutung des Tagebaurestlochs Paupitzsch von 1993 bis 2005 entstand der Paupitzscher
           See. An den ehemaligen Ort erinnern heute ein eisernes Kreuz und ein Findling am Standort der ehemaligen Kirche.
-          <a title="By Radler59 [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], from Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Benndorf_Paupitzscher_Kreuz-01.jpg">
-            <img width="256" alt="Benndorf Paupitzscher Kreuz-01" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Benndorf_Paupitzscher_Kreuz-01.jpg/256px-Benndorf_Paupitzscher_Kreuz-01.jpg">
-          </a>
         </p>
         <h5>Arboretum</h5>
         <p>Das Arboretum (Sammlung von Gehölzen) bietet einen schönen Rastplatz mit Spielplatz.</p>
@@ -452,7 +483,8 @@
         <h5>Elbzollhaus</h5>
         <p>Das Elbzollhaus ist ein historischer Gebäudekomplex an der Elbbrücke zwischen Dessau und Roßlau. Fürst Franz (1740–1817)
           ließ das Zollhaus 1789 nach einem Entwurf des deutschen Architekten Friedrich Wilhelm von Erdmannsdorff (1736–1800)
-          bauen.</p>
+          bauen.
+        </p>
       </div>
       <button class="accordion">
         <h3>Dessau nach Wörlitz</h3>
@@ -485,7 +517,8 @@
           im letzten Drittel des 18. Jahrhunderts angelegt, schließt den Wörlitzer See — Gondelgelegenheit — ein und bietet
           eine Anzahl Sehenswürdigkeiten, z. B. das Gotische Haus mit Sammlungen, den Floratempel, die Kettenbrücke, die
           Luisenklippe, den Venustempel, das Monument, das Pantheon, den „Stein“, den Tempel der Nacht und die Grotte der
-          Egeria.</p>
+          Egeria.
+        </p>
         <h5>Gondelfahrt auf dem Wörlitzer See</h5>
         <p>Gondelfahrten sind auch heute noch möglich und können von April bis November gebucht werden!
           <a title="I, Nikater [GFDL (http://www.gnu.org/copyleft/fdl.html) oder CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons"
@@ -539,7 +572,12 @@ export default {
     text-align: left;
     color: #2c3e50;
     margin: 60px auto;
-    width: 60%
+    width: 80%
+  }
+
+  .teaser {
+    column-count: 3;
+    column-width: 33%;
   }
 
   .accordion {
@@ -574,7 +612,6 @@ export default {
 
   img {
     width: 100%;
-    max-height: 5%
   }
 
 </style>
