@@ -69,8 +69,8 @@ body {
 .header {
   background: #179999;
   padding: 15px 10px;
+  display: flex;
 }
-
 
 .header img {
   height: 75px;
