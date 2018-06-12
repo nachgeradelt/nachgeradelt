@@ -3,15 +3,15 @@
   <div class="map">
     <l-map style="height: calc(100% - 100px)" :zoom="zoom" :center="center" :bounds="bounds">
       <l-tile-layer :url="url" :attribution="attribution"></l-tile-layer>
-      <l-geo-json :geojson="geojson46" :options="options46"></l-geo-json>
-      <l-geo-json :geojson="geojson100" :options="options100"></l-geo-json>
+      <l-geo-json v-if="to !== 'werdau' & distanceSlider.value[0] < length46 & distanceSlider.value[1] > length46" :geojson="geojson46" :options="options46"></l-geo-json>
+      <l-geo-json v-if="to !== 'woerlitz' & distanceSlider.value[0] < length100 & distanceSlider.value[1] > length100" :geojson="geojson100" :options="options100"></l-geo-json>
       <l-marker :lat-lng="markerLeipzig">
        <l-popup content="Leipzig"></l-popup>
       </l-marker>
-      <l-marker :lat-lng="markerWerdau">
+      <l-marker v-if="to !== 'woerlitz' & distanceSlider.value[0] < length100 & distanceSlider.value[1] > length100" :lat-lng="markerWerdau">
         <l-popup content="Werdau"></l-popup>
       </l-marker>
-      <l-marker :lat-lng="markerWoerlitz">
+      <l-marker v-if="to !== 'werdau' & distanceSlider.value[0] < length46 & distanceSlider.value[1] > length46" :lat-lng="markerWoerlitz">
         <l-popup content="Wörlitz"></l-popup>
       </l-marker>
     </l-map>
@@ -22,9 +22,9 @@
     </div>
     <div class="filter" v-show="showFilter">
       <h3>Abfahrt</h3>
-      <select>
-        <option value="">Alle Startorte</option>
-        <option value="">Leipzig</option>
+      <select v-model="from">
+        <option value="all">Alle Startorte</option>
+        <option value="leipzig">Leipzig</option>
       </select>
 
       <h3>Distanz</h3>
@@ -33,10 +33,10 @@
       </div>
 
       <h3>Ziel</h3>
-      <select>
-        <option value="">Alle Zielorte</option>
-        <option value="">Werdau</option>
-        <option value="">Wörlitz</option>
+      <select v-model="to">
+        <option value="all">Alle Zielorte</option>
+        <option value="werdau">Werdau</option>
+        <option value="woerlitz">Wörlitz</option>
       </select>
 
       <h3>Touren</h3>
@@ -94,12 +94,16 @@ export default {
           100
         ],
         formatter: '{value} km',
-        max: 250
+        max: 100
       },
+      from: 'all',
+      to: 'all',
       zoom: 9,
       center: [51.3391827, 12.3810549],
       geojson46: null,
+      length46: 72.5,
       geojson100: null,
+      length100: 79.6,
       bounds: null,
       url: 'http://{s}.tile.osm.org/{z}/{x}/{y}.png',
       attribution: 'openrouteservice.org | &copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors',
