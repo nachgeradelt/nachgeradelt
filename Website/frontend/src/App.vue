@@ -68,11 +68,12 @@ body {
 
 .header {
   background: #179999;
+  padding: 15px 10px;
 }
 
+
 .header img {
-  max-height: 100px;
-  padding: 3px;
+  height: 75px;
   max-width: 100%;
 }
 
@@ -87,7 +88,7 @@ p {
 .banner {
   background: transparent url("./assets/logo_banner.jpg") repeat scroll 0% 0%;
   max-width: 100%;
-  height: 50px;
+  height: 45px;
 }
 
 /* Footer */
