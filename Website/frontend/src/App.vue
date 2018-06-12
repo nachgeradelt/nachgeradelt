@@ -45,6 +45,16 @@ body {
   height: 100%;
 }
 
+body {
+  margin: 0;
+  padding: 0;
+  background: #F1F1F2;
+}
+
+* {
+  box-sizing: border-box;
+}
+
 #app {
   display: flex;
   flex-direction: column;
@@ -58,32 +68,16 @@ body {
 
 .header {
   background: #179999;
-  display: flex;
 }
 
 .header img {
-  height: 100px;
-  background: none;
+  max-height: 100px;
   padding: 3px;
   max-width: 100%;
 }
 
-.footer {
-  flex-shrink: 0;
-}
-
 .list-unstyled {
   margin-bottom: 0;
-}
-
-* {
-  box-sizing: border-box;
-}
-
-body {
-  margin: 0;
-  padding: 0;
-  background: #F1F1F2;
 }
 
 p {

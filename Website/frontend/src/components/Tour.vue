@@ -228,9 +228,6 @@ export default {
   pointer-events: auto;
 }
 
-h3 {
-}
-
 select {
   width: 100%;
 }

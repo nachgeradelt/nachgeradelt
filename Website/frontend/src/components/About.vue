@@ -16,18 +16,19 @@
           <a href="https://github.com/nachgeradelt/nachgeradelt">Github</a> eingesehen werden.
         </p>
         <div class="teaser">
-        <figure>
-          <img src="../assets/about.jpeg" alt="Über uns">
-          <figcaption>
-            Jens N, Johannes, Birte
-          </figcaption>
-        </figure>
-        <figure>
-          <img src="../assets/about2.jpeg" alt="Über uns 2">
-          <figcaption>
-            Jens B, Johannes, Jens N, Gerd & Tobias <br/> (nicht im Bild: Katharina, Justus & Alejandro)
-          </figcaption>
-        </figure>
+          <figure>
+            <img src="../assets/about.jpeg" alt="Über uns">
+            <figcaption>
+              Jens N, Johannes, Birte
+            </figcaption>
+          </figure>
+          <figure>
+            <img src="../assets/about2.jpeg" alt="Über uns 2">
+            <figcaption>
+              Jens B, Johannes, Jens N, Gerd & Tobias
+              <br/> (nicht im Bild: Katharina, Justus & Alejandro)
+            </figcaption>
+          </figure>
         </div>
       </div>
     </div>
@@ -53,10 +54,12 @@ export default {
   }
 
   .about p {
-   margin-bottom: 10px;
+    margin-bottom: 10px;
   }
+
   .about img {
     max-width: 100%;
     height: 400px;
   }
+
 </style>
