@@ -15,12 +15,20 @@
           <a href="https://github.com/nachgeradelt/nachgeradelt/blob/master/tourenverzeichnis.csv">komplette Liste aller Touren</a> sowie der Quellcode können auf
           <a href="https://github.com/nachgeradelt/nachgeradelt">Github</a> eingesehen werden.
         </p>
+        <div class="teaser">
         <figure>
           <img src="../assets/about.jpeg" alt="Über uns">
           <figcaption>
-            Jens, Johannes, Birte (nicht im Bild: Tobias, Katharina, Justus, Gerd, Jens & Alejandro)
+            Jens N, Johannes, Birte
           </figcaption>
         </figure>
+        <figure>
+          <img src="../assets/about2.jpeg" alt="Über uns 2">
+          <figcaption>
+            Jens B, Johannes, Jens N, Gerd & Tobias <br/> (nicht im Bild: Katharina, Justus & Alejandro)
+          </figcaption>
+        </figure>
+        </div>
       </div>
     </div>
   </div>
@@ -37,6 +45,11 @@ export default {
     text-align: center;
     font-size: 18px;
     margin-top: 10px;
+  }
+
+  .teaser {
+    column-count: 2;
+    column-width: 50%;
   }
 
   .about p {
