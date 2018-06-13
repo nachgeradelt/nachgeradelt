@@ -19,7 +19,7 @@
           <figure>
             <img src="../assets/about.jpeg" alt="Über uns">
             <figcaption>
-              Jens N, Johannes, Birte
+              Jens N, Johannes, Birte & Luise
             </figcaption>
           </figure>
           <figure>

@@ -233,6 +233,14 @@ export default {
 }
 
 select {
-  width: 100%;
+  width: 70%;
+}
+
+h3 {
+  background-image: url('../assets/sign.jpg');
+  background-repeat: no-repeat;
+  background-position: 10px;
+  background-size: 190px 40px;
+  margin-top: 1.5rem;
 }
 </style>
