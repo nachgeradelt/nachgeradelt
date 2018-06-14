@@ -5,7 +5,7 @@
       <div class="col-md-12">
         <p>Das Projekt Nachgeradelt.de entstand im Frühjahr 2018 im Rahmen des
           <a href="https://codingdavinci.de/events/ost/">Coding da Vinci Ost</a>. Wir sind RadfahrerInnen, HackerInnen, DesignerInnen und geschichtsinteressierte Menschen,
-          die gemeinsam von den Fragen angetrieben werden: Wie ging es RadfahrerInnen um die vorletzte Jahrtausendwende?
+          die gemeinsam von den Fragen angetrieben werden: Wie ging es RadfahrerInnen um die vorletzte Jahrhundertwende?
           Unter welchen Bedingungen und auf welchen Straßen radelten sie? Wie unterschied sich das Radfahren von den heutigen
           Verhältnissen?
         </p>
