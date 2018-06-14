@@ -239,8 +239,8 @@ select {
 h3 {
   background-image: url('../assets/sign.jpg');
   background-repeat: no-repeat;
-  background-position: 10px;
-  background-size: 190px 40px;
+  background-position: 45px;
+  background-size: 120px 40px;
   margin-top: 1.5rem;
 }
 </style>
