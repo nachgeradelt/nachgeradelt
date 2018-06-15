@@ -269,22 +269,22 @@
       </button>
       <div class="panel">
         <h4>Wegbeschreibung</h4>
-        <p>Vom Marktplatz, Katharinenstraße, Brühl, Am Hallischen Tor, Blücherplatz, Blücherstraße, Eutritzscher Straße, rechts
+        <p>Vom <a href="https://de.wikipedia.org/wiki/Leipzig">Marktplatz</a>, Katharinenstraße, Brühl, Am Hallischen Tor, Blücherplatz, Blücherstraße, Eutritzscher Straße, rechts
           Delitzscher Straße, Vorstadt Eutritzsch (3,5 km). Alte historische Gosenschänke. Außerhalb des Ortes Straßengabelung.</p>
         <h4>Wegpunkte</h4>
-        <h5>Kraftwerk Eutritzscher Straße 14b</h5>
-        <p>Kraftwerk mit Verwaltungsgebäude und Schalthaus, Verwaltungs- und Wohngebäude, Personalhaus, Maschinenhaus, Speise-
+        <h5><a href="https://www.wikidata.org/wiki/Q49233392">Kraftwerk Eutritzscher Straße 14b</a></h5>
+        <p><a href="http://www.leipziger-industriekultur.de/eutritzscher-strase-14a-kraftwerk/">Kraftwerk</a> mit Verwaltungsgebäude und Schalthaus, Verwaltungs- und Wohngebäude, Personalhaus, Maschinenhaus, Speise-
           und Kultursaal, mit Werkstattgebäude, Kühlturm, Kohleförderungsanlage, Schornstein, mit Gasometer und Einfriedung
           <a title="von Dguendel [GFDL (http://www.gnu.org/copyleft/fdl.html) oder CC BY 3.0 (https://creativecommons.org/licenses/by/3.0)], vom Wikimedia Commons"
             href="https://commons.wikimedia.org/wiki/File:Leipzig,_W%C3%A4rmekraftwerk_Nord_-2.jpg">
             <img width="512" alt="Leipzig, Wärmekraftwerk Nord -2" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Leipzig%2C_W%C3%A4rmekraftwerk_Nord_-2.jpg/512px-Leipzig%2C_W%C3%A4rmekraftwerk_Nord_-2.jpg">
           </a>
         </p>
-        <h5>Eutritzsch</h5>
+        <h5><a href="https://de.wikipedia.org/wiki/Eutritzsch">Eutritzsch</a></h5>
         <p>Im Jahr 1890 wurde die bis dahin selbständige Gemeinde Eutritzsch mit ihren damals 9.623 Einwohnern in die Stadt
           Leipzig eingemeindet.</p>
         <h5>Ehemaliges Rathaus</h5>
-        <p>Ehemaliges Rathaus in Formen der Neorenaissance mit Schaugiebel, Uhrtürmchen und Einfriedung. Nach den Entwürfen
+        <p><a href="https://denkmalliste.denkmalpflege.sachsen.de/CardoMap/Denkmalliste_Report.aspx?HIDA_Nr=09294423">Ehemaliges Rathaus</a> in Formen der Neorenaissance mit Schaugiebel, Uhrtürmchen und Einfriedung. Nach den Entwürfen
           des Leipziger Architekten Ottomar Jummel, der auch das Bismarckhaus am Leipziger Marktplatz entworfen hatte, im
           Jahre 1888 errichtet worden
           <a title="By Tino Strauss [GFDL (http://www.gnu.org/copyleft/fdl.html), CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-sa/3.0/) or CC BY-SA 2.5 (https://creativecommons.org/licenses/by-sa/2.5)], from Wikimedia Commons"
@@ -302,12 +302,12 @@
         </p>
         <h4>Wegpunkte</h4>
         <h5>Handschwengelpumpe Gräfestraße</h5>
-        <p>Handschwengelpumpe mit Brunnenschacht und Abdeckplatte (Typ Kleiner Löwe)
+        <p><a href="https://www.wikidata.org/wiki/Q49275003">Handschwengelpumpe</a> mit Brunnenschacht und Abdeckplatte (Typ Kleiner Löwe)
         </p>
         <h5>Krankenhaus Sankt Georg - heute Klinikum St. Georg Leipzig</h5>
-        <p>Das Klinikum St. Georg ist das älteste und nach dem Universitätsklinikum das zweitgrößte Krankenhaus in Leipzig.</p>
-        <h5>Apelstein Delitzscher Landstraße</h5>
-        <p>Apelstein Nr. 21 (N); in Ecklage Seehausener Straße, Gedenkstein zur Erinnerung an die Kämpfe der Völkerschlacht
+        <p>Das <a href="https://de.wikipedia.org/wiki/Klinikum_St._Georg_Leipzig">Klinikum St. Georg</a> ist das älteste und nach dem Universitätsklinikum das zweitgrößte Krankenhaus in Leipzig.</p>
+        <h5><a href="https://www.wikidata.org/wiki/Q49279411">Apelstein Delitzscher Landstraße</a></h5>
+        <p><a href="https://de.wikipedia.org/wiki/Apelsteine">Apelstein</a> Nr. 21 (N); in Ecklage Seehausener Straße, Gedenkstein zur Erinnerung an die Kämpfe der Völkerschlacht
           bei Leipzig 1813 in und um Wiederitzsch, 12.000 Polen und Franzosen unter den Generälen Dombrowski, Souham und
           Delmas gegen Langerons
           <a title="Martin Geisler [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-sa/3.0/)], from Wikimedia Commons"
@@ -324,7 +324,7 @@
         <p>Ueber die sächsisch-preußische Grenze, durch Schladitz (4,6 km), mäßig abwärts über die alte Salzstraße nach Lemsel
           (3,6 km), Brodenaundorf (1,0 km) und Delitzsch (6,0 km).</p>
         <h4>Wegpunkte</h4>
-        <h5>Gustav-Adolf-Denkmal</h5>
+        <h5><a href="https://www.wikidata.org/wiki/Q49259638">Gustav-Adolf-Denkmal</a></h5>
         <p>Gedenkstein, Schlacht bei Breitenfeld (1631) bei Breitenfeld am 17. September 1631; bedeutsames militärhistorisches
           und kirchengeschichtliches Denkmal, Erinnerungswert und Bedeutung für die Volksbildung
           <a title="By Nino Schramm [Copyrighted free use], from Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Gustav-Adolf-Denkmal_Breitenfeld.jpg">
@@ -332,7 +332,7 @@
           </a>
         </p>
         <h5>Schladitz</h5>
-        <p>Schladitz ist eine moderne Wüstung, die sich südlich von Delitzsch befand und mit seinem Ortsteil Kömmlitz zwischen
+        <p><a href="https://de.wikipedia.org/wiki/Schladitz_%28Rackwitz%29">Schladitz</a> ist eine moderne Wüstung, die sich südlich von Delitzsch befand und mit seinem Ortsteil Kömmlitz zwischen
           1986 und 1990 dem Braunkohleabbau durch den Tagebau Breitenfeld zum Opfer fiel.</p>
         <h5>Wohnhaus, Torhaus, Seitengebäude, Einfriedungsmauer und Toranlage eines Bauernhofes, Am Anger 4</h5>
         <p>Bemerkenswertes, qualitatives Beispiel eines großen Bauernhofes, aufgrund seiner singulären und ortsbildprägenden
@@ -341,7 +341,7 @@
             <img width="512" alt="BrodenaundorfHofruinen" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/BrodenaundorfHofruinen.JPG/512px-BrodenaundorfHofruinen.JPG">
           </a>
         </p>
-        <h5>Häuslerhaus, Am Anger 5</h5>
+        <h5><a href="https://www.wikidata.org/wiki/Q49471792">Häuslerhaus, Am Anger 5</a></h5>
         <p>eingeschossiges Gebäude mit gründerzeitlichem Klinkergiebel zum Dorfanger, sozialgeschichtlich von Bedeutung Landarbeiterhaus:
           1 Geschoss, hohes Satteldach (Biberschwanzdeckung), Klinker rot, gelbe Klinkergliederung, Segmentbogenfenster,
           Gebäude h</p>
@@ -350,14 +350,14 @@
           (Nr. 24d) zwischen der Bahnlinie und Walzenmühle; stattliches gründerzeitliches Fabrikensemble mit reich gegliederter
           Fabrik
         </p>
-        <h5>Delitzsch</h5>
+        <h5><a href="https://de.wikipedia.org/wiki/Delitzsch">Delitzsch</a></h5>
         <p>Altes Schloß, im 30jährigen Krieg zerstört.
           <a title="By Stadtverwaltung Delitzsch [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], from Wikimedia Commons"
             href="https://commons.wikimedia.org/wiki/File:Barockpark_und_Barockschloss_Delitzsch.JPG">
             <img width="512" alt="Barockpark und Barockschloss Delitzsch" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Barockpark_und_Barockschloss_Delitzsch.JPG/512px-Barockpark_und_Barockschloss_Delitzsch.JPG">
           </a>
         </p>
-        <h5>St. Peter und Paul</h5>
+        <h5><a href="https://de.wikipedia.org/wiki/St._Peter_und_Paul_(Delitzsch)">St. Peter und Paul</a></h5>
         <p>Die evangelische Stadtkirche Delitzsch ist eine gotische, dreischiffige, vierjochige Hallenkirche aus dem 15. Jahrhundert.
           Sie wurde ab 1404 unter Einbeziehung der unteren Geschosse des Westturms eines möglicherweise vom Ende des 12.
           oder dem Anfang des 13. Jahrhunderts stammenden Vorgängerbaus errichtet, von dem sich ein romanischer Bogenfries
@@ -379,7 +379,7 @@
           sehen, die eine lebhafte Unterbrechung der den ganzen Horizont bedeckenden dunklen Waldlinie der Dübener Heide
           bilden. Linker Hand sieht man bei günstigem Wetter den Petersberg bei Löbejün. Beim Kilometerstein 18,6 Gabelung.</p>
         <h4>Wegpunkte</h4>
-        <h5>Ausbesserungswerk Delitzsch</h5>
+        <h5><a href="https://de.wikipedia.org/wiki/Ausbesserungswerk_Delitzsch">Ausbesserungswerk Delitzsch</a></h5>
         <p>ehemaliges Ausbesserungswerk der Deutschen Reichsbahn im sächsischen Delitzsch, heute Werk der EuroMaint Rail</p>
         <h5>Freigut Benndorf</h5>
         <p>Bereits 1350 war ein Herrensitz vorhanden, der ab 1400 als Rittersitz bezeichnet wurde. Zu dieser Zeit diente das
@@ -387,14 +387,14 @@
           Familie Böttcher Besitzer des Freigutes Benndorf. Ab 1913 befand es sich in Besitz der Familie Seyferth und wurde
           1938 an Familie Schäfer verkauft, bevor diese 1945 enteignet wurde. Das Herrenhaus des Freigutes wurde saniert
           und dient heute als Wohnhaus und Ortsbegegnungszentrum.</p>
-        <h5>Kirche Benndorf</h5>
+        <h5><a href="https://www.wikidata.org/wiki/Q49561399">Kirche Benndorf</a></h5>
         <p>bemerkenswerter romanischer Sakralbau, Saalkirche mit eingezogenem Chor und Apsis, kleiner Fachwerk-Kirchturm, baugeschichtlich,
           kunstgeschichtlich und ortsgeschichtlich von Bedeutung. romanische Saalkirche komplett aus Feldsteinen, mit Dachreiter
           <a title="By Jwaller [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], from Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:BenndorfDZ-Kirche3.JPG">
             <img width="512" alt="BenndorfDZ-Kirche3" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BenndorfDZ-Kirche3.JPG/512px-BenndorfDZ-Kirche3.JPG">
           </a>
         </p>
-        <h5>Das eiserne Kreuz am Paupitzscher See</h5>
+        <h5><a href="https://de.wikipedia.org/wiki/Paupitzsch">Das eiserne Kreuz am Paupitzscher See</a></h5>
         <p>Nach der Stilllegung des Tagebaus Goitzsche im Jahr 1990 begann im gleichen Jahr die Festlegung des Naturschutzgebiets
           Paupitzscher See. Durch die Flutung des Tagebaurestlochs Paupitzsch von 1993 bis 2005 entstand der Paupitzscher
           See. An den ehemaligen Ort erinnern heute ein eisernes Kreuz und ein Findling am Standort der ehemaligen Kirche.
@@ -409,23 +409,23 @@
           </a>
         </p>
         <h5>Gasthaus "Preußische Krone"</h5>
-        <p>Die 'Preußische Krone', ein Gasthof an der Kreuzung der Landstraße Berlin-Halle-Magdeburg-Leipzig war im Jahre 1905
+        <p>Die <a href="https://www.ansichtskarten-bitterfeld.de/wisl_s-cms/_redaktionell/1/Ansichtskarten/70/Mehrbildkarte.html">'Preußische Krone'</a>, ein Gasthof an der Kreuzung der Landstraße Berlin-Halle-Magdeburg-Leipzig war im Jahre 1905
           die Raststation der Reisenden die regelmäßig bei ihren Messebesuchen hier zusammentrafen, als Bitterfeld noch keinen
           Eisenbahnanschluß hatte. Hier soll der Spruch entstanden sein, der weit über die Stadtgrenzen hinaus berühmt wurde
           und bei jeder Gelegenheit mit Bitterfeld in Verbindung gebracht wird: 'Sehn' wir uns nicht in dieser Welt, so sehn'
           wir uns in Bitterfeld!'</p>
         <h5>Dükertürme</h5>
-        <p>Ein Düker (niederdeutsch, entspricht niederländisch duiker, „Taucher“) ist eine Druckleitung zur Unterquerung einer
+        <p>Ein <a href="https://de.wikipedia.org/wiki/D%C3%BCker">Düker</a> (niederdeutsch, entspricht niederländisch duiker, „Taucher“) ist eine Druckleitung zur Unterquerung einer
           Straße, eines Tunnels, eines Flusses oder von Bahngleisen etc.
           <a title="By Tnemtsoni [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], from Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:D%C3%BCkert%C3%BCrme.jpg">
             <img width="256" alt="Dükertürme" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/D%C3%BCkert%C3%BCrme.jpg/256px-D%C3%BCkert%C3%BCrme.jpg">
           </a>
         </p>
         <h5>Silbersee</h5>
-        <p>Silbersee ist die im Volksmund entstandene Bezeichnung für das Restloch des Tagebaues Grube Johannes südlich von
+        <p><a href="https://de.wikipedia.org/wiki/Silbersee_%28Bitterfeld%29">Silbersee</a> ist die im Volksmund entstandene Bezeichnung für das Restloch des Tagebaues Grube Johannes südlich von
           Wolfen auf Greppiner Flur, in das später Abwässer, Schlämme und Abfälle aus der Filmfabrik Wolfen eingeleitet bzw.
           eingebracht wurden.</p>
-        <h5>I.G. Farbenindustrie A.G.</h5>
+        <h5><a href="https://de.wikipedia.org/wiki/I.G._Farben">I.G. Farbenindustrie A.G.</a></h5>
         <p>Gegründet 1925, Zusammenschluss von acht großen Chemiekonzernen zwecks Weltmarkt-Konkurrenzfähigkeit. Damals das
           größte Chemieunternehmen der Welt! Die Interessengemeinschaft hat zahlreiche Patente hervorgebracht, war gleichzeitig
           aber auch aktiver Unterstützer und Akteur der Verbrechen des 3.Reichs.
@@ -453,19 +453,19 @@
             <img width="512" alt="Bobbau,Wasserturm,Stadt Bitterfeld-Wolfen" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Bobbau%2CWasserturm%2CStadt_Bitterfeld-Wolfen.jpg/512px-Bobbau%2CWasserturm%2CStadt_Bitterfeld-Wolfen.jpg">
           </a>
         </p>
-        <h5>Rennstrecke Dessau</h5>
+        <h5><a href="https://de.wikipedia.org/wiki/Rennstrecke_Dessau">Rennstrecke Dessau</a></h5>
         <p>
           <a title="By M_H.DE [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY 3.0 (https://creativecommons.org/licenses/by/3.0)], from Wikimedia Commons"
             href="https://commons.wikimedia.org/wiki/File:Rennstrecke_Dessau,_Kurve_der_Jugend,Jugendkurve.jpg">
             <img width="512" alt="Rennstrecke Dessau, Kurve der Jugend,Jugendkurve" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Rennstrecke_Dessau%2C_Kurve_der_Jugend%2CJugendkurve.jpg/512px-Rennstrecke_Dessau%2C_Kurve_der_Jugend%2CJugendkurve.jpg">
           </a>
         </p>
-        <h5>Jagdschloss Haideburg</h5>
+        <h5><a href="https://de.wikipedia.org/wiki/Jagdschloss_Haideburg">Jagdschloss Haideburg</a></h5>
         <p>1782 bis 1783 errichtet. Fürst Leopold III. Friedrich Franz von Anhalt-Dessau beauftragte den Baumeister Friedrich
           Wilhelm von Erdmannsdorff mit dem Bau als Jagdschloss und Oberförsterei. Es soll dem preußischen Krönungsschloss
           in Königsberg in kleinerer Form nachgestellt worden sein.</p>
         <h5>Bauhaus</h5>
-        <p>Das Bauhausgebäude entstand 1925 bis 1926 nach Plänen von Walter Gropius als Schulgebäude für die Kunst-, Design-
+        <p>Das <a href="https://de.wikipedia.org/wiki/Jagdschloss_Haideburg">Bauhausgebäude</a> entstand 1925 bis 1926 nach Plänen von Walter Gropius als Schulgebäude für die Kunst-, Design-
           und Architekturschule Bauhaus.
           <a title="By Lelikron [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], from Wikimedia Commons"
             href="https://commons.wikimedia.org/wiki/File:Dessau_Bauhaus_neu.JPG">
@@ -473,7 +473,7 @@
           </a>
         </p>
         <h5>Kornhaus</h5>
-        <p>Carl Fieger entwarf das Kornhaus in den Jahren 1929/30 im Auftrag der Stadt Dessau und der Schultheiss-Patzenhofer
+        <p>Carl Fieger entwarf das <a href="https://de.wikipedia.org/wiki/Kornhaus_%28Dessau%29">Kornhaus</a> in den Jahren 1929/30 im Auftrag der Stadt Dessau und der Schultheiss-Patzenhofer
           Brauerei AG.
           <a title="By M_H.DE [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], from Wikimedia Commons"
             href="https://commons.wikimedia.org/wiki/File:Kornhaus_Dessau_an_der_Elbe.jpg">
@@ -481,7 +481,7 @@
           </a>
         </p>
         <h5>Elbzollhaus</h5>
-        <p>Das Elbzollhaus ist ein historischer Gebäudekomplex an der Elbbrücke zwischen Dessau und Roßlau. Fürst Franz (1740–1817)
+        <p>Das <a href="http://www.ansichtskarten-center.de/webshop/shop/ProdukteBilder/52713/AK_51329288_gr_1.jpg">Elbzollhaus</a> ist ein historischer Gebäudekomplex an der Elbbrücke zwischen Dessau und Roßlau. Fürst Franz (1740–1817)
           ließ das Zollhaus 1789 nach einem Entwurf des deutschen Architekten Friedrich Wilhelm von Erdmannsdorff (1736–1800)
           bauen.
         </p>
@@ -495,7 +495,7 @@
           Jonitz (2,1 km), Naundorf (2 km) und Vockerode (4 km) nach Wörlitz (5 km).</p>
         <h4>Wegpunkte</h4>
         <h5>Luisium</h5>
-        <p>Schloss und Garten Luisium entstanden zwischen 1774 und 1778 als Geschenk für die Fürstin Luise von Brandenburg-Schwedt,
+        <p>Schloss und Garten <a href="https://de.wikipedia.org/wiki/Luisium">Luisium</a> entstanden zwischen 1774 und 1778 als Geschenk für die Fürstin Luise von Brandenburg-Schwedt,
           der Gemahlin des Fürsten Leopold III. Friedrich Franz von Anhalt-Dessau, und sollte der Fürstin als Witwensitz
           dienen.
           <a title="von M_H.DE [GFDL (http://www.gnu.org/copyleft/fdl.html) oder CC BY 3.0 (https://creativecommons.org/licenses/by/3.0)], vom Wikimedia Commons"
@@ -504,7 +504,7 @@
           </a>
         </p>
         <h5>Gustavusburg - Schwedenhaus</h5>
-        <p>Als Gustavusburg oder Gustav Adolf wird ein zum Dessau-Wörlitzer Gartenreich gehörendes Gebäude bezeichnet. Die gebräuchliche
+        <p>Als <a href="https://de.wikipedia.org/wiki/Gustavusburg">Gustavusburg</a> oder Gustav Adolf wird ein zum Dessau-Wörlitzer Gartenreich gehörendes Gebäude bezeichnet. Die gebräuchliche
           Bezeichnung Schwedenhaus ist auf ein vergoldeten Relief an der Hauptfassade zurückzuführen, welches den Schwedenkönig
           Gustav Adolph darstellt.
           <a title="von Belebast [CC BY-SA 3.0 de (https://creativecommons.org/licenses/by-sa/3.0/de/deed.en)], vom Wikimedia Commons"
@@ -512,14 +512,14 @@
             <img width="512" alt="Goldig-5a" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Goldig-5a.JPG/512px-Goldig-5a.JPG">
           </a>
         </p>
-        <h5>Wörlitz</h5>
-        <p>Kirche mit weithin sichtbarem Turm, 1809 im gotischen Stile erneuert. Schloß und berühmter sehenswerter Park. Dieser,
+        <h5><a href="https://de.wikipedia.org/wiki/W%C3%B6rlitz">Wörlitz</a></h5>
+        <p>Kirche mit weithin sichtbarem Turm, 1809 im gotischen Stile erneuert. <a href="https://de.wikipedia.org/wiki/Schloss_W%C3%B6rlitz">Schloß</a> und berühmter sehenswerter Park. Dieser,
           im letzten Drittel des 18. Jahrhunderts angelegt, schließt den Wörlitzer See — Gondelgelegenheit — ein und bietet
           eine Anzahl Sehenswürdigkeiten, z. B. das Gotische Haus mit Sammlungen, den Floratempel, die Kettenbrücke, die
           Luisenklippe, den Venustempel, das Monument, das Pantheon, den „Stein“, den Tempel der Nacht und die Grotte der
           Egeria.
         </p>
-        <h5>Gondelfahrt auf dem Wörlitzer See</h5>
+        <h5>Gondelfahrt auf dem <a href="https://de.wikipedia.org/wiki/Schloss_W%C3%B6rlitz">Wörlitzer See</a></h5>
         <p>Gondelfahrten sind auch heute noch möglich und können von April bis November gebucht werden!
           <a title="I, Nikater [GFDL (http://www.gnu.org/copyleft/fdl.html) oder CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons"
             href="https://commons.wikimedia.org/wiki/File:W%C3%B6rlitzer_See_mit_St._Petri.jpg">

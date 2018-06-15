@@ -42,10 +42,10 @@
       <h3>Touren</h3>
       <ul>
         <li>
-          <router-link :to="'/detail/46'">Leipzig - Dessau - Wörlitz</router-link>
+          <router-link v-if="to !== 'werdau' & distanceSlider.value[0] < length46 & distanceSlider.value[1] > length46" :to="'/detail/46'">Leipzig - Dessau - Wörlitz</router-link>
         </li>
         <li>
-          <router-link :to="'/detail/100'">Leipzig - Altenburg - Werdau</router-link>
+          <router-link v-if="to !== 'woerlitz' & distanceSlider.value[0] < length100 & distanceSlider.value[1] > length100" :to="'/detail/100'">Leipzig - Altenburg - Werdau</router-link>
         </li>
       </ul>
     </div>
