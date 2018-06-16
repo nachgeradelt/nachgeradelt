@@ -527,6 +527,12 @@
           </a>
         </p>
       </div>
+      <div class="source">
+        <p>
+          aus SLUB Dresden: O. Lehmann, "Großes Tourenbuch für Radfahrer", 1930,
+          <a href="http://digital.slub-dresden.de/werkansicht/dlf/103042/102/">http://digital.slub-dresden.de/werkansicht/dlf/103042/102/</a> (CC-BY-SA 4.0).
+        </p>
+      </div>
     </div>
   </div>
 </template>
