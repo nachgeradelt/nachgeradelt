@@ -1,4 +1,4 @@
-"""Contains all queries for the Flask api""""
+"""Contains all queries for the Flask api"""
 
 SELECTS = {}
 SELECTS['allWaypoints'] = ("select * from waypoints")
