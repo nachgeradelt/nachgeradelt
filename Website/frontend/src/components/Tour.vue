@@ -63,8 +63,9 @@ import {
   LPopup
 } from 'vue2-leaflet'
 import vueSlider from 'vue-slider-component'
-import axios from 'axios'
 import router from '../router/index.js'
+import {route46} from './Route46.js'
+import {route100} from './Route100.js'
 
 function onEachFeature (feature, layer) {
   let popupContent = Vue.extend({
@@ -150,24 +151,11 @@ export default {
     */
   },
   created () {
-    function getRoute46 () {
-      return axios.get('https://api.openrouteservice.org/directions?api_key=5b3ce3597851110001cf6248a7920b3eb8e3406eb56356c8fe69a904&coordinates=12.3811,51.3392|12.376742,51.35116|12.385,51.3686|12.38555,51.36883|12.38442,51.36959|12.3772,51.3844|12.375139,51.392931|12.3736,51.3944|12.3522,51.405483|12.354641,51.43436|12.34035,51.434929|12.34871197,51.4642334|12.343749,51.473375|12.345014284,51.473306515|12.343803717,51.473081294|12.335233574,51.516849639|12.33256,51.523136|12.3289,51.5234|12.342965,51.533736|12.337026736,51.546612394|12.33611111,51.55472222|12.337421908,51.55144916|12.336443078,51.55413301|12.336982159,51.555026303|12.335801,51.564666|12.3443198,51.5738505|12.324718,51.578363|12.335254,51.581803|12.3,51.6|12.300224,51.608563|12.2876557,51.6022269|12.27292778,51.64491389|12.26873,51.66122|12.262589,51.656583|12.268188,51.69029|12.261997,51.691148|12.229865,51.732304|12.2272,51.7567|12.240392,51.786642|12.2267,51.8392|12.2169,51.8564|12.23583,51.863944|12.237728,51.879187|12.27278,51.841041|12.2781,51.845|12.2721,51.8507|12.30247778,51.84348333|12.351422,51.847643|12.42138889,51.84611111|12.4233,51.8481&profile=cycling-road&preference=recommended&format=geojson&units=km&geometry=true&geometry_simplify=false&instructions=false')
-    }
-
-    function getRoute100 () {
-      return axios.get('https://api.openrouteservice.org/directions?api_key=5b3ce3597851110001cf6248a7920b3eb8e3406eb56356c8fe69a904&coordinates=12.3810549,51.3391827|12.324152,51.2182735|12.45,51.1333|12.4340988,50.9852411|12.3890204,50.8153837|12.3763847,50.7361377&profile=cycling-road&preference=recommended&format=geojson&units=km&geometry=true&geometry_simplify=false&instructions=false')
-    }
-
-    axios.all([getRoute46(), getRoute100()])
-      .then(axios.spread((route46, route100) => {
-        // TODO: Add dynamic geojsons
-        this.geojson46 = route46.data
-        this.geojson100 = route100.data
-        // TODO: Add dynamic marker
-        this.markerLeipzig = L.latLng(51.3391827, 12.3810549)
-        this.markerWerdau = L.latLng(50.7361377, 12.3763847)
-        this.markerWoerlitz = L.latLng(51.8481, 12.4233)
-      }))
+    this.geojson46 = route46.route46
+    this.geojson100 = route100.route100
+    this.markerLeipzig = L.latLng(51.3391827, 12.3810549)
+    this.markerWerdau = L.latLng(50.7361377, 12.3763847)
+    this.markerWoerlitz = L.latLng(51.8481, 12.4233)
   }
 }
 </script>
