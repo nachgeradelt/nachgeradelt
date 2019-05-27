@@ -16,10 +16,16 @@ Weitere Quellen in Wikisource:
 
 * Tourenbücher, https://de.wikisource.org/w/index.php?title=Tourenb%C3%BCcherf%C3%BCrRadfahrer
 * Jahrbuch der dt. Radfahrer-vereine 1897, https://de.wikisource.org/wiki/Jahrbuchderdeutschen_Radfahrer-Vereine
-* Liederbuch des Gau 19 Rostock des Deutschen Radfahrer-Bundes, https://de.wikisource.org/wiki/Index:LiederbuchdesGau19RostockdesDeutschenRadfahrer-Bundes1900.pdf 
+* Liederbuch des Gau 19 Rostock des Deutschen Radfahrer-Bundes, https://de.wikisource.org/wiki/Index:LiederbuchdesGau19RostockdesDeutschenRadfahrer-Bundes1900.pdf
 
 ## Projektkommunikation
 
 * [CdV Ost Hackdash](https://hackdash.org/projects/5ad21c1e35377d7f73a9a145)
 * [Etherpad](https://etherpad.gwdg.de/p/Radfahrerwissen)
 * [Trello](https://trello.com/b/KkCvwa9g/das-fahrrad)
+
+## Anmerkungen
+
+Die Demo nutzte zur Berechnung der Routen den Service von [OpenRoute](https://openrouteservice.org/). Der Service nutzt einen eindeutigen Key zur Authentisierung. Dieser Key ist für kostenlose Lizensen allerdings auf 25.000 Anfragen
+begrenzt und wird danach invalide. Damit die Demo unabhängig von diesen Service funktioniert,
+wurden die GeoJson für beide Routen als Konstanten hinterlegt. 
