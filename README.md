@@ -14,9 +14,9 @@ Entlang der Strecken könnten auch die digitalisierten Kulturgüter (z. B. Fotos
 
 Weitere Quellen in Wikisource:
 
-* Tourenbücher, https://de.wikisource.org/w/index.php?title=Tourenb%C3%BCcherf%C3%BCrRadfahrer
-* Jahrbuch der dt. Radfahrer-vereine 1897, https://de.wikisource.org/wiki/Jahrbuchderdeutschen_Radfahrer-Vereine
-* Liederbuch des Gau 19 Rostock des Deutschen Radfahrer-Bundes, https://de.wikisource.org/wiki/Index:LiederbuchdesGau19RostockdesDeutschenRadfahrer-Bundes1900.pdf
+* Tourenbücher, https://de.wikisource.org/wiki/Tourenb%C3%BCcher_f%C3%BCr_Radfahrer
+* Jahrbuch der dt. Radfahrer-vereine 1897, https://de.wikisource.org/wiki/Jahrbuch_der_deutschen_Radfahrer-Vereine
+* Liederbuch des Gau 19 Rostock des Deutschen Radfahrer-Bundes, https://de.wikisource.org/wiki/Liederbuch_des_Gau_19_Rostock_des_Deutschen_Radfahrer-Bundes
 
 ## Projektkommunikation
 
