@@ -9,6 +9,14 @@ Idee: Eine Webanwendung, um diese Behauptung exemplarisch für eine historische 
 Entstehen soll ein Dossier der digitalisierten Geschichte entlang der Tour.
 Entlang der Strecken könnten auch die digitalisierten Kulturgüter (z. B. Fotos vom Flachsanbau in der Lausitz, andere Sammlungen, ...) anderer Datengeber/CdVost-Instititionen verknüpft werden - aber auch bspw. die ortsbezogenen Werbeanzeigen anlang der Strecken: Gastwirtschaften/Bundeshotels, Werkstätten, Fabriken, Handel.
 
+## Output und Dokumentationen
+
+* Nachgeradelt.de : Auf den Spuren historischer Fahrradwege und -touren https://www.youtube.com/watch?v=PXxpIzGcK9M
+* http://leipzig-data.de/anwendungen/ 
+* http://leipzig-data.de/Nachgeradelt
+
+Input:
+
 * Kollektion 'Das Fahrrad': http://digital.slub-dresden.de/kollektionen/185/
 * Datensatz: https://codingdavinci.de/daten/#slub-dresden
 
@@ -18,7 +26,7 @@ Weitere Quellen in Wikisource:
 * Jahrbuch der dt. Radfahrer-vereine 1897, https://de.wikisource.org/wiki/Jahrbuch_der_deutschen_Radfahrer-Vereine
 * Liederbuch des Gau 19 Rostock des Deutschen Radfahrer-Bundes, https://de.wikisource.org/wiki/Liederbuch_des_Gau_19_Rostock_des_Deutschen_Radfahrer-Bundes
 
-## Projektkommunikation
+Projektkommunikation
 
 * [CdV Ost Hackdash](https://hackdash.org/projects/5ad21c1e35377d7f73a9a145)
 * [Etherpad](https://etherpad.gwdg.de/p/Radfahrerwissen)
