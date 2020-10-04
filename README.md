@@ -9,6 +9,7 @@ Idee: Eine Webanwendung, um diese Behauptung exemplarisch für eine historische 
 Entstehen soll ein Dossier der digitalisierten Geschichte entlang der Tour.
 Entlang der Strecken könnten auch die digitalisierten Kulturgüter (z. B. Fotos vom Flachsanbau in der Lausitz, andere Sammlungen, ...) anderer Datengeber/CdVost-Instititionen verknüpft werden - aber auch bspw. die ortsbezogenen Werbeanzeigen anlang der Strecken: Gastwirtschaften/Bundeshotels, Werkstätten, Fabriken, Handel.
 
+* Demo: http://leipzig-data.de/Nachgeradelt/#/
 * Kollektion 'Das Fahrrad': http://digital.slub-dresden.de/kollektionen/185/
 * Datensatz: https://codingdavinci.de/daten/#slub-dresden
 
