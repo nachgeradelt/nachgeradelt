@@ -1,6 +1,6 @@
 # nachgeradelt.de - Coding da Vinci Ost 2018
 
-velo Open Access: Wir machen regionales #Radfahrerwissen machen wieder sichtbar.
+velo Open Access: Wir machen regionales #Radfahrerwissen wieder sichtbar.
 
 Behauptung: die alten Tourenbücher funktionieren noch weitgehend, denn Orte, Wege und Straßen sind meist noch da, wo sie um 1900 waren.
 
@@ -12,8 +12,8 @@ Entlang der Strecken könnten auch die digitalisierten Kulturgüter (z. B. Fotos
 ## Output und Dokumentationen
 
 * Nachgeradelt.de : Auf den Spuren historischer Fahrradwege und -touren https://www.youtube.com/watch?v=PXxpIzGcK9M
-* http://leipzig-data.de/anwendungen/ 
-* http://leipzig-data.de/Nachgeradelt
+* Leipzig Open Data - Projekte: http://leipzig-data.de/anwendungen/ 
+* Demo: http://leipzig-data.de/Nachgeradelt
 
 Input:
 
