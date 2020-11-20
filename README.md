@@ -1,6 +1,6 @@
 # nachgeradelt.de - Coding da Vinci Ost 2018
 
-velo Open Access: Wir machen regionales #Radfahrerwissen machen wieder sichtbar.
+velo Open Access: Wir machen regionales #Radfahrerwissen wieder sichtbar.
 
 Behauptung: die alten Tourenbücher funktionieren noch weitgehend, denn Orte, Wege und Straßen sind meist noch da, wo sie um 1900 waren.
 
